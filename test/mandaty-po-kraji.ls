@@ -4,6 +4,7 @@ require! {
     expect : "expect.js"
     xml: xml2js
     fs
+    mandaty: "../lib/mandaty-po-kraji"
 }
 # iconv = new Iconv 'iso-8859-2' 'utf-8'
 test = it
@@ -25,5 +26,11 @@ describe "Mandaty po krajich" ->
             new Kraj id, nazev, hlasy
         done!
     test 'check data ' ->
-        console.log kraje
         expect kraje .to.not.be null
+        expect kraje .to.have.length 14
+        expect kraje.0 .to.have.property \nazev 'Hl. m. Praha'
+        expect kraje.0 .to.have.property \platneHlasy 637328
+
+    test 'should compute test case correctly' ->
+        result = mandaty.compute kraje, 200, countAccessor: -> it.platneHlasy
+        expect result .to.eql [25 24 13 11 5 14 8 11 10 10 23 12 12 22]

@@ -5,6 +5,7 @@ require! {
 test = it
 class Candidate
     (@name, @preferentialVotes) ->
+
 describe "Preferencni hlasy" ->
     # Olomoucky kraj, 2010 - vykrouzkovani Langera
     # http://www.volby.cz/pls/ps2010/ps111?xjazyk=CZ&xkraj=12&xstrana=26&xv=1&xt=2
@@ -65,6 +66,17 @@ describe "Preferencni hlasy" ->
                 threshold: 0.05
         results.forEach (candidate, index) ->
             expect candidate.name .to.equal candidatesOut[index]
+
+    test "should work with result accessors" -> # zero-based
+        results = prefhlasy.compute do
+            *   candidatesIn
+            *   54769
+            *   voteAccessor: -> it.preferentialVotes
+                threshold: 0.05
+                resultProperty: \poradi
+        results.forEach (candidate, index) ->
+            expect candidate.name .to.equal candidatesOut[index]
+            expect candidate.poradi .to.equal index
 
 
 

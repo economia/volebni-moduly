@@ -15,4 +15,7 @@ module.exports.compute = (candidates, partyVotes, {voteAccessor, threshold}:opti
         votesB = options.voteAccessor b
         votesB - votesA
 
-    preferredCandidates ++ deferredCandidates
+    sortedOutput = preferredCandidates ++ deferredCandidates
+    if options.resultProperty
+        sortedOutput.forEach (candidate, index) -> candidate[that] = index
+    sortedOutput

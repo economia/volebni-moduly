@@ -18,7 +18,11 @@ module.exports.compute = (kraje, mandateCount, options) ->
         mandateRemainders[maxIndex] = 0
         mandatesReceived[maxIndex] += 1
         currentMandateCount += 1
-    mandatesReceived
+    if options.resultProperty
+        kraje.forEach (kraj, index) -> kraj[that] = mandatesReceived[index]
+        kraje
+    else
+        mandatesReceived
 
 
 sum = (sum, curr) -> (sum || 0) + curr

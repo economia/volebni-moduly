@@ -34,3 +34,13 @@ describe "Mandaty po krajich" ->
     test 'should compute test case correctly' ->
         result = mandaty.compute kraje, 200, countAccessor: -> it.platneHlasy
         expect result .to.eql [25 24 13 11 5 14 8 11 10 10 23 12 12 22]
+
+    test 'result accessor should work' ->
+        result = mandaty.compute do
+            *   kraje
+            *   200
+            *   countAccessor: -> it.platneHlasy
+                resultProperty: "mandaty"
+        expect result.0 .to.have.property \mandaty 25
+        expect result.13 .to.have.property \mandaty 22
+

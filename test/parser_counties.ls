@@ -1,7 +1,7 @@
 require! {
     expect : "expect.js"
     fs
-    parser: "../src/parser_krajmesta"
+    parser: "../src/parser_counties"
 }
 test = it
 describe "Parser for counties" ->

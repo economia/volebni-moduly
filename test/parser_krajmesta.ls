@@ -20,3 +20,6 @@ describe "Parser for counties" ->
         expect list .to.have.length 14
         expect list.0 .to.have.property \id 1
         expect list.0 .to.have.property \name "Hl. m. Praha"
+
+    test "should compute vote counts per county" ->
+        expect list.2 .to.have.property \votes 333117

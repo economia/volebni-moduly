@@ -8,6 +8,12 @@ module.exports.parse_county_list = (xmlString, cb) ->
         name = kraj.$.NAZ_KRAJ
         id = +kraj.$.CIS_KRAJ
         votes = +kraj.CELKEM[0].UCAST[0].$.PLATNE_HLASY
-        {id, name, votes}
+        party_votes = {}
+        kraj.CELKEM[0].HLASY_STRANA.forEach (strana) ->
+            id = strana.$.KSTRANA
+            votes = +strana.$.HLASY
+            party_votes[id] = votes
+
+        {id, name, votes, party_votes}
 
 

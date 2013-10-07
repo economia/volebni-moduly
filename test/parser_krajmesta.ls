@@ -23,3 +23,9 @@ describe "Parser for counties" ->
 
     test "should compute vote counts per county" ->
         expect list.2 .to.have.property \votes 333117
+
+    test "should compute raw party results" ->
+        expect list.0 .to.have.property \party_votes
+        expect list.0.party_votes .to.have.property \1 1246
+        expect list.0.party_votes .to.have.property \27 1099
+

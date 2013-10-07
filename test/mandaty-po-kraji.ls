@@ -16,7 +16,7 @@ describe "Mandaty po krajich" ->
         # (err, response, body) <~ request.get "http://www.volby.cz/pls/ps2010/vysledky_krajmesta", encoding: null
         # volbyXml = iconv.convert body
         # (err) <~ fs.writeFile "#__dirname/vysledky_krajmesta.xml" volbyXml
-        (err, volbyXml) <~ fs.readFile "#__dirname/vysledky_krajmesta.xml"
+        (err, volbyXml) <~ fs.readFile "#__dirname/data/vysledky_krajmesta.xml"
         volbyXml .= toString!
         (err, result) <~ xml.parseString volbyXml
         kraje := result["VYSLEDKY_KRAJMESTA"]["KRAJ"].map (kraj) ->

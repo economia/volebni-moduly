@@ -27,3 +27,8 @@ describe "Parser for counties" ->
     test "should combine results" ->
         result := combiner.combine counties, parties, candidates
         expect result .to.be.an \array
+
+    test "counties should have their parties" ->
+        expect result.0 .to.have.property \name "Hl. m. Praha"
+        expect result.0 .to.have.property \parties
+        expect result.0.parties.0 .to.have.property \abbr "ČSSD"

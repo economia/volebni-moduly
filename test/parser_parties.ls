@@ -16,3 +16,12 @@ describe "Parser for parties" ->
     test "should parse the CSV" ->
         list := parser.parse partiesString
         expect list .to.be.an \array
+
+    test "should get all parties" ->
+        expect list .to.have.length 24
+
+    test "parties should have correct properties" ->
+        expect list.0 .to.have.property \id 1
+        expect list.0 .to.have.property \name "Česká strana sociálně demokratická"
+        expect list.0 .to.have.property \abbr "ČSSD"
+

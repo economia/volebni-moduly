@@ -11,11 +11,13 @@ describe "Parser for counties" ->
         (err, volbyXml) <~ fs.readFile "#__dirname/data/vysledky_krajmesta.xml"
         xml := volbyXml.toString!
         done!
+
     test "should parse the XML" (done) ->
         (err, parsedXml) <~ parser.parse_county_list xml
         expect err .to.be null
         list := parsedXml
         done!
+
     test "should produce a list of counties" ->
         expect list .to.have.length 14
         expect list.0 .to.have.property \id 1

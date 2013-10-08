@@ -33,6 +33,9 @@ describe "Parser for counties" ->
         expect result.0 .to.have.property \parties
         expect result.0.parties.0 .to.have.property \abbr "Občané"
 
+    test "parties should have sums of their votes computed" ->
+        expect result.0.parties.0 .to.have.property \votes_sum 13397
+
     test "county parties should have their candidates" ->
         expect result.0.parties.0 .to.have.property \candidates
         candidates = result.0.parties.0.candidates

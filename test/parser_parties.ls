@@ -18,10 +18,10 @@ describe "Parser for parties" ->
         expect list .to.be.an \array
 
     test "should get all parties" ->
-        expect list .to.have.length 24
+        expect list .to.have.length 27
 
     test "parties should have correct properties" ->
         expect list.0 .to.have.property \id 1
-        expect list.0 .to.have.property \name "Česká strana sociálně demokratická"
-        expect list.0 .to.have.property \abbr "ČSSD"
+        expect list.0 .to.have.property \name "OBČANÉ.CZ"
+        expect list.0 .to.have.property \abbr "Občané"
 

@@ -31,12 +31,12 @@ describe "Parser for counties" ->
     test "counties should have their parties" ->
         expect result.0 .to.have.property \name "Hl. m. Praha"
         expect result.0 .to.have.property \parties
-        expect result.0.parties.0 .to.have.property \abbr "ČSSD"
+        expect result.0.parties.0 .to.have.property \abbr "Občané"
 
     test "county parties should have their candidates" ->
         expect result.0.parties.0 .to.have.property \candidates
         candidates = result.0.parties.0.candidates
         expect candidates .to.be.an \array
         expect candidates .to.have.length 36
-        expect candidates.0 .to.have.property \surname "Zavadil"
+        expect candidates.0 .to.have.property \surname "Havlík"
         expect candidates.0 .to.have.property \rank 1

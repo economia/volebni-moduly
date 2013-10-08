@@ -18,16 +18,16 @@ describe "Parser for candidates" ->
         expect list .to.be.an \array
 
     test "should get all candidates" ->
-        expect list .to.have.length 5906
+        expect list .to.have.length 5059
 
     test "candidates should have correct properties" ->
-        expect list.0 .to.have.property \countyId 1
-        expect list.0 .to.have.property \partyId 1
-        expect list.0 .to.have.property \rank 1
-        expect list.0 .to.have.property \surname "Zavadil"
-        expect list.5905 .to.have.property \countyId 14
-        expect list.5905 .to.have.property \partyId 24
-        expect list.5905 .to.have.property \rank 36
-        expect list.5905 .to.have.property \surname "Syslo"
-        expect list.5905 .to.have.property \name "Milan"
+        expect list.0 .to.have.property \countyId 2
+        expect list.0 .to.have.property \partyId 13
+        expect list.0 .to.have.property \rank 27
+        expect list.0 .to.have.property \surname "Zvolánková"
+        expect list.5058 .to.have.property \countyId 2
+        expect list.5058 .to.have.property \partyId 13
+        expect list.5058 .to.have.property \rank 26
+        expect list.5058 .to.have.property \surname "Kotlík"
+        expect list.5058 .to.have.property \name "Pavel"
 

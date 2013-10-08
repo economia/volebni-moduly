@@ -1,25 +1,28 @@
 KSTRANA,N,3,0;VSTRANA,N,3,0;NAZEVCELK,C,120;NAZEV_STRK,C,50;ZKRATKAK30,C,30;ZKRATKAK8,C,8;POCSTRVKO,N,2,0;SLOZENI,C,60;STAVREG,C,14;PLATNOST,N,1,0;SLOZNEPLAT,C,40;POCMANDCR,N,3,0
-1;7;Česká strana sociálně demokratická;Česká strana sociálně demokratická;Česká str.sociálně demokrat.;ČSSD;1;007;00000000000000;0;;
-2;714;Strana svobodných občanů;Strana svobodných občanů;Strana svobodných občanů;Svobodní;1;714;00000000000000;0;;
-3;720;Česká pirátská strana;Česká pirátská strana;Česká pirátská strana;Piráti;1;720;00000000000000;0;;
-4;721;TOP 09;TOP 09;TOP 09;TOP 09;1;721;00000000000000;0;;
-5;192;HLAVU VZHŮRU - volební blok;HLAVU VZHŮRU - volební blok;HLAVU VZHŮRU - volební blok;HLVZHŮRU;1;192;00000000000000;0;;
-6;53;Občanská demokratická strana;Občanská demokratická strana;Občanská demokratická strana;ODS;1;053;00000000000000;0;;
-7;794;Romská demokratická strana;Romská demokratická strana;Romská demokratická strana;RDS;1;794;20222202222222;0;;
-8;40;Klub angažovaných nestraníků;Klub angažovaných nestraníků;Klub angažovaných nestraníků;KAN;1;040;22222222022222;0;;
-9;771;politické hnutí Změna;politické hnutí Změna;politické hnutí Změna;Změna;1;771;00000000000000;0;;
-10;716;Strana soukromníků České republiky;Strana soukromníků České republiky;Strana soukromníků ČR;SsČR;1;716;00000000000000;0;;
-11;1;Křesťanská a demokratická unie - Československá strana lidová;Křesťan.a demokrat.unie-Českosl.strana lidová;Křesť.demokr.unie-Čs.str.lid.;KDU-ČSL;1;001;00000000000000;0;;
-12;98;Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET;Volte Pravý Blok www.cibulka.net;Volte Pr.Blok www.cibulka.net;PB;1;098;02222222222222;0;;
-13;137;Suverenita - Strana zdravého rozumu;Suverenita-Strana zdravého rozumu;Suver.-Strana zdravého rozumu;Suveren.;1;137;00000000000000;0;;
-14;132;Aktiv nezávislých občanů;Aktiv nezávislých občanů;Aktiv nezávislých občanů;ANEO;1;132;00212120101221;0;;
-15;724;Strana Práv Občanů ZEMANOVCI;Strana Práv Občanů ZEMANOVCI;Strana Práv Občanů ZEMANOVCI;SPOZ;1;724;00000000000000;0;;
-16;762;OBČANÉ 2011;OBČANÉ 2011;OBČANÉ 2011;OBČ_2011;1;762;02222222222222;0;;
-17;792;Úsvit přímé demokracie Tomia Okamury;Úsvit přímé demokracie Tomia Okamury;Úsvit přímé demokr.T.Okamury;Úsvit;1;792;00000000000000;0;;
-18;156;Dělnická strana sociální spravedlnosti;Dělnická strana sociální spravedlnosti;Dělnic.str.sociální spravedl.;DSSS;1;156;00000000000000;0;;
-19;76;Československá strana socialistická;Československá strana socialistická;Českosl.strana socialistická;ČSS;1;076;22222222222122;0;;
-20;768;ANO 2011;ANO 2011;ANO 2011;ANO 2011;1;768;00000000000000;0;;
-21;47;Komunistická strana Čech a Moravy;Komunistická strana Čech a Moravy;Komunistická str.Čech a Moravy;KSČM;1;047;00000000000000;0;;
-22;764;LEV 21 - Národní socialisté;LEV 21 - Národní socialisté;LEV 21-Národní socialisté;LEV 21;1;764;00000000000000;0;;
-23;5;Strana zelených;Strana zelených;Strana zelených;SZ;1;005;00000000000000;0;;
-24;55;Koruna Česká (monarchistická strana Čech, Moravy a Slezska);Koruna Česká (monarch.str.Čech, Moravy a Slezska);Koruna Česká (monarch.strana);KČ;1;055;00000022020000;0;;
+1;718;OBČANÉ.CZ;OBČANÉ.CZ;OBČANÉ.CZ;Občané;1;718;00000100000000;0;;0
+2;138;Liberálové.CZ;Liberálové.CZ;Liberálové.CZ;LIB;1;138;20222222222222;0;;0
+3;178;Ježíš je Pán. Nechme se vést Duchem Svatým a ať Ježíš je naším Pánem, www.jezisjepan.cz;Ježíš je Pán, www.jezisjepan.cz;Ježíš je Pán,www.jezisjepan.cz;JežíšPán;1;178;22222222222221;0;;
+4;144;Věci veřejné;Věci veřejné;Věci veřejné;VV;1;144;00000000000000;0;;24
+5;24;Konzervativní strana;Konzervativní strana;Konzervativní strana;KONS;1;024;00000000000000;0;;0
+6;47;Komunistická strana Čech a Moravy;Komunistická strana Čech a Moravy;Komunistická str.Čech a Moravy;KSČM;1;047;00000000000000;0;;26
+7;55;Koruna Česká (monarchistická strana Čech, Moravy a Slezska);Koruna Česká (monarch.str.Čech, Moravy a Slezska);Koruna Česká (monarch.strana);"""KČ""";1;055;00202222220022;0;;0
+8;2;Česká strana národně sociální;Česká strana národně sociální;Česká strana národně sociální;ČSNS;1;002;02222222222222;0;;0
+9;7;Česká strana sociálně demokratická;Česká strana sociálně demokratická;Česká str.sociálně demokrat.;ČSSD;1;007;00000000000000;0;;56
+10;121;NÁRODNÍ PROSPERITA;NÁRODNÍ PROSPERITA;NÁRODNÍ PROSPERITA;NP;1;121;22222202222222;0;;0
+11;11;Sdružení pro republiku-Republikánská strana Československa;Sdružení pro republiku-Republikán.strana Českosl.;Sdruž.pro rep.-Republ.str.Čsl.;SPR-RSČ;1;011;10212102212212;0;;0
+12;83;Moravané;Moravané;Moravané;M;1;083;22222222220000;0;;0
+13;724;Strana Práv Občanů ZEMANOVCI;Strana Práv Občanů ZEMANOVCI;Strana Práv Občanů ZEMANOVCI;SPOZ;1;724;00000000000000;0;;0
+14;723;STOP;STOP;STOP;STOP;1;723;00000000000000;0;;0
+15;721;TOP 09;TOP 09;TOP 09;TOP 09;1;721;00000000000000;0;;41
+16;717;EVROPSKÝ STŘED;EVROPSKÝ STŘED;EVROPSKÝ STŘED;ES;1;717;02022220222222;0;;0
+17;1;Křesťanská a demokratická unie - Československá strana lidová;Křesťan.a demokrat.unie-Českosl.strana lidová;Křesť.demokr.unie-Čs.str.lid.;KDU-ČSL;1;001;00000000000000;0;;0
+18;98;Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET;Volte Pravý Blok www.cibulka.net;Volte Pr.Blok www.cibulka.net;PB;1;098;00000000000000;0;;0
+19;175;Česká strana národně socialistická;Česká strana národně socialistická;Česká str.národ.socialistická;ČSNS2005;1;175;20202222220222;0;;0
+20;5;Strana zelených;Strana zelených;Strana zelených;SZ;1;005;00000000000000;0;;0
+21;137;Suverenita - blok Jany Bobošíkové, strana zdravého rozumu;Suverenita-blok J.Bobošíkové,str.zdravého rozumu;Suverenita-blok J.Bobošíkové;Suveren.;1;137;00000000000000;0;;0
+22;100;Humanistická strana;Humanistická strana;Humanistická strana;HS;1;100;02222222222222;0;;0
+23;720;Česká pirátská strana;Česká pirátská strana;Česká pirátská strana;ČPS;1;720;00000000000000;0;;0
+24;156;Dělnická strana sociální spravedlnosti;Dělnická strana sociální spravedlnosti;Dělnic.str.sociální spravedl.;DSSS;1;156;00000000000000;0;;0
+25;714;Strana svobodných občanů;Strana svobodných občanů;Strana svobodných občanů;Svobodní;1;714;00000000000000;0;;0
+26;53;Občanská demokratická strana;Občanská demokratická strana;Občanská demokratická strana;ODS;1;053;00000000000000;0;;53
+27;199;Klíčové hnutí;Klíčové hnutí;Klíčové hnutí;KH;1;199;02222222222222;0;;0

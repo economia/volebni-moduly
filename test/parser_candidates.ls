@@ -7,15 +7,21 @@ require! {
 test = it
 describe "Parser for candidates" ->
     candidatesString = null
+    preferentialVotesString = null
     list = null
     before (done) ->
         (err, data) <~ fs.readFile "#__dirname/data/kandidati.csv"
         candidatesString := data.toString!
+        (err, data) <~ fs.readFile "#__dirname/data/vysledky_kandid.xml"
+        preferentialVotesString := data.toString!
         done!
 
-    test "should parse the CSV" ->
-        list := parser.parse candidatesString
-        expect list .to.be.an \array
+    test "should parse the CSV" (done) ->
+        (err, result) <~ parser.parse candidatesString, preferentialVotesString
+        expect err .to.be null
+        expect result .to.be.an \array
+        list := result
+        done!
 
     test "should get all candidates" ->
         expect list .to.have.length 5059
@@ -31,3 +37,6 @@ describe "Parser for candidates" ->
         expect list.5058 .to.have.property \surname "Hrabec"
         expect list.5058 .to.have.property \name "Lukáš"
 
+    test "candidates should have their preferential votes computed" ->
+        expect list.0 .to.have.property \votes 162
+        expect list.5058 .to.have.property \votes 3531

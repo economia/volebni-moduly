@@ -67,6 +67,18 @@ describe "Parser for counties" ->
                         throw new Error "Party #{party.name} in #{county.name}
                             has #{party.mandates} mandates, should have 0"
 
+    test "parties should have correct vote counts" ->
+        parties_assoc = {}
+        [1 to 27].forEach -> parties_assoc[it] = 0
+        result.forEach (county) ->
+            county.parties.forEach (party) ->
+                parties_assoc[party.id] += party.mandates
+        expect parties_assoc.4 .to.equal 24
+        expect parties_assoc.6 .to.equal 26
+        expect parties_assoc.9 .to.equal 56
+        expect parties_assoc.15 .to.equal 41
+        expect parties_assoc.26 .to.equal 53
+
     after (done) ->
         (err) <~ fs.writeFile "#__dirname/data/combined.json" JSON.stringify result, null "  "
         throw err if err

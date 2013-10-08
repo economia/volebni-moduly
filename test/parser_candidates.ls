@@ -21,13 +21,13 @@ describe "Parser for candidates" ->
         expect list .to.have.length 5059
 
     test "candidates should have correct properties" ->
-        expect list.0 .to.have.property \countyId 2
-        expect list.0 .to.have.property \partyId 13
-        expect list.0 .to.have.property \rank 27
-        expect list.0 .to.have.property \surname "Zvolánková"
-        expect list.5058 .to.have.property \countyId 2
-        expect list.5058 .to.have.property \partyId 13
-        expect list.5058 .to.have.property \rank 26
-        expect list.5058 .to.have.property \surname "Kotlík"
-        expect list.5058 .to.have.property \name "Pavel"
+        expect list.0 .to.have.property \countyId 1
+        expect list.0 .to.have.property \partyId 1
+        expect list.0 .to.have.property \rank 1
+        expect list.0 .to.have.property \surname "Havlík"
+        expect list.5058 .to.have.property \countyId 14
+        expect list.5058 .to.have.property \partyId 26
+        expect list.5058 .to.have.property \rank 36
+        expect list.5058 .to.have.property \surname "Hrabec"
+        expect list.5058 .to.have.property \name "Lukáš"
 

@@ -34,11 +34,15 @@ module.exports.compute = (counties) ->
                 resultProperty: \mandates
 
 computePartyTotals = (counties, parties_assoc) ->
+    totalVotes = 0
     counties.forEach (county) ->
         county.parties.forEach (party) ->
             return if not party.votes
             globalParty = parties_assoc[party.id]
             globalParty.votes_sum = (globalParty.votes_sum || 0) + party.votes
+            totalVotes += party.votes
+    for id, party of parties_assoc
+        party.votes_percent = party.votes_sum / totalVotes
 
 decorateParty = (party, parties_assoc) ->
     for property, value of parties_assoc[party.id]

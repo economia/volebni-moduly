@@ -1,5 +1,6 @@
 require! {
     mandaty: "../src/mandaty-po-kraji"
+    "../src/dhondt"
 }
 module.exports.combine = (counties, parties, candidates) ->
     counties_assoc = {}
@@ -23,6 +24,14 @@ module.exports.compute = (counties) ->
         *   200
         *   countAccessor: -> it.votes
             resultProperty: \mandates
+
+    counties.forEach (county) ->
+        dhondt.compute do
+            *   county.parties
+            *   county.mandates
+            *   voteAccessor: -> it.votes
+                resultProperty: \mandates
+
 
 
 decorateParty = (party, parties_assoc) ->

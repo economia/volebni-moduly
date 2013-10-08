@@ -46,6 +46,13 @@ describe "Parser for counties" ->
         expect result.0 .to.have.property \mandates 25
         expect result.1 .to.have.property \mandates 24
 
+    test "should assign correct number of mandates to parties" ->
+        prague = result.0
+        expect prague.parties.0 .to.have.property \abbr "Občané"
+        expect prague.parties.0 .to.have.property \mandates 0
+        expect prague.parties.1 .to.have.property \abbr "VV"
+        expect prague.parties.1 .to.have.property \mandates 3
+
     after (done) ->
         (err) <~ fs.writeFile "#__dirname/data/combined.json" JSON.stringify result, null "  "
         throw err if err

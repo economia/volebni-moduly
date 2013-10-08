@@ -82,6 +82,16 @@ describe "Parser for counties" ->
         expect parties_assoc.15 .to.equal 41
         expect parties_assoc.26 .to.equal 53
 
+    test "candidates should have correct rank by preferential votes" ->
+        olomouc = result.11
+        expect olomouc.name .to.equal "Olomoucký"
+        ods = olomouc.parties.17
+        expect ods.abbr .to.equal \ODS
+        votedIn = ods.candidates
+            .filter -> it.mandate == true
+            .map -> it.surname
+        expect votedIn .to.eql ["Boháč" "Fiala"]
+
     after (done) ->
         (err) <~ fs.writeFile "#__dirname/data/combined.json" JSON.stringify result, null "  "
         throw err if err

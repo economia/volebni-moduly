@@ -1,5 +1,6 @@
 require! {
     mandaty: "../src/mandaty-po-kraji"
+    prefhlasy: "../src/preferencni-hlasy"
     "../src/dhondt"
 }
 module.exports.combine = (counties, parties, candidates) ->
@@ -34,6 +35,20 @@ module.exports.compute = (counties, mandates = 200, quorum = 0.05) ->
             *   county.mandates
             *   voteAccessor: -> it.votes
                 resultProperty: \mandates
+        county.parties.forEach (party) ->
+            prefhlasy.compute do
+                *   party.candidates
+                *   party.votes
+                *   voteAccessor: -> it.votes
+                    threshold: quorum
+                    resultProperty: \votedRank
+            party.candidates.sort (a, b) ->
+                | a.votedRank - b.votedRank => that
+                | otherwise                 => a.rank - b.rank
+            remainingMandates = party.mandates
+            party.candidates.forEach ->
+                it.mandate = remainingMandates > 0
+                --remainingMandates
 
 computePartyTotals = (counties, parties_assoc) ->
     totalVotes = 0

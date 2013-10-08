@@ -1,3 +1,6 @@
+require! {
+    mandaty: "../src/mandaty-po-kraji"
+}
 module.exports.combine = (counties, parties, candidates) ->
     counties_assoc = {}
     parties_assoc = {}
@@ -13,6 +16,14 @@ module.exports.combine = (counties, parties, candidates) ->
         county_party_candidates_assoc["#{candidate.countyId}-#{candidate.partyId}"].push candidate
 
     counties
+
+module.exports.compute = (counties) ->
+    mandaty.compute do
+        *   counties
+        *   200
+        *   countAccessor: -> it.votes
+            resultProperty: \mandates
+
 
 decorateParty = (party, parties_assoc) ->
     for property, value of parties_assoc[party.id]

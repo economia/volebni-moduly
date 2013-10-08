@@ -40,3 +40,13 @@ describe "Parser for counties" ->
         expect candidates .to.have.length 36
         expect candidates.0 .to.have.property \surname "Havlík"
         expect candidates.0 .to.have.property \rank 1
+
+    test "should assign correct number of mandates" ->
+        combiner.compute result
+        expect result.0 .to.have.property \mandates 25
+        expect result.1 .to.have.property \mandates 24
+
+    after (done) ->
+        (err) <~ fs.writeFile "#__dirname/data/combined.json" JSON.stringify result, null "  "
+        throw err if err
+        done!

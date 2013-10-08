@@ -888,7 +888,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 21914
       },
       {
         "id": 5,
@@ -1558,7 +1559,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 20823.5
       },
       {
         "id": 7,
@@ -2551,7 +2553,9 @@
             "mandate": false
           }
         ],
-        "mandates": 4
+        "mandates": 4,
+        "lowestScore": 24176.5,
+        "requiredVotes": 2052.7499999999964
       },
       {
         "id": 13,
@@ -3580,7 +3584,8 @@
             "mandate": false
           }
         ],
-        "mandates": 8
+        "mandates": 8,
+        "lowestScore": 21730
       },
       {
         "id": 16,
@@ -7230,7 +7235,8 @@
             "mandate": false
           }
         ],
-        "mandates": 8
+        "mandates": 8,
+        "lowestScore": 19751.75
       },
       {
         "id": 27,
@@ -8266,7 +8272,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 22533.666666666668
       },
       {
         "id": 5,
@@ -8804,7 +8811,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 23122.666666666668
       },
       {
         "id": 7,
@@ -9426,7 +9434,8 @@
             "mandate": false
           }
         ],
-        "mandates": 6
+        "mandates": 6,
+        "lowestScore": 21561.333333333332
       },
       {
         "id": 11,
@@ -10826,7 +10835,8 @@
             "mandate": false
           }
         ],
-        "mandates": 5
+        "mandates": 5,
+        "lowestScore": 22173
       },
       {
         "id": 17,
@@ -14213,7 +14223,8 @@
             "mandate": false
           }
         ],
-        "mandates": 7
+        "mandates": 7,
+        "lowestScore": 21495
       }
     ],
     "mandates": 24
@@ -14771,7 +14782,9 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 35541,
+        "requiredVotes": 45.5
       },
       {
         "id": 5,
@@ -15069,7 +15082,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 20369
       },
       {
         "id": 9,
@@ -15344,7 +15358,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 22822.666666666668
       },
       {
         "id": 13,
@@ -15989,7 +16004,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 19312.333333333332
       },
       {
         "id": 16,
@@ -17960,7 +17976,8 @@
             "mandate": false
           }
         ],
-        "mandates": 4
+        "mandates": 4,
+        "lowestScore": 17793.25
       }
     ],
     "mandates": 13
@@ -18470,7 +18487,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 27378
       },
       {
         "id": 5,
@@ -18756,7 +18774,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 17538.5
       },
       {
         "id": 7,
@@ -19258,7 +19277,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 20562.666666666668
       },
       {
         "id": 13,
@@ -19843,7 +19863,9 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 23792,
+        "requiredVotes": 5031.499999999998
       },
       {
         "id": 17,
@@ -21814,7 +21836,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 19751
       }
     ],
     "mandates": 11
@@ -22180,7 +22203,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 15404
       },
       {
         "id": 5,
@@ -22382,7 +22406,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 17015
       },
       {
         "id": 9,
@@ -22561,7 +22586,9 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 30324,
+        "requiredVotes": 484
       },
       {
         "id": 13,
@@ -23014,7 +23041,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 21096
       },
       {
         "id": 17,
@@ -24314,7 +24342,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 23037
       }
     ],
     "mandates": 5
@@ -24645,7 +24674,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 21293.5
       },
       {
         "id": 5,
@@ -25015,7 +25045,9 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 24950,
+        "requiredVotes": 4828.4000000000015
       },
       {
         "id": 9,
@@ -25338,7 +25370,8 @@
             "mandate": false
           }
         ],
-        "mandates": 5
+        "mandates": 5,
+        "lowestScore": 18242.8
       },
       {
         "id": 13,
@@ -26127,7 +26160,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 24272.5
       },
       {
         "id": 17,
@@ -28399,7 +28433,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 21201.666666666668
       }
     ],
     "mandates": 14
@@ -28801,7 +28836,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 27374
       },
       {
         "id": 5,
@@ -29159,7 +29195,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 22086
       },
       {
         "id": 9,
@@ -29374,7 +29411,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 20756
       },
       {
         "id": 10,
@@ -30149,7 +30187,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 20797
       },
       {
         "id": 17,
@@ -31605,7 +31644,9 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 21894.5,
+        "requiredVotes": 18479
       }
     ],
     "mandates": 8
@@ -32115,7 +32156,9 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 35425,
+        "requiredVotes": 1651.6666666666642
       },
       {
         "id": 5,
@@ -32437,7 +32480,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 30791
       },
       {
         "id": 9,
@@ -32688,7 +32732,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 19142.333333333332
       },
       {
         "id": 13,
@@ -33285,7 +33330,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 18538.333333333332
       },
       {
         "id": 16,
@@ -35040,7 +35086,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 19388.333333333332
       }
     ],
     "mandates": 11
@@ -35526,7 +35573,9 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 31265,
+        "requiredVotes": 3548.3333333333358
       },
       {
         "id": 5,
@@ -35824,7 +35873,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 30161
       },
       {
         "id": 9,
@@ -36063,7 +36113,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 19680
       },
       {
         "id": 13,
@@ -36636,7 +36687,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 20779
       },
       {
         "id": 17,
@@ -38320,7 +38372,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 17406.666666666668
       }
     ],
     "mandates": 10
@@ -38830,7 +38883,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 26851
       },
       {
         "id": 5,
@@ -39164,7 +39218,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 18174.5
       },
       {
         "id": 9,
@@ -39415,7 +39470,9 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 21162,
+        "requiredVotes": 9212
       },
       {
         "id": 13,
@@ -40012,7 +40069,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 19433
       },
       {
         "id": 17,
@@ -41828,7 +41886,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 23328.5
       }
     ],
     "mandates": 10
@@ -42674,7 +42733,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 19417
       },
       {
         "id": 5,
@@ -43440,7 +43500,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 23192.333333333332
       },
       {
         "id": 7,
@@ -44122,7 +44183,8 @@
             "mandate": false
           }
         ],
-        "mandates": 7
+        "mandates": 7,
+        "lowestScore": 19925.14285714286
       },
       {
         "id": 12,
@@ -45510,7 +45572,9 @@
             "mandate": false
           }
         ],
-        "mandates": 4
+        "mandates": 4,
+        "lowestScore": 22858.25,
+        "requiredVotes": 501.1666666666679
       },
       {
         "id": 17,
@@ -48705,7 +48769,8 @@
             "mandate": false
           }
         ],
-        "mandates": 6
+        "mandates": 6,
+        "lowestScore": 18386.833333333332
       }
     ],
     "mandates": 23
@@ -49287,7 +49352,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 18714.5
       },
       {
         "id": 5,
@@ -49765,7 +49831,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 21219
       },
       {
         "id": 7,
@@ -50339,7 +50406,8 @@
             "mandate": false
           }
         ],
-        "mandates": 4
+        "mandates": 4,
+        "lowestScore": 19696.5
       },
       {
         "id": 12,
@@ -51319,7 +51387,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 21758
       },
       {
         "id": 17,
@@ -53195,7 +53264,9 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 27384.5,
+        "requiredVotes": 1374.5000000000036
       }
     ],
     "mandates": 12
@@ -53753,7 +53824,8 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 29984
       },
       {
         "id": 5,
@@ -54183,7 +54255,9 @@
             "mandate": false
           }
         ],
-        "mandates": 1
+        "mandates": 1,
+        "lowestScore": 30991,
+        "requiredVotes": 1120
       },
       {
         "id": 9,
@@ -54458,7 +54532,8 @@
             "mandate": false
           }
         ],
-        "mandates": 4
+        "mandates": 4,
+        "lowestScore": 16922.75
       },
       {
         "id": 12,
@@ -55390,7 +55465,8 @@
             "mandate": false
           }
         ],
-        "mandates": 2
+        "mandates": 2,
+        "lowestScore": 21514
       },
       {
         "id": 17,
@@ -57206,7 +57282,8 @@
             "mandate": false
           }
         ],
-        "mandates": 4
+        "mandates": 4,
+        "lowestScore": 16055.5
       }
     ],
     "mandates": 12
@@ -58100,7 +58177,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 22765
       },
       {
         "id": 5,
@@ -58986,7 +59064,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 24542.333333333332
       },
       {
         "id": 9,
@@ -59429,7 +59508,9 @@
             "mandate": false
           }
         ],
-        "mandates": 8
+        "mandates": 8,
+        "lowestScore": 21260.125,
+        "requiredVotes": 4986.999999999985
       },
       {
         "id": 12,
@@ -60637,7 +60718,8 @@
             "mandate": false
           }
         ],
-        "mandates": 3
+        "mandates": 3,
+        "lowestScore": 19452
       },
       {
         "id": 17,
@@ -63509,7 +63591,8 @@
             "mandate": false
           }
         ],
-        "mandates": 5
+        "mandates": 5,
+        "lowestScore": 20420.4
       }
     ],
     "mandates": 22

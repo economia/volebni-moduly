@@ -3,7 +3,7 @@
     [
         {
             "path": "./",
-            "file_exclude_patterns": ["*.sublime-workspace",".placeholder", "screen.css", "script.js"],
+            "file_exclude_patterns": ["*.sublime-workspace",".placeholder", "screen.css", "*.js"],
             "folder_exclude_patterns": ["node_modules", "www/js"]
         }
     ],

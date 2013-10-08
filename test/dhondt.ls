@@ -65,11 +65,14 @@ describe \DHondt ->
             *   votes: 51
         ]
         mandates = 2
-        result = dhondt.compute do
+        dhondt.compute do
             *   votes
             *   mandates
             *   voteAccessor: (.votes)
                 resultProperty: \result
-                requiredVotesProperty: \required
-
-        expect votes.0 .to.have.property \required 2
+                lowestScoreProperty: \lowestScore
+                requiredScoreProperty: \requiredScore
+                requiredVotesProperty: \requiredVotes
+        expect votes.0 .to.have.property \requiredScore 1
+        expect votes.0 .to.have.property \requiredVotes 2
+        expect votes.1 .to.have.property \lowestScore 51

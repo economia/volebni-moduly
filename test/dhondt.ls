@@ -58,3 +58,18 @@ describe \DHondt ->
         mandates = 2
         result = dhondt.compute votes, mandates, base: 1.42
         expect result .to.eql [2 0 0]
+
+    test "should compute the party that is closest to getting a seat" ->
+        votes = [
+            *   votes: 100
+            *   votes: 51
+        ]
+        mandates = 2
+        result = dhondt.compute do
+            *   votes
+            *   mandates
+            *   voteAccessor: (.votes)
+                resultProperty: \result
+                requiredVotesProperty: \required
+
+        expect votes.0 .to.have.property \required 2

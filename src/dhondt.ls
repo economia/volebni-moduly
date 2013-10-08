@@ -11,14 +11,22 @@ module.exports.compute = (partyArray, mandateCount, options = {}) ->
     dividers.forEach (divider) ->
         votes.forEach (voteCount, index) ->
             score = voteCount / divider
-            scores.push {score, index}
-    scores.sort (a, b) -> b.score - a.score
+            scores.push {score, index, divider}
+    scores.sort (a, b) ->
+        | b.score - a.score => that
+        | a.index - b.index => that
+        | otherwise         => 0
     mandatesAwarded = 0
-    for {score, index} in scores
+    for {score, index, divider}, scoreIndex in scores
         if mandatesAwarded < mandateCount
             mandates[index]++
             if options.resultProperty then partyArray[index][that]++
-            mandatesAwarded++
+        else if mandatesAwarded == mandateCount
+            break if not options.requiredVotesProperty
+            lastScore = scores[scoreIndex - 1]
+            scoreDiff = lastScore.score - score
+            partyArray[index][options.requiredVotesProperty] = scoreDiff * divider
         else
             break
+        mandatesAwarded++
     mandates

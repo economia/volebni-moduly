@@ -59,6 +59,14 @@ describe "Parser for counties" ->
         expect prague.parties.1 .to.have.property \abbr "VV"
         expect prague.parties.1 .to.have.property \mandates 3
 
+    test "should assign no mandates to parties under 5%" ->
+        result.forEach (county) ->
+            county.parties.forEach (party) ->
+                if party.id not in [4 6 9 15 26]
+                    if party.mandates > 0
+                        throw new Error "Party #{party.name} in #{county.name}
+                            has #{party.mandates} mandates, should have 0"
+
     after (done) ->
         (err) <~ fs.writeFile "#__dirname/data/combined.json" JSON.stringify result, null "  "
         throw err if err

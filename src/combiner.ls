@@ -19,16 +19,18 @@ module.exports.combine = (counties, parties, candidates) ->
 
     counties
 
-module.exports.compute = (counties) ->
+module.exports.compute = (counties, mandates = 200, quorum = 0.05) ->
     mandaty.compute do
         *   counties
-        *   200
+        *   mandates
         *   countAccessor: -> it.votes
             resultProperty: \mandates
 
     counties.forEach (county) ->
+        county.parties.forEach -> it.mandates = 0
+        partiesAboveQuorum = county.parties.filter -> it.votes_percent >= quorum
         dhondt.compute do
-            *   county.parties
+            *   partiesAboveQuorum
             *   county.mandates
             *   voteAccessor: -> it.votes
                 resultProperty: \mandates

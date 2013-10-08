@@ -29,7 +29,7 @@ module.exports.compute = (counties, mandates = 200, quorum = 0.05) ->
 
     counties.forEach (county) ->
         county.parties.forEach -> it.mandates = 0
-        partiesAboveQuorum = county.parties.filter -> it.votes_percent >= quorum
+        partiesAboveQuorum = county.parties.filter -> it.votes_sum_percent >= quorum
         dhondt.compute do
             *   partiesAboveQuorum
             *   county.mandates
@@ -61,7 +61,7 @@ computePartyTotals = (counties, parties_assoc) ->
             globalParty.votes_sum = (globalParty.votes_sum || 0) + party.votes
             totalVotes += party.votes
     for id, party of parties_assoc
-        party.votes_percent = party.votes_sum / totalVotes
+        party.votes_sum_percent = party.votes_sum / totalVotes
 
 decorateParty = (party, parties_assoc) ->
     for property, value of parties_assoc[party.id]

@@ -10,7 +10,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 1,
@@ -453,7 +453,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 1,
@@ -897,7 +897,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 1,
@@ -1124,7 +1124,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 1,
@@ -1568,7 +1568,7 @@
         "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
         "abbr": "\"\"\"KČ\"\"\"",
         "votes_sum": 4024,
-        "votes_percent": 0.0007692809154289955,
+        "votes_sum_percent": 0.0007692809154289955,
         "candidates": [
           {
             "countyId": 1,
@@ -1855,7 +1855,7 @@
         "name": "Česká strana národně sociální",
         "abbr": "ČSNS",
         "votes_sum": 295,
-        "votes_percent": 0.0000563960909670859,
+        "votes_sum_percent": 0.0000563960909670859,
         "candidates": [
           {
             "countyId": 1,
@@ -2118,7 +2118,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 1,
@@ -2563,7 +2563,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 1,
@@ -3006,7 +3006,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 1,
@@ -3161,7 +3161,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 1,
@@ -3593,7 +3593,7 @@
         "name": "EVROPSKÝ STŘED",
         "abbr": "ES",
         "votes_sum": 522,
-        "votes_percent": 0.00009979240503328421,
+        "votes_sum_percent": 0.00009979240503328421,
         "candidates": [
           {
             "countyId": 1,
@@ -3676,7 +3676,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 1,
@@ -4119,7 +4119,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 1,
@@ -4562,7 +4562,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 1,
@@ -5005,7 +5005,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 1,
@@ -5448,7 +5448,7 @@
         "name": "Humanistická strana",
         "abbr": "HS",
         "votes_sum": 552,
-        "votes_percent": 0.00010552760072485226,
+        "votes_sum_percent": 0.00010552760072485226,
         "candidates": [
           {
             "countyId": 1,
@@ -5807,7 +5807,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 1,
@@ -5974,7 +5974,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 1,
@@ -6405,7 +6405,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 1,
@@ -6800,7 +6800,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 1,
@@ -7244,7 +7244,7 @@
         "name": "Klíčové hnutí",
         "abbr": "KH",
         "votes_sum": 1099,
-        "votes_percent": 0.00021009933550110985,
+        "votes_sum_percent": 0.00021009933550110985,
         "candidates": [
           {
             "countyId": 1,
@@ -7419,7 +7419,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 2,
@@ -7814,7 +7814,7 @@
         "name": "Liberálové.CZ",
         "abbr": "LIB",
         "votes_sum": 260,
-        "votes_percent": 0.000049705029326923166,
+        "votes_sum_percent": 0.000049705029326923166,
         "candidates": [
           {
             "countyId": 2,
@@ -7861,7 +7861,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 2,
@@ -8281,7 +8281,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 2,
@@ -8400,7 +8400,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 2,
@@ -8820,7 +8820,7 @@
         "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
         "abbr": "\"\"\"KČ\"\"\"",
         "votes_sum": 4024,
-        "votes_percent": 0.0007692809154289955,
+        "votes_sum_percent": 0.0007692809154289955,
         "candidates": [
           {
             "countyId": 2,
@@ -9023,7 +9023,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 2,
@@ -9443,7 +9443,7 @@
         "name": "Sdružení pro republiku-Republikánská strana Československa",
         "abbr": "SPR-RSČ",
         "votes_sum": 1993,
-        "votes_percent": 0.00038100816710983797,
+        "votes_sum_percent": 0.00038100816710983797,
         "candidates": [
           {
             "countyId": 2,
@@ -9862,7 +9862,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 2,
@@ -10281,7 +10281,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 2,
@@ -10424,7 +10424,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 2,
@@ -10844,7 +10844,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 2,
@@ -11263,7 +11263,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 2,
@@ -11682,7 +11682,7 @@
         "name": "Česká strana národně socialistická",
         "abbr": "ČSNS2005",
         "votes_sum": 1371,
-        "votes_percent": 0.0002620984431046603,
+        "votes_sum_percent": 0.0002620984431046603,
         "candidates": [
           {
             "countyId": 2,
@@ -12101,7 +12101,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 2,
@@ -12520,7 +12520,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 2,
@@ -12939,7 +12939,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 2,
@@ -13070,7 +13070,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 2,
@@ -13489,7 +13489,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 2,
@@ -13812,7 +13812,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 2,
@@ -14240,7 +14240,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 3,
@@ -14515,7 +14515,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 3,
@@ -14792,7 +14792,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 3,
@@ -14815,7 +14815,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 3,
@@ -15091,7 +15091,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 3,
@@ -15367,7 +15367,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 3,
@@ -15642,7 +15642,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 3,
@@ -15737,7 +15737,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 3,
@@ -16013,7 +16013,7 @@
         "name": "EVROPSKÝ STŘED",
         "abbr": "ES",
         "votes_sum": 522,
-        "votes_percent": 0.00009979240503328421,
+        "votes_sum_percent": 0.00009979240503328421,
         "candidates": [
           {
             "countyId": 3,
@@ -16060,7 +16060,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 3,
@@ -16335,7 +16335,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 3,
@@ -16586,7 +16586,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 3,
@@ -16861,7 +16861,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 3,
@@ -17136,7 +17136,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 3,
@@ -17219,7 +17219,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 3,
@@ -17494,7 +17494,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 3,
@@ -17709,7 +17709,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 3,
@@ -17993,7 +17993,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 4,
@@ -18244,7 +18244,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 4,
@@ -18496,7 +18496,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 4,
@@ -18531,7 +18531,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 4,
@@ -18783,7 +18783,7 @@
         "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
         "abbr": "\"\"\"KČ\"\"\"",
         "votes_sum": 4024,
-        "votes_percent": 0.0007692809154289955,
+        "votes_sum_percent": 0.0007692809154289955,
         "candidates": [
           {
             "countyId": 4,
@@ -19034,7 +19034,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 4,
@@ -19286,7 +19286,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 4,
@@ -19525,7 +19525,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 4,
@@ -19620,7 +19620,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 4,
@@ -19873,7 +19873,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 4,
@@ -20124,7 +20124,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 4,
@@ -20363,7 +20363,7 @@
         "name": "Česká strana národně socialistická",
         "abbr": "ČSNS2005",
         "votes_sum": 1371,
-        "votes_percent": 0.0002620984431046603,
+        "votes_sum_percent": 0.0002620984431046603,
         "candidates": [
           {
             "countyId": 4,
@@ -20614,7 +20614,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 4,
@@ -20865,7 +20865,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 4,
@@ -21116,7 +21116,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 4,
@@ -21271,7 +21271,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 4,
@@ -21522,7 +21522,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 4,
@@ -21593,7 +21593,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 4,
@@ -21853,7 +21853,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 5,
@@ -22032,7 +22032,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 5,
@@ -22212,7 +22212,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 5,
@@ -22235,7 +22235,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 5,
@@ -22415,7 +22415,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 5,
@@ -22596,7 +22596,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 5,
@@ -22775,7 +22775,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 5,
@@ -22870,7 +22870,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 5,
@@ -23050,7 +23050,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 5,
@@ -23229,7 +23229,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 5,
@@ -23396,7 +23396,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 5,
@@ -23575,7 +23575,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 5,
@@ -23754,7 +23754,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 5,
@@ -23861,7 +23861,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 5,
@@ -24040,7 +24040,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 5,
@@ -24171,7 +24171,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 5,
@@ -24359,7 +24359,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 6,
@@ -24683,7 +24683,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 6,
@@ -24730,7 +24730,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 6,
@@ -25055,7 +25055,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 6,
@@ -25379,7 +25379,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 6,
@@ -25702,7 +25702,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 6,
@@ -25845,7 +25845,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 6,
@@ -26169,7 +26169,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 6,
@@ -26492,7 +26492,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 6,
@@ -26803,7 +26803,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 6,
@@ -27126,7 +27126,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 6,
@@ -27449,7 +27449,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 6,
@@ -27580,7 +27580,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 6,
@@ -27903,7 +27903,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 6,
@@ -28118,7 +28118,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 6,
@@ -28450,7 +28450,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 7,
@@ -28629,7 +28629,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 7,
@@ -28845,7 +28845,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 7,
@@ -28988,7 +28988,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 7,
@@ -29204,7 +29204,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 7,
@@ -29420,7 +29420,7 @@
         "name": "NÁRODNÍ PROSPERITA",
         "abbr": "NP",
         "votes_sum": 186,
-        "votes_percent": 0.00003555821328772196,
+        "votes_sum_percent": 0.00003555821328772196,
         "candidates": [
           {
             "countyId": 7,
@@ -29443,7 +29443,7 @@
         "name": "Sdružení pro republiku-Republikánská strana Československa",
         "abbr": "SPR-RSČ",
         "votes_sum": 1993,
-        "votes_percent": 0.00038100816710983797,
+        "votes_sum_percent": 0.00038100816710983797,
         "candidates": [
           {
             "countyId": 7,
@@ -29658,7 +29658,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 7,
@@ -29873,7 +29873,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 7,
@@ -29980,7 +29980,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 7,
@@ -30196,7 +30196,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 7,
@@ -30411,7 +30411,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 7,
@@ -30614,7 +30614,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 7,
@@ -30829,7 +30829,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 7,
@@ -31044,7 +31044,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 7,
@@ -31151,7 +31151,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 7,
@@ -31366,7 +31366,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 7,
@@ -31437,7 +31437,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 7,
@@ -31662,7 +31662,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 8,
@@ -31913,7 +31913,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 8,
@@ -32166,7 +32166,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 8,
@@ -32237,7 +32237,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 8,
@@ -32489,7 +32489,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 8,
@@ -32741,7 +32741,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 8,
@@ -32992,7 +32992,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 8,
@@ -33087,7 +33087,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 8,
@@ -33339,7 +33339,7 @@
         "name": "EVROPSKÝ STŘED",
         "abbr": "ES",
         "votes_sum": 522,
-        "votes_percent": 0.00009979240503328421,
+        "votes_sum_percent": 0.00009979240503328421,
         "candidates": [
           {
             "countyId": 8,
@@ -33410,7 +33410,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 8,
@@ -33661,7 +33661,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 8,
@@ -33900,7 +33900,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 8,
@@ -34151,7 +34151,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 8,
@@ -34402,7 +34402,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 8,
@@ -34461,7 +34461,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 8,
@@ -34712,7 +34712,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 8,
@@ -34843,7 +34843,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 8,
@@ -35103,7 +35103,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 9,
@@ -35342,7 +35342,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 9,
@@ -35583,7 +35583,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 9,
@@ -35642,7 +35642,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 9,
@@ -35882,7 +35882,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 9,
@@ -36122,7 +36122,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 9,
@@ -36361,7 +36361,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 9,
@@ -36456,7 +36456,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 9,
@@ -36696,7 +36696,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 9,
@@ -36935,7 +36935,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 9,
@@ -37150,7 +37150,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 9,
@@ -37389,7 +37389,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 9,
@@ -37628,7 +37628,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 9,
@@ -37759,7 +37759,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 9,
@@ -37998,7 +37998,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 9,
@@ -38141,7 +38141,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 9,
@@ -38389,7 +38389,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 10,
@@ -38640,7 +38640,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 10,
@@ -38892,7 +38892,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 10,
@@ -38975,7 +38975,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 10,
@@ -39227,7 +39227,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 10,
@@ -39480,7 +39480,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 10,
@@ -39731,7 +39731,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 10,
@@ -39826,7 +39826,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 10,
@@ -40078,7 +40078,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 10,
@@ -40329,7 +40329,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 10,
@@ -40568,7 +40568,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 10,
@@ -40819,7 +40819,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 10,
@@ -41070,7 +41070,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 10,
@@ -41177,7 +41177,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 10,
@@ -41428,7 +41428,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 10,
@@ -41643,7 +41643,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 10,
@@ -41903,7 +41903,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 11,
@@ -42322,7 +42322,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 11,
@@ -42742,7 +42742,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 11,
@@ -43089,7 +43089,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 11,
@@ -43509,7 +43509,7 @@
         "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
         "abbr": "\"\"\"KČ\"\"\"",
         "votes_sum": 4024,
-        "votes_percent": 0.0007692809154289955,
+        "votes_sum_percent": 0.0007692809154289955,
         "candidates": [
           {
             "countyId": 11,
@@ -43772,7 +43772,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 11,
@@ -44192,7 +44192,7 @@
         "name": "Moravané",
         "abbr": "M",
         "votes_sum": 11914,
-        "votes_percent": 0.0022776373823113947,
+        "votes_sum_percent": 0.0022776373823113947,
         "candidates": [
           {
             "countyId": 11,
@@ -44611,7 +44611,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 11,
@@ -45030,7 +45030,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 11,
@@ -45161,7 +45161,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 11,
@@ -45582,7 +45582,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 11,
@@ -46001,7 +46001,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 11,
@@ -46396,7 +46396,7 @@
         "name": "Česká strana národně socialistická",
         "abbr": "ČSNS2005",
         "votes_sum": 1371,
-        "votes_percent": 0.0002620984431046603,
+        "votes_sum_percent": 0.0002620984431046603,
         "candidates": [
           {
             "countyId": 11,
@@ -46815,7 +46815,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 11,
@@ -47234,7 +47234,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 11,
@@ -47653,7 +47653,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 11,
@@ -47844,7 +47844,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 11,
@@ -48263,7 +48263,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 11,
@@ -48358,7 +48358,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 11,
@@ -48786,7 +48786,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 12,
@@ -49073,7 +49073,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 12,
@@ -49361,7 +49361,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 12,
@@ -49552,7 +49552,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 12,
@@ -49840,7 +49840,7 @@
         "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
         "abbr": "\"\"\"KČ\"\"\"",
         "votes_sum": 4024,
-        "votes_percent": 0.0007692809154289955,
+        "votes_sum_percent": 0.0007692809154289955,
         "candidates": [
           {
             "countyId": 12,
@@ -50127,7 +50127,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 12,
@@ -50415,7 +50415,7 @@
         "name": "Moravané",
         "abbr": "M",
         "votes_sum": 11914,
-        "votes_percent": 0.0022776373823113947,
+        "votes_sum_percent": 0.0022776373823113947,
         "candidates": [
           {
             "countyId": 12,
@@ -50702,7 +50702,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 12,
@@ -50989,7 +50989,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 12,
@@ -51108,7 +51108,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 12,
@@ -51396,7 +51396,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 12,
@@ -51683,7 +51683,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 12,
@@ -51898,7 +51898,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 12,
@@ -52185,7 +52185,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 12,
@@ -52472,7 +52472,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 12,
@@ -52579,7 +52579,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 12,
@@ -52866,7 +52866,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 12,
@@ -52997,7 +52997,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 12,
@@ -53282,7 +53282,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 13,
@@ -53557,7 +53557,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 13,
@@ -53833,7 +53833,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 13,
@@ -53988,7 +53988,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 13,
@@ -54265,7 +54265,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 13,
@@ -54541,7 +54541,7 @@
         "name": "Moravané",
         "abbr": "M",
         "votes_sum": 11914,
-        "votes_percent": 0.0022776373823113947,
+        "votes_sum_percent": 0.0022776373823113947,
         "candidates": [
           {
             "countyId": 13,
@@ -54816,7 +54816,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 13,
@@ -55091,7 +55091,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 13,
@@ -55198,7 +55198,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 13,
@@ -55474,7 +55474,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 13,
@@ -55749,7 +55749,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 13,
@@ -55928,7 +55928,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 13,
@@ -56203,7 +56203,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 13,
@@ -56478,7 +56478,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 13,
@@ -56657,7 +56657,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 13,
@@ -56932,7 +56932,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 13,
@@ -57015,7 +57015,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 13,
@@ -57299,7 +57299,7 @@
         "name": "OBČANÉ.CZ",
         "abbr": "Občané",
         "votes_sum": 13397,
-        "votes_percent": 0.0025611472226645757,
+        "votes_sum_percent": 0.0025611472226645757,
         "candidates": [
           {
             "countyId": 14,
@@ -57742,7 +57742,7 @@
         "name": "Věci veřejné",
         "abbr": "VV",
         "votes_sum": 569127,
-        "votes_percent": 0.10880182394516848,
+        "votes_sum_percent": 0.10880182394516848,
         "candidates": [
           {
             "countyId": 14,
@@ -58186,7 +58186,7 @@
         "name": "Konzervativní strana",
         "abbr": "KONS",
         "votes_sum": 4232,
-        "votes_percent": 0.0008090449388905341,
+        "votes_sum_percent": 0.0008090449388905341,
         "candidates": [
           {
             "countyId": 14,
@@ -58629,7 +58629,7 @@
         "name": "Komunistická strana Čech a Moravy",
         "abbr": "KSČM",
         "votes_sum": 589765,
-        "votes_percent": 0.11274725623458785,
+        "votes_sum_percent": 0.11274725623458785,
         "candidates": [
           {
             "countyId": 14,
@@ -59073,7 +59073,7 @@
         "name": "Česká strana sociálně demokratická",
         "abbr": "ČSSD",
         "votes_sum": 1155267,
-        "votes_percent": 0.2208560773670252,
+        "votes_sum_percent": 0.2208560773670252,
         "candidates": [
           {
             "countyId": 14,
@@ -59518,7 +59518,7 @@
         "name": "Moravané",
         "abbr": "M",
         "votes_sum": 11914,
-        "votes_percent": 0.0022776373823113947,
+        "votes_sum_percent": 0.0022776373823113947,
         "candidates": [
           {
             "countyId": 14,
@@ -59697,7 +59697,7 @@
         "name": "Strana Práv Občanů ZEMANOVCI",
         "abbr": "SPOZ",
         "votes_sum": 226527,
-        "votes_percent": 0.04330588914746125,
+        "votes_sum_percent": 0.04330588914746125,
         "candidates": [
           {
             "countyId": 14,
@@ -60140,7 +60140,7 @@
         "name": "STOP",
         "abbr": "STOP",
         "votes_sum": 3155,
-        "votes_percent": 0.0006031514135632407,
+        "votes_sum_percent": 0.0006031514135632407,
         "candidates": [
           {
             "countyId": 14,
@@ -60283,7 +60283,7 @@
         "name": "TOP 09",
         "abbr": "TOP 09",
         "votes_sum": 873833,
-        "votes_percent": 0.16705344189166635,
+        "votes_sum_percent": 0.16705344189166635,
         "candidates": [
           {
             "countyId": 14,
@@ -60727,7 +60727,7 @@
         "name": "Křesťanská a demokratická unie - Československá strana lidová",
         "abbr": "KDU-ČSL",
         "votes_sum": 229717,
-        "votes_percent": 0.043915731622664655,
+        "votes_sum_percent": 0.043915731622664655,
         "candidates": [
           {
             "countyId": 14,
@@ -61170,7 +61170,7 @@
         "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
         "abbr": "PB",
         "votes_sum": 24750,
-        "votes_percent": 0.004731536445543648,
+        "votes_sum_percent": 0.004731536445543648,
         "candidates": [
           {
             "countyId": 14,
@@ -61553,7 +61553,7 @@
         "name": "Strana zelených",
         "abbr": "SZ",
         "votes_sum": 127831,
-        "votes_percent": 0.024437860014961215,
+        "votes_sum_percent": 0.024437860014961215,
         "candidates": [
           {
             "countyId": 14,
@@ -61996,7 +61996,7 @@
         "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
         "abbr": "Suveren.",
         "votes_sum": 192145,
-        "votes_percent": 0.036732972538544816,
+        "votes_sum_percent": 0.036732972538544816,
         "candidates": [
           {
             "countyId": 14,
@@ -62439,7 +62439,7 @@
         "name": "Česká pirátská strana",
         "abbr": "ČPS",
         "votes_sum": 42323,
-        "votes_percent": 0.008091022908474497,
+        "votes_sum_percent": 0.008091022908474497,
         "candidates": [
           {
             "countyId": 14,
@@ -62630,7 +62630,7 @@
         "name": "Dělnická strana sociální spravedlnosti",
         "abbr": "DSSS",
         "votes_sum": 59888,
-        "votes_percent": 0.011448979985887595,
+        "votes_sum_percent": 0.011448979985887595,
         "candidates": [
           {
             "countyId": 14,
@@ -63073,7 +63073,7 @@
         "name": "Strana svobodných občanů",
         "abbr": "Svobodní",
         "votes_sum": 38894,
-        "votes_percent": 0.007435490040928268,
+        "votes_sum_percent": 0.007435490040928268,
         "candidates": [
           {
             "countyId": 14,
@@ -63156,7 +63156,7 @@
         "name": "Občanská demokratická strana",
         "abbr": "ODS",
         "votes_sum": 1057792,
-        "votes_percent": 0.20222147069917198,
+        "votes_sum_percent": 0.20222147069917198,
         "candidates": [
           {
             "countyId": 14,

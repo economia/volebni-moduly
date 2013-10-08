@@ -38,8 +38,8 @@ describe "Parser for counties" ->
 
     test "parties should have sums of their votes computed" ->
         expect result.0.parties.0 .to.have.property \votes_sum 13397
-        expect result.0.parties.1 .to.have.property \votes_percent
-        vvPercent = Math.round result.0.parties.1.votes_percent * 100
+        expect result.0.parties.1 .to.have.property \votes_sum_percent
+        vvPercent = Math.round result.0.parties.1.votes_sum_percent * 100
         expect vvPercent .to.equal 11
 
     test "county parties should have their candidates" ->

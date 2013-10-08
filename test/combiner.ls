@@ -20,8 +20,11 @@ describe "Parser for counties" ->
         data .= toString!
         parties := parser_parties.parse data
         (err, data) <~ fs.readFile "#__dirname/data/kandidati.csv"
+        (err, preferentialData) <~ fs.readFile "#__dirname/data/vysledky_kandid.xml"
         data .= toString!
-        candidates := parser_candidates.parse data
+        preferentialData .= toString!
+        (err, data) <~ parser_candidates.parse data, preferentialData
+        candidates := data
         done!
 
     test "should combine results" ->

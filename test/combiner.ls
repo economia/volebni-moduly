@@ -93,6 +93,6 @@ describe "Parser for counties" ->
         expect votedIn .to.eql ["Boháč" "Fiala"]
 
     after (done) ->
-        (err) <~ fs.writeFile "#__dirname/data/combined.json" JSON.stringify result, null "  "
+        (err) <~ fs.writeFile "#__dirname/data/sampleResult.json" JSON.stringify result, null "  "
         throw err if err
         done!

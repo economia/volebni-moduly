@@ -15,3 +15,14 @@ describe "Subdataset Computer" ->
         subdatasetComputer := new SubdatasetComputer
         subdatasetComputer.setBaseDataset baseDataset
 
+    test "should produce parties dataset" ->
+        parties = subdatasetComputer.getParties!
+        expect parties .to.be.an \array
+        expect parties .to.have.length 26
+        expect parties.0 .to.have.property \name "OBČANÉ.CZ"
+        expect parties.0 .to.have.property \abbr "Občané"
+        expect parties.0 .to.have.property \votes_sum 13397
+        expect parties.0 .to.have.property \votes_sum_percent
+        percent = Math.round parties.0.votes_sum_percent * 10000
+        expect percent .to.equal 26
+

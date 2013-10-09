@@ -8,6 +8,7 @@ module.exports = class SubdatasetComputer
         @forEachParty (party) ->
             return if party.id in partyIds_processed
             {id, name, abbr, votes_sum, votes_sum_percent} = party
+            votes_sum_percent = parseFloat votes_sum_percent.toFixed 4
             output.push {id, name, abbr, votes_sum, votes_sum_percent}
             partyIds_processed.push id
         output
@@ -39,9 +40,9 @@ module.exports = class SubdatasetComputer
             return unless countyLowestCandidate && countyClosestParty
             if countyLowestCandidate.partyId != countyClosestParty.id
                 countyLowestCandidate
-                    ..leadByVotes = countyClosestParty.requiredVotes
-                    ..leadByScore = countyClosestParty.requiredScore
-                    ..score       = countyLowestScore
+                    ..leadByVotes   = Math.round countyClosestParty.requiredVotes
+                    ..leadByScore   = Math.round countyClosestParty.requiredScore
+                    ..score         = Math.round countyLowestScore
                     ..leadFromParty = countyClosestParty.id
         output
 

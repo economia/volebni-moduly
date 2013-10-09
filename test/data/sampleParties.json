@@ -4,181 +4,181 @@
     "name": "OBČANÉ.CZ",
     "abbr": "Občané",
     "votes_sum": 13397,
-    "votes_sum_percent": 0.0025611472226645757
+    "votes_sum_percent": 0.0026
   },
   {
     "id": 4,
     "name": "Věci veřejné",
     "abbr": "VV",
     "votes_sum": 569127,
-    "votes_sum_percent": 0.10880182394516848
+    "votes_sum_percent": 0.1088
   },
   {
     "id": 5,
     "name": "Konzervativní strana",
     "abbr": "KONS",
     "votes_sum": 4232,
-    "votes_sum_percent": 0.0008090449388905341
+    "votes_sum_percent": 0.0008
   },
   {
     "id": 6,
     "name": "Komunistická strana Čech a Moravy",
     "abbr": "KSČM",
     "votes_sum": 589765,
-    "votes_sum_percent": 0.11274725623458785
+    "votes_sum_percent": 0.1127
   },
   {
     "id": 7,
     "name": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
     "abbr": "\"\"\"KČ\"\"\"",
     "votes_sum": 4024,
-    "votes_sum_percent": 0.0007692809154289955
+    "votes_sum_percent": 0.0008
   },
   {
     "id": 8,
     "name": "Česká strana národně sociální",
     "abbr": "ČSNS",
     "votes_sum": 295,
-    "votes_sum_percent": 0.0000563960909670859
+    "votes_sum_percent": 0.0001
   },
   {
     "id": 9,
     "name": "Česká strana sociálně demokratická",
     "abbr": "ČSSD",
     "votes_sum": 1155267,
-    "votes_sum_percent": 0.2208560773670252
+    "votes_sum_percent": 0.2209
   },
   {
     "id": 13,
     "name": "Strana Práv Občanů ZEMANOVCI",
     "abbr": "SPOZ",
     "votes_sum": 226527,
-    "votes_sum_percent": 0.04330588914746125
+    "votes_sum_percent": 0.0433
   },
   {
     "id": 14,
     "name": "STOP",
     "abbr": "STOP",
     "votes_sum": 3155,
-    "votes_sum_percent": 0.0006031514135632407
+    "votes_sum_percent": 0.0006
   },
   {
     "id": 15,
     "name": "TOP 09",
     "abbr": "TOP 09",
     "votes_sum": 873833,
-    "votes_sum_percent": 0.16705344189166635
+    "votes_sum_percent": 0.1671
   },
   {
     "id": 16,
     "name": "EVROPSKÝ STŘED",
     "abbr": "ES",
     "votes_sum": 522,
-    "votes_sum_percent": 0.00009979240503328421
+    "votes_sum_percent": 0.0001
   },
   {
     "id": 17,
     "name": "Křesťanská a demokratická unie - Československá strana lidová",
     "abbr": "KDU-ČSL",
     "votes_sum": 229717,
-    "votes_sum_percent": 0.043915731622664655
+    "votes_sum_percent": 0.0439
   },
   {
     "id": 18,
     "name": "Volte Pravý Blok-stranu za ODVOLAT.polit.,NÍZKÉ daně,VYROVN.rozp.,MIN.byrokr.,SPRAV.just.,PŘÍMOU demokr. WWW.CIBULKA.NET",
     "abbr": "PB",
     "votes_sum": 24750,
-    "votes_sum_percent": 0.004731536445543648
+    "votes_sum_percent": 0.0047
   },
   {
     "id": 20,
     "name": "Strana zelených",
     "abbr": "SZ",
     "votes_sum": 127831,
-    "votes_sum_percent": 0.024437860014961215
+    "votes_sum_percent": 0.0244
   },
   {
     "id": 21,
     "name": "Suverenita - blok Jany Bobošíkové, strana zdravého rozumu",
     "abbr": "Suveren.",
     "votes_sum": 192145,
-    "votes_sum_percent": 0.036732972538544816
+    "votes_sum_percent": 0.0367
   },
   {
     "id": 22,
     "name": "Humanistická strana",
     "abbr": "HS",
     "votes_sum": 552,
-    "votes_sum_percent": 0.00010552760072485226
+    "votes_sum_percent": 0.0001
   },
   {
     "id": 23,
     "name": "Česká pirátská strana",
     "abbr": "ČPS",
     "votes_sum": 42323,
-    "votes_sum_percent": 0.008091022908474497
+    "votes_sum_percent": 0.0081
   },
   {
     "id": 24,
     "name": "Dělnická strana sociální spravedlnosti",
     "abbr": "DSSS",
     "votes_sum": 59888,
-    "votes_sum_percent": 0.011448979985887595
+    "votes_sum_percent": 0.0114
   },
   {
     "id": 25,
     "name": "Strana svobodných občanů",
     "abbr": "Svobodní",
     "votes_sum": 38894,
-    "votes_sum_percent": 0.007435490040928268
+    "votes_sum_percent": 0.0074
   },
   {
     "id": 26,
     "name": "Občanská demokratická strana",
     "abbr": "ODS",
     "votes_sum": 1057792,
-    "votes_sum_percent": 0.20222147069917198
+    "votes_sum_percent": 0.2022
   },
   {
     "id": 27,
     "name": "Klíčové hnutí",
     "abbr": "KH",
     "votes_sum": 1099,
-    "votes_sum_percent": 0.00021009933550110985
+    "votes_sum_percent": 0.0002
   },
   {
     "id": 2,
     "name": "Liberálové.CZ",
     "abbr": "LIB",
     "votes_sum": 260,
-    "votes_sum_percent": 0.000049705029326923166
+    "votes_sum_percent": 0
   },
   {
     "id": 11,
     "name": "Sdružení pro republiku-Republikánská strana Československa",
     "abbr": "SPR-RSČ",
     "votes_sum": 1993,
-    "votes_sum_percent": 0.00038100816710983797
+    "votes_sum_percent": 0.0004
   },
   {
     "id": 19,
     "name": "Česká strana národně socialistická",
     "abbr": "ČSNS2005",
     "votes_sum": 1371,
-    "votes_sum_percent": 0.0002620984431046603
+    "votes_sum_percent": 0.0003
   },
   {
     "id": 10,
     "name": "NÁRODNÍ PROSPERITA",
     "abbr": "NP",
     "votes_sum": 186,
-    "votes_sum_percent": 0.00003555821328772196
+    "votes_sum_percent": 0
   },
   {
     "id": 12,
     "name": "Moravané",
     "abbr": "M",
     "votes_sum": 11914,
-    "votes_sum_percent": 0.0022776373823113947
+    "votes_sum_percent": 0.0023
   }
 ]

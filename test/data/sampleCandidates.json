@@ -121,9 +121,9 @@
     "partyId": 4,
     "rank": 2,
     "votedRank": 1,
-    "leadByVotes": 1374.5000000000036,
-    "leadByScore": 458.1666666666679,
-    "score": 18714.5,
+    "leadByVotes": 1375,
+    "leadByScore": 458,
+    "score": 18715,
     "leadFromParty": 26
   },
   {
@@ -279,9 +279,9 @@
     "partyId": 6,
     "rank": 1,
     "votedRank": 1,
-    "leadByVotes": 5031.499999999998,
-    "leadByScore": 1677.166666666666,
-    "score": 17538.5,
+    "leadByVotes": 5031,
+    "leadByScore": 1677,
+    "score": 17539,
     "leadFromParty": 15
   },
   {
@@ -327,7 +327,7 @@
     "votedRank": 1,
     "leadByVotes": 9212,
     "leadByScore": 2303,
-    "score": 18174.5,
+    "score": 18175,
     "leadFromParty": 9
   },
   {
@@ -491,7 +491,7 @@
     "rank": 2,
     "votedRank": 1,
     "leadByVotes": 18479,
-    "leadByScore": 6159.666666666666,
+    "leadByScore": 6160,
     "score": 20756,
     "leadFromParty": 26
   },
@@ -697,9 +697,9 @@
     "partyId": 9,
     "rank": 4,
     "votedRank": 4,
-    "leadByVotes": 4828.4000000000015,
-    "leadByScore": 1609.4666666666672,
-    "score": 18242.8,
+    "leadByVotes": 4828,
+    "leadByScore": 1609,
+    "score": 18243,
     "leadFromParty": 6
   },
   {
@@ -974,9 +974,9 @@
     "partyId": 15,
     "rank": 3,
     "votedRank": 2,
-    "leadByVotes": 1651.6666666666642,
-    "leadByScore": 825.8333333333321,
-    "score": 18538.333333333332,
+    "leadByVotes": 1652,
+    "leadByScore": 826,
+    "score": 18538,
     "leadFromParty": 4
   },
   {
@@ -999,8 +999,8 @@
     "partyId": 15,
     "rank": 3,
     "votedRank": 2,
-    "leadByVotes": 4986.999999999985,
-    "leadByScore": 554.1111111111095,
+    "leadByVotes": 4987,
+    "leadByScore": 554,
     "score": 19452,
     "leadFromParty": 9
   },
@@ -1311,9 +1311,9 @@
     "partyId": 26,
     "rank": 16,
     "votedRank": 2,
-    "leadByVotes": 3548.3333333333358,
-    "leadByScore": 1774.1666666666679,
-    "score": 17406.666666666668,
+    "leadByVotes": 3548,
+    "leadByScore": 1774,
+    "score": 17407,
     "leadFromParty": 4
   },
   {
@@ -1338,7 +1338,7 @@
     "votedRank": 3,
     "leadByVotes": 1120,
     "leadByScore": 560,
-    "score": 16055.5,
+    "score": 16056,
     "leadFromParty": 6
   },
   {
@@ -1347,9 +1347,9 @@
     "partyId": 26,
     "rank": 3,
     "votedRank": 3,
-    "leadByVotes": 45.5,
-    "leadByScore": 22.75,
-    "score": 17793.25,
+    "leadByVotes": 46,
+    "leadByScore": 23,
+    "score": 17793,
     "leadFromParty": 4
   },
   {
@@ -1407,9 +1407,9 @@
     "partyId": 26,
     "rank": 6,
     "votedRank": 5,
-    "leadByVotes": 501.1666666666679,
-    "leadByScore": 100.23333333333358,
-    "score": 18386.833333333332,
+    "leadByVotes": 501,
+    "leadByScore": 100,
+    "score": 18387,
     "leadFromParty": 15
   },
   {
@@ -1446,9 +1446,9 @@
     "partyId": 26,
     "rank": 36,
     "votedRank": 7,
-    "leadByVotes": 2052.7499999999964,
-    "leadByScore": 410.5499999999993,
-    "score": 19751.75,
+    "leadByVotes": 2053,
+    "leadByScore": 411,
+    "score": 19752,
     "leadFromParty": 9
   }
 ]

@@ -40,8 +40,8 @@ describe "Subdataset Computer" ->
         lastCandidates = candidates
             .filter -> it.leadByVotes
             .sort (a, b) -> a.leadByVotes - b.leadByVotes
-        expect lastCandidates.0 .to.have.property \leadByVotes 45.5
-        expect lastCandidates.0 .to.have.property \leadByScore 22.75
+        expect lastCandidates.0 .to.have.property \leadByVotes 46
+        expect lastCandidates.0 .to.have.property \leadByScore 23
         expect lastCandidates.0 .to.have.property \partyId 26
         expect lastCandidates.0 .to.have.property \surname \Dědič
 

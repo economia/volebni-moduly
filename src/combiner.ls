@@ -36,6 +36,7 @@ module.exports.compute = (counties, mandates = 200, quorum = 0.05) ->
             *   voteAccessor: -> it.votes
                 resultProperty: \mandates
                 requiredVotesProperty: \requiredVotes
+                requiredScoreProperty: \requiredScore
                 lowestScoreProperty: \lowestScore
         county.parties.forEach (party) ->
             prefhlasy.compute do

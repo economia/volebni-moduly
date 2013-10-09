@@ -2555,7 +2555,8 @@
         ],
         "mandates": 4,
         "lowestScore": 24176.5,
-        "requiredVotes": 2052.7499999999964
+        "requiredVotes": 2052.7499999999964,
+        "requiredScore": 410.5499999999993
       },
       {
         "id": 13,
@@ -14784,7 +14785,8 @@
         ],
         "mandates": 1,
         "lowestScore": 35541,
-        "requiredVotes": 45.5
+        "requiredVotes": 45.5,
+        "requiredScore": 22.75
       },
       {
         "id": 5,
@@ -19865,7 +19867,8 @@
         ],
         "mandates": 2,
         "lowestScore": 23792,
-        "requiredVotes": 5031.499999999998
+        "requiredVotes": 5031.499999999998,
+        "requiredScore": 1677.166666666666
       },
       {
         "id": 17,
@@ -22588,7 +22591,8 @@
         ],
         "mandates": 1,
         "lowestScore": 30324,
-        "requiredVotes": 484
+        "requiredVotes": 484,
+        "requiredScore": 242
       },
       {
         "id": 13,
@@ -25047,7 +25051,8 @@
         ],
         "mandates": 2,
         "lowestScore": 24950,
-        "requiredVotes": 4828.4000000000015
+        "requiredVotes": 4828.4000000000015,
+        "requiredScore": 1609.4666666666672
       },
       {
         "id": 9,
@@ -31646,7 +31651,8 @@
         ],
         "mandates": 2,
         "lowestScore": 21894.5,
-        "requiredVotes": 18479
+        "requiredVotes": 18479,
+        "requiredScore": 6159.666666666666
       }
     ],
     "mandates": 8
@@ -32158,7 +32164,8 @@
         ],
         "mandates": 1,
         "lowestScore": 35425,
-        "requiredVotes": 1651.6666666666642
+        "requiredVotes": 1651.6666666666642,
+        "requiredScore": 825.8333333333321
       },
       {
         "id": 5,
@@ -35575,7 +35582,8 @@
         ],
         "mandates": 1,
         "lowestScore": 31265,
-        "requiredVotes": 3548.3333333333358
+        "requiredVotes": 3548.3333333333358,
+        "requiredScore": 1774.1666666666679
       },
       {
         "id": 5,
@@ -39472,7 +39480,8 @@
         ],
         "mandates": 3,
         "lowestScore": 21162,
-        "requiredVotes": 9212
+        "requiredVotes": 9212,
+        "requiredScore": 2303
       },
       {
         "id": 13,
@@ -45574,7 +45583,8 @@
         ],
         "mandates": 4,
         "lowestScore": 22858.25,
-        "requiredVotes": 501.1666666666679
+        "requiredVotes": 501.1666666666679,
+        "requiredScore": 100.23333333333358
       },
       {
         "id": 17,
@@ -53266,7 +53276,8 @@
         ],
         "mandates": 2,
         "lowestScore": 27384.5,
-        "requiredVotes": 1374.5000000000036
+        "requiredVotes": 1374.5000000000036,
+        "requiredScore": 458.1666666666679
       }
     ],
     "mandates": 12
@@ -54257,7 +54268,8 @@
         ],
         "mandates": 1,
         "lowestScore": 30991,
-        "requiredVotes": 1120
+        "requiredVotes": 1120,
+        "requiredScore": 560
       },
       {
         "id": 9,
@@ -59510,7 +59522,8 @@
         ],
         "mandates": 8,
         "lowestScore": 21260.125,
-        "requiredVotes": 4986.999999999985
+        "requiredVotes": 4986.999999999985,
+        "requiredScore": 554.1111111111095
       },
       {
         "id": 12,

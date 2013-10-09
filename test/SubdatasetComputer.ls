@@ -36,6 +36,7 @@ describe "Subdataset Computer" ->
         expect candidates.0 .to.have.property \surname \John
         expect candidates.0 .to.have.property \partyId 4
         expect candidates.0 .to.have.property \rank 1
+        expect candidates.0 .to.have.property \countyId 1
         expect candidates.0 .to.have.property \votedRank 0
         lastCandidates = candidates
             .filter -> it.leadByVotes

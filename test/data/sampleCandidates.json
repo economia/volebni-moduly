@@ -3,6 +3,7 @@
     "name": "Radek",
     "surname": "John",
     "partyId": 4,
+    "countyId": 1,
     "rank": 1,
     "votedRank": 0
   },
@@ -10,6 +11,7 @@
     "name": "Kristýna",
     "surname": "Kočí",
     "partyId": 4,
+    "countyId": 14,
     "rank": 1,
     "votedRank": 0
   },
@@ -17,6 +19,7 @@
     "name": "Martin",
     "surname": "Vacek",
     "partyId": 4,
+    "countyId": 13,
     "rank": 1,
     "votedRank": 0
   },
@@ -24,6 +27,7 @@
     "name": "Lenka",
     "surname": "Andrýsová",
     "partyId": 4,
+    "countyId": 12,
     "rank": 1,
     "votedRank": 0
   },
@@ -31,6 +35,7 @@
     "name": "Josef",
     "surname": "Dobeš",
     "partyId": 4,
+    "countyId": 11,
     "rank": 1,
     "votedRank": 0
   },
@@ -38,6 +43,7 @@
     "name": "Josef",
     "surname": "Novotný",
     "partyId": 4,
+    "countyId": 10,
     "rank": 1,
     "votedRank": 0
   },
@@ -45,6 +51,7 @@
     "name": "Petr",
     "surname": "Skokan",
     "partyId": 4,
+    "countyId": 7,
     "rank": 1,
     "votedRank": 0
   },
@@ -52,6 +59,7 @@
     "name": "Milan",
     "surname": "Šťovíček",
     "partyId": 4,
+    "countyId": 6,
     "rank": 1,
     "votedRank": 0
   },
@@ -59,6 +67,7 @@
     "name": "Jaroslav",
     "surname": "Škárka",
     "partyId": 4,
+    "countyId": 4,
     "rank": 1,
     "votedRank": 0
   },
@@ -66,6 +75,7 @@
     "name": "Viktor",
     "surname": "Paggio",
     "partyId": 4,
+    "countyId": 3,
     "rank": 1,
     "votedRank": 0
   },
@@ -73,6 +83,7 @@
     "name": "Jiří",
     "surname": "Štětina",
     "partyId": 4,
+    "countyId": 8,
     "rank": 2,
     "votedRank": 0
   },
@@ -80,6 +91,7 @@
     "name": "Štěpánka",
     "surname": "Fraňková",
     "partyId": 4,
+    "countyId": 9,
     "rank": 4,
     "votedRank": 0
   },
@@ -87,6 +99,7 @@
     "name": "Jana",
     "surname": "Suchá",
     "partyId": 4,
+    "countyId": 5,
     "rank": 5,
     "votedRank": 0,
     "leadByVotes": 484,
@@ -98,6 +111,7 @@
     "name": "Stanislav",
     "surname": "Huml",
     "partyId": 4,
+    "countyId": 2,
     "rank": 7,
     "votedRank": 0
   },
@@ -105,6 +119,7 @@
     "name": "Kateřina",
     "surname": "Klasnová",
     "partyId": 4,
+    "countyId": 2,
     "rank": 1,
     "votedRank": 1
   },
@@ -112,6 +127,7 @@
     "name": "Michal",
     "surname": "Babák",
     "partyId": 4,
+    "countyId": 11,
     "rank": 2,
     "votedRank": 1
   },
@@ -119,6 +135,7 @@
     "name": "Dagmar",
     "surname": "Navrátilová",
     "partyId": 4,
+    "countyId": 12,
     "rank": 2,
     "votedRank": 1,
     "leadByVotes": 1375,
@@ -130,6 +147,7 @@
     "name": "David",
     "surname": "Kádner",
     "partyId": 4,
+    "countyId": 6,
     "rank": 2,
     "votedRank": 1
   },
@@ -137,6 +155,7 @@
     "name": "Karolína",
     "surname": "Peake",
     "partyId": 4,
+    "countyId": 1,
     "rank": 2,
     "votedRank": 1
   },
@@ -144,6 +163,7 @@
     "name": "Jiří",
     "surname": "Rusnok",
     "partyId": 4,
+    "countyId": 14,
     "rank": 2,
     "votedRank": 1
   },
@@ -151,6 +171,7 @@
     "name": "Radim",
     "surname": "Vysloužil",
     "partyId": 4,
+    "countyId": 2,
     "rank": 2,
     "votedRank": 2
   },
@@ -158,6 +179,7 @@
     "name": "Otto",
     "surname": "Chaloupka",
     "partyId": 4,
+    "countyId": 11,
     "rank": 3,
     "votedRank": 2
   },
@@ -165,6 +187,7 @@
     "name": "Vít",
     "surname": "Bárta",
     "partyId": 4,
+    "countyId": 1,
     "rank": 3,
     "votedRank": 2
   },
@@ -172,6 +195,7 @@
     "name": "Jana",
     "surname": "Drastichová",
     "partyId": 4,
+    "countyId": 14,
     "rank": 3,
     "votedRank": 2
   },
@@ -179,6 +203,7 @@
     "name": "Josef",
     "surname": "Šenfeld",
     "partyId": 6,
+    "countyId": 6,
     "rank": 1,
     "votedRank": 0
   },
@@ -186,6 +211,7 @@
     "name": "Jiří",
     "surname": "Dolejš",
     "partyId": 6,
+    "countyId": 1,
     "rank": 1,
     "votedRank": 0
   },
@@ -193,6 +219,7 @@
     "name": "Zuzka",
     "surname": "Bebarová-Rujbrová",
     "partyId": 6,
+    "countyId": 11,
     "rank": 1,
     "votedRank": 0
   },
@@ -200,6 +227,7 @@
     "name": "Marie",
     "surname": "Nedvědová",
     "partyId": 6,
+    "countyId": 7,
     "rank": 1,
     "votedRank": 0
   },
@@ -207,6 +235,7 @@
     "name": "Soňa",
     "surname": "Marková",
     "partyId": 6,
+    "countyId": 8,
     "rank": 1,
     "votedRank": 0
   },
@@ -214,6 +243,7 @@
     "name": "Vladimír",
     "surname": "Koníček",
     "partyId": 6,
+    "countyId": 13,
     "rank": 1,
     "votedRank": 0
   },
@@ -221,6 +251,7 @@
     "name": "Alexander",
     "surname": "Černý",
     "partyId": 6,
+    "countyId": 12,
     "rank": 1,
     "votedRank": 0
   },
@@ -228,6 +259,7 @@
     "name": "Vojtěch",
     "surname": "Filip",
     "partyId": 6,
+    "countyId": 3,
     "rank": 1,
     "votedRank": 0
   },
@@ -235,6 +267,7 @@
     "name": "Pavel",
     "surname": "Kováčik",
     "partyId": 6,
+    "countyId": 10,
     "rank": 1,
     "votedRank": 0
   },
@@ -242,6 +275,7 @@
     "name": "Kateřina",
     "surname": "Konečná",
     "partyId": 6,
+    "countyId": 14,
     "rank": 1,
     "votedRank": 0
   },
@@ -249,6 +283,7 @@
     "name": "Pavel",
     "surname": "Hojda",
     "partyId": 6,
+    "countyId": 5,
     "rank": 1,
     "votedRank": 0
   },
@@ -256,6 +291,7 @@
     "name": "Stanislav",
     "surname": "Grospič",
     "partyId": 6,
+    "countyId": 2,
     "rank": 1,
     "votedRank": 0
   },
@@ -263,6 +299,7 @@
     "name": "Ivana",
     "surname": "Levá",
     "partyId": 6,
+    "countyId": 4,
     "rank": 3,
     "votedRank": 0
   },
@@ -270,6 +307,7 @@
     "name": "Květa",
     "surname": "Končická",
     "partyId": 6,
+    "countyId": 9,
     "rank": 4,
     "votedRank": 0
   },
@@ -277,6 +315,7 @@
     "name": "Karel",
     "surname": "Šidlo",
     "partyId": 6,
+    "countyId": 4,
     "rank": 1,
     "votedRank": 1,
     "leadByVotes": 5031,
@@ -288,6 +327,7 @@
     "name": "Josef",
     "surname": "Nekl",
     "partyId": 6,
+    "countyId": 12,
     "rank": 2,
     "votedRank": 1
   },
@@ -295,6 +335,7 @@
     "name": "Petr",
     "surname": "Braný",
     "partyId": 6,
+    "countyId": 3,
     "rank": 2,
     "votedRank": 1
   },
@@ -302,6 +343,7 @@
     "name": "Marta",
     "surname": "Semelová",
     "partyId": 6,
+    "countyId": 1,
     "rank": 2,
     "votedRank": 1
   },
@@ -309,6 +351,7 @@
     "name": "Miloslava",
     "surname": "Vostrá",
     "partyId": 6,
+    "countyId": 2,
     "rank": 2,
     "votedRank": 1
   },
@@ -316,6 +359,7 @@
     "name": "Miroslav",
     "surname": "Grebeníček",
     "partyId": 6,
+    "countyId": 11,
     "rank": 2,
     "votedRank": 1
   },
@@ -323,6 +367,7 @@
     "name": "Marie",
     "surname": "Rusová",
     "partyId": 6,
+    "countyId": 10,
     "rank": 3,
     "votedRank": 1,
     "leadByVotes": 9212,
@@ -334,6 +379,7 @@
     "name": "Gabriela",
     "surname": "Hubáčková",
     "partyId": 6,
+    "countyId": 6,
     "rank": 3,
     "votedRank": 1
   },
@@ -341,6 +387,7 @@
     "name": "Milada",
     "surname": "Halíková",
     "partyId": 6,
+    "countyId": 14,
     "rank": 4,
     "votedRank": 1
   },
@@ -348,6 +395,7 @@
     "name": "Miroslav",
     "surname": "Opálka",
     "partyId": 6,
+    "countyId": 14,
     "rank": 2,
     "votedRank": 2
   },
@@ -355,6 +403,7 @@
     "name": "Vojtěch",
     "surname": "Adam",
     "partyId": 6,
+    "countyId": 11,
     "rank": 3,
     "votedRank": 2
   },
@@ -362,6 +411,7 @@
     "name": "Jan",
     "surname": "Klán",
     "partyId": 6,
+    "countyId": 2,
     "rank": 3,
     "votedRank": 2
   },
@@ -369,6 +419,7 @@
     "name": "Pavel",
     "surname": "Ploc",
     "partyId": 9,
+    "countyId": 7,
     "rank": 1,
     "votedRank": 0
   },
@@ -376,6 +427,7 @@
     "name": "Hana",
     "surname": "Orgoníková",
     "partyId": 9,
+    "countyId": 8,
     "rank": 1,
     "votedRank": 0
   },
@@ -383,6 +435,7 @@
     "name": "Lubomír",
     "surname": "Zaorálek",
     "partyId": 9,
+    "countyId": 14,
     "rank": 1,
     "votedRank": 0
   },
@@ -390,6 +443,7 @@
     "name": "Zdeněk",
     "surname": "Škromach",
     "partyId": 9,
+    "countyId": 13,
     "rank": 1,
     "votedRank": 0
   },
@@ -397,6 +451,7 @@
     "name": "Miroslav",
     "surname": "Váňa",
     "partyId": 9,
+    "countyId": 9,
     "rank": 1,
     "votedRank": 0
   },
@@ -404,6 +459,7 @@
     "name": "František",
     "surname": "Bublan",
     "partyId": 9,
+    "countyId": 10,
     "rank": 1,
     "votedRank": 0
   },
@@ -411,6 +467,7 @@
     "name": "Vítězslav",
     "surname": "Jandák",
     "partyId": 9,
+    "countyId": 3,
     "rank": 1,
     "votedRank": 0
   },
@@ -418,6 +475,7 @@
     "name": "Jiří",
     "surname": "Paroubek",
     "partyId": 9,
+    "countyId": 6,
     "rank": 1,
     "votedRank": 0
   },
@@ -425,6 +483,7 @@
     "name": "Martin",
     "surname": "Pecina",
     "partyId": 9,
+    "countyId": 1,
     "rank": 1,
     "votedRank": 0
   },
@@ -432,6 +491,7 @@
     "name": "David",
     "surname": "Rath",
     "partyId": 9,
+    "countyId": 2,
     "rank": 2,
     "votedRank": 0
   },
@@ -439,6 +499,7 @@
     "name": "Pavel",
     "surname": "Holík",
     "partyId": 9,
+    "countyId": 12,
     "rank": 6,
     "votedRank": 0
   },
@@ -446,6 +507,7 @@
     "name": "Milada",
     "surname": "Emmerová",
     "partyId": 9,
+    "countyId": 4,
     "rank": 8,
     "votedRank": 0
   },
@@ -453,6 +515,7 @@
     "name": "Michal",
     "surname": "Hašek",
     "partyId": 9,
+    "countyId": 11,
     "rank": 11,
     "votedRank": 0
   },
@@ -460,6 +523,7 @@
     "name": "Josef",
     "surname": "Novotný",
     "partyId": 9,
+    "countyId": 5,
     "rank": 13,
     "votedRank": 0
   },
@@ -467,6 +531,7 @@
     "name": "Václav",
     "surname": "Votava",
     "partyId": 9,
+    "countyId": 4,
     "rank": 1,
     "votedRank": 1
   },
@@ -474,6 +539,7 @@
     "name": "Bohuslav",
     "surname": "Sobotka",
     "partyId": 9,
+    "countyId": 11,
     "rank": 1,
     "votedRank": 1
   },
@@ -481,6 +547,7 @@
     "name": "Milan",
     "surname": "Urban",
     "partyId": 9,
+    "countyId": 2,
     "rank": 1,
     "votedRank": 1
   },
@@ -488,6 +555,7 @@
     "name": "Cyril",
     "surname": "Zapletal",
     "partyId": 9,
+    "countyId": 7,
     "rank": 2,
     "votedRank": 1,
     "leadByVotes": 18479,
@@ -499,6 +567,7 @@
     "name": "Petr",
     "surname": "Hulinský",
     "partyId": 9,
+    "countyId": 1,
     "rank": 2,
     "votedRank": 1
   },
@@ -506,6 +575,7 @@
     "name": "Jiří",
     "surname": "Šlégr",
     "partyId": 9,
+    "countyId": 6,
     "rank": 2,
     "votedRank": 1
   },
@@ -513,6 +583,7 @@
     "name": "Alfréd",
     "surname": "Michalík",
     "partyId": 9,
+    "countyId": 14,
     "rank": 2,
     "votedRank": 1
   },
@@ -520,6 +591,7 @@
     "name": "Vlasta",
     "surname": "Bohdalová",
     "partyId": 9,
+    "countyId": 3,
     "rank": 2,
     "votedRank": 1
   },
@@ -527,6 +599,7 @@
     "name": "Roman",
     "surname": "Váňa",
     "partyId": 9,
+    "countyId": 12,
     "rank": 2,
     "votedRank": 1
   },
@@ -534,6 +607,7 @@
     "name": "Vladimíra",
     "surname": "Lesenská",
     "partyId": 9,
+    "countyId": 8,
     "rank": 2,
     "votedRank": 1
   },
@@ -541,6 +615,7 @@
     "name": "Josef",
     "surname": "Smýkal",
     "partyId": 9,
+    "countyId": 13,
     "rank": 2,
     "votedRank": 1
   },
@@ -548,6 +623,7 @@
     "name": "Pavel",
     "surname": "Antonín",
     "partyId": 9,
+    "countyId": 10,
     "rank": 19,
     "votedRank": 1
   },
@@ -555,6 +631,7 @@
     "name": "Jan",
     "surname": "Chvojka",
     "partyId": 9,
+    "countyId": 9,
     "rank": 19,
     "votedRank": 1
   },
@@ -562,6 +639,7 @@
     "name": "Miloslav",
     "surname": "Vlček",
     "partyId": 9,
+    "countyId": 12,
     "rank": 1,
     "votedRank": 2
   },
@@ -569,6 +647,7 @@
     "name": "Václav",
     "surname": "Neubauer",
     "partyId": 9,
+    "countyId": 9,
     "rank": 2,
     "votedRank": 2
   },
@@ -576,6 +655,7 @@
     "name": "Jeroným",
     "surname": "Tejc",
     "partyId": 9,
+    "countyId": 11,
     "rank": 2,
     "votedRank": 2
   },
@@ -583,6 +663,7 @@
     "name": "Karel",
     "surname": "Černý",
     "partyId": 9,
+    "countyId": 10,
     "rank": 2,
     "votedRank": 2
   },
@@ -590,6 +671,7 @@
     "name": "Richard",
     "surname": "Dolejš",
     "partyId": 9,
+    "countyId": 2,
     "rank": 3,
     "votedRank": 2
   },
@@ -597,6 +679,7 @@
     "name": "Jan",
     "surname": "Babor",
     "partyId": 9,
+    "countyId": 3,
     "rank": 3,
     "votedRank": 2
   },
@@ -604,6 +687,7 @@
     "name": "František",
     "surname": "Novosad",
     "partyId": 9,
+    "countyId": 13,
     "rank": 3,
     "votedRank": 2
   },
@@ -611,6 +695,7 @@
     "name": "Robin",
     "surname": "Böhnisch",
     "partyId": 9,
+    "countyId": 8,
     "rank": 3,
     "votedRank": 2
   },
@@ -618,6 +703,7 @@
     "name": "Dana",
     "surname": "Váhalová",
     "partyId": 9,
+    "countyId": 14,
     "rank": 3,
     "votedRank": 2
   },
@@ -625,6 +711,7 @@
     "name": "Jan",
     "surname": "Látka",
     "partyId": 9,
+    "countyId": 4,
     "rank": 6,
     "votedRank": 2
   },
@@ -632,6 +719,7 @@
     "name": "Jaroslav",
     "surname": "Foldyna",
     "partyId": 9,
+    "countyId": 6,
     "rank": 6,
     "votedRank": 2
   },
@@ -639,6 +727,7 @@
     "name": "Stanislav",
     "surname": "Křeček",
     "partyId": 9,
+    "countyId": 1,
     "rank": 18,
     "votedRank": 2
   },
@@ -646,6 +735,7 @@
     "name": "Ivan",
     "surname": "Ohlídal",
     "partyId": 9,
+    "countyId": 11,
     "rank": 3,
     "votedRank": 3
   },
@@ -653,6 +743,7 @@
     "name": "Jiří",
     "surname": "Krátký",
     "partyId": 9,
+    "countyId": 12,
     "rank": 3,
     "votedRank": 3
   },
@@ -660,6 +751,7 @@
     "name": "Jaroslav",
     "surname": "Krákora",
     "partyId": 9,
+    "countyId": 6,
     "rank": 3,
     "votedRank": 3
   },
@@ -667,6 +759,7 @@
     "name": "Václav",
     "surname": "Klučka",
     "partyId": 9,
+    "countyId": 14,
     "rank": 4,
     "votedRank": 3
   },
@@ -674,6 +767,7 @@
     "name": "Jan",
     "surname": "Hamáček",
     "partyId": 9,
+    "countyId": 2,
     "rank": 4,
     "votedRank": 3
   },
@@ -681,6 +775,7 @@
     "name": "Antonín",
     "surname": "Seďa",
     "partyId": 9,
+    "countyId": 13,
     "rank": 4,
     "votedRank": 3
   },
@@ -688,6 +783,7 @@
     "name": "Jiří",
     "surname": "Koskuba",
     "partyId": 9,
+    "countyId": 1,
     "rank": 6,
     "votedRank": 3
   },
@@ -695,6 +791,7 @@
     "name": "Josef",
     "surname": "Tancoš",
     "partyId": 9,
+    "countyId": 6,
     "rank": 4,
     "votedRank": 4,
     "leadByVotes": 4828,
@@ -706,6 +803,7 @@
     "name": "Ladislav",
     "surname": "Skopal",
     "partyId": 9,
+    "countyId": 11,
     "rank": 4,
     "votedRank": 4
   },
@@ -713,6 +811,7 @@
     "name": "Ladislav",
     "surname": "Velebný",
     "partyId": 9,
+    "countyId": 14,
     "rank": 5,
     "votedRank": 4
   },
@@ -720,6 +819,7 @@
     "name": "Jaroslav",
     "surname": "Vandas",
     "partyId": 9,
+    "countyId": 2,
     "rank": 5,
     "votedRank": 4
   },
@@ -727,6 +827,7 @@
     "name": "Roman",
     "surname": "Sklenák",
     "partyId": 9,
+    "countyId": 11,
     "rank": 5,
     "votedRank": 5
   },
@@ -734,6 +835,7 @@
     "name": "Adam",
     "surname": "Rykala",
     "partyId": 9,
+    "countyId": 14,
     "rank": 6,
     "votedRank": 5
   },
@@ -741,6 +843,7 @@
     "name": "Václav",
     "surname": "Zemek",
     "partyId": 9,
+    "countyId": 2,
     "rank": 6,
     "votedRank": 5
   },
@@ -748,6 +851,7 @@
     "name": "Jiří",
     "surname": "Petrů",
     "partyId": 9,
+    "countyId": 11,
     "rank": 6,
     "votedRank": 6
   },
@@ -755,6 +859,7 @@
     "name": "Ladislav",
     "surname": "Šincl",
     "partyId": 9,
+    "countyId": 14,
     "rank": 7,
     "votedRank": 6
   },
@@ -762,6 +867,7 @@
     "name": "Petr",
     "surname": "Jalowiczor",
     "partyId": 9,
+    "countyId": 14,
     "rank": 8,
     "votedRank": 7
   },
@@ -769,6 +875,7 @@
     "name": "Anna",
     "surname": "Putnová",
     "partyId": 15,
+    "countyId": 11,
     "rank": 1,
     "votedRank": 0
   },
@@ -776,6 +883,7 @@
     "name": "Jitka",
     "surname": "Chalánková",
     "partyId": 15,
+    "countyId": 12,
     "rank": 1,
     "votedRank": 0
   },
@@ -783,6 +891,7 @@
     "name": "Miroslav",
     "surname": "Kalousek",
     "partyId": 15,
+    "countyId": 2,
     "rank": 1,
     "votedRank": 0
   },
@@ -790,6 +899,7 @@
     "name": "Jaromír",
     "surname": "Drábek",
     "partyId": 15,
+    "countyId": 6,
     "rank": 1,
     "votedRank": 0
   },
@@ -797,6 +907,7 @@
     "name": "Pavol",
     "surname": "Lukša",
     "partyId": 15,
+    "countyId": 14,
     "rank": 1,
     "votedRank": 0
   },
@@ -804,6 +915,7 @@
     "name": "Karel",
     "surname": "Schwarzenberg",
     "partyId": 15,
+    "countyId": 1,
     "rank": 1,
     "votedRank": 0
   },
@@ -811,6 +923,7 @@
     "name": "Jaroslav",
     "surname": "Lobkowicz",
     "partyId": 15,
+    "countyId": 4,
     "rank": 1,
     "votedRank": 0
   },
@@ -818,6 +931,7 @@
     "name": "Petr",
     "surname": "Gazdík",
     "partyId": 15,
+    "countyId": 13,
     "rank": 1,
     "votedRank": 0
   },
@@ -825,6 +939,7 @@
     "name": "Leoš",
     "surname": "Heger",
     "partyId": 15,
+    "countyId": 8,
     "rank": 1,
     "votedRank": 0
   },
@@ -832,6 +947,7 @@
     "name": "Rudolf",
     "surname": "Chlad",
     "partyId": 15,
+    "countyId": 5,
     "rank": 3,
     "votedRank": 0
   },
@@ -839,6 +955,7 @@
     "name": "Zdeněk",
     "surname": "Bezecný",
     "partyId": 15,
+    "countyId": 3,
     "rank": 3,
     "votedRank": 0
   },
@@ -846,6 +963,7 @@
     "name": "Jiří",
     "surname": "Skalický",
     "partyId": 15,
+    "countyId": 9,
     "rank": 3,
     "votedRank": 0
   },
@@ -853,6 +971,7 @@
     "name": "Jan",
     "surname": "Farský",
     "partyId": 15,
+    "countyId": 7,
     "rank": 17,
     "votedRank": 0
   },
@@ -860,6 +979,7 @@
     "name": "Aleš",
     "surname": "Roztočil",
     "partyId": 15,
+    "countyId": 10,
     "rank": 19,
     "votedRank": 0
   },
@@ -867,6 +987,7 @@
     "name": "Václav",
     "surname": "Horáček",
     "partyId": 15,
+    "countyId": 7,
     "rank": 1,
     "votedRank": 1
   },
@@ -874,6 +995,7 @@
     "name": "Ladislav",
     "surname": "Jirků",
     "partyId": 15,
+    "countyId": 10,
     "rank": 1,
     "votedRank": 1
   },
@@ -881,6 +1003,7 @@
     "name": "Stanislav",
     "surname": "Polčák",
     "partyId": 15,
+    "countyId": 1,
     "rank": 2,
     "votedRank": 1
   },
@@ -888,6 +1011,7 @@
     "name": "Josef",
     "surname": "Cogan",
     "partyId": 15,
+    "countyId": 8,
     "rank": 2,
     "votedRank": 1
   },
@@ -895,6 +1019,7 @@
     "name": "Ludmila",
     "surname": "Bubeníková",
     "partyId": 15,
+    "countyId": 14,
     "rank": 2,
     "votedRank": 1
   },
@@ -902,6 +1027,7 @@
     "name": "Jiří",
     "surname": "Besser",
     "partyId": 15,
+    "countyId": 2,
     "rank": 2,
     "votedRank": 1
   },
@@ -909,6 +1035,7 @@
     "name": "Bořivoj",
     "surname": "Šarapatka",
     "partyId": 15,
+    "countyId": 12,
     "rank": 3,
     "votedRank": 1
   },
@@ -916,6 +1043,7 @@
     "name": "Michal",
     "surname": "Janek",
     "partyId": 15,
+    "countyId": 4,
     "rank": 3,
     "votedRank": 1
   },
@@ -923,6 +1051,7 @@
     "name": "Alena",
     "surname": "Hanáková",
     "partyId": 15,
+    "countyId": 13,
     "rank": 3,
     "votedRank": 1
   },
@@ -930,6 +1059,7 @@
     "name": "Rom",
     "surname": "Kostřica",
     "partyId": 15,
+    "countyId": 11,
     "rank": 5,
     "votedRank": 1
   },
@@ -937,6 +1067,7 @@
     "name": "Václav",
     "surname": "Cempírek",
     "partyId": 15,
+    "countyId": 9,
     "rank": 9,
     "votedRank": 1
   },
@@ -944,6 +1075,7 @@
     "name": "Patricie",
     "surname": "Kotalíková",
     "partyId": 15,
+    "countyId": 6,
     "rank": 11,
     "votedRank": 1
   },
@@ -951,6 +1083,7 @@
     "name": "Martin",
     "surname": "Gregora",
     "partyId": 15,
+    "countyId": 3,
     "rank": 20,
     "votedRank": 1
   },
@@ -958,6 +1091,7 @@
     "name": "Vlasta",
     "surname": "Parkanová",
     "partyId": 15,
+    "countyId": 3,
     "rank": 1,
     "votedRank": 2
   },
@@ -965,6 +1099,7 @@
     "name": "Jan",
     "surname": "Husák",
     "partyId": 15,
+    "countyId": 11,
     "rank": 2,
     "votedRank": 2
   },
@@ -972,6 +1107,7 @@
     "name": "Jiří",
     "surname": "Oliva",
     "partyId": 15,
+    "countyId": 8,
     "rank": 3,
     "votedRank": 2,
     "leadByVotes": 1652,
@@ -983,6 +1119,7 @@
     "name": "Václav",
     "surname": "Kubata",
     "partyId": 15,
+    "countyId": 1,
     "rank": 3,
     "votedRank": 2
   },
@@ -990,6 +1127,7 @@
     "name": "Jan",
     "surname": "Smutný",
     "partyId": 15,
+    "countyId": 2,
     "rank": 3,
     "votedRank": 2
   },
@@ -997,6 +1135,7 @@
     "name": "Renáta",
     "surname": "Witoszová",
     "partyId": 15,
+    "countyId": 14,
     "rank": 3,
     "votedRank": 2,
     "leadByVotes": 4987,
@@ -1008,6 +1147,7 @@
     "name": "Jaroslava",
     "surname": "Schejbalová",
     "partyId": 15,
+    "countyId": 11,
     "rank": 3,
     "votedRank": 3
   },
@@ -1015,6 +1155,7 @@
     "name": "Luděk",
     "surname": "Jeništa",
     "partyId": 15,
+    "countyId": 2,
     "rank": 4,
     "votedRank": 3
   },
@@ -1022,6 +1163,7 @@
     "name": "Daniel",
     "surname": "Korte",
     "partyId": 15,
+    "countyId": 1,
     "rank": 4,
     "votedRank": 3
   },
@@ -1029,6 +1171,7 @@
     "name": "Helena",
     "surname": "Langšádlová",
     "partyId": 15,
+    "countyId": 2,
     "rank": 5,
     "votedRank": 4
   },
@@ -1036,6 +1179,7 @@
     "name": "František",
     "surname": "Laudát",
     "partyId": 15,
+    "countyId": 1,
     "rank": 5,
     "votedRank": 4
   },
@@ -1043,6 +1187,7 @@
     "name": "Gabriela",
     "surname": "Pecková",
     "partyId": 15,
+    "countyId": 1,
     "rank": 6,
     "votedRank": 5
   },
@@ -1050,6 +1195,7 @@
     "name": "Jana",
     "surname": "Radová",
     "partyId": 15,
+    "countyId": 1,
     "rank": 7,
     "votedRank": 6
   },
@@ -1057,6 +1203,7 @@
     "name": "Jaroslav",
     "surname": "Eček",
     "partyId": 15,
+    "countyId": 1,
     "rank": 8,
     "votedRank": 7
   },
@@ -1064,6 +1211,7 @@
     "name": "David",
     "surname": "Vodrážka",
     "partyId": 26,
+    "countyId": 1,
     "rank": 1,
     "votedRank": 0
   },
@@ -1071,6 +1219,7 @@
     "name": "Jiří",
     "surname": "Pospíšil",
     "partyId": 26,
+    "countyId": 4,
     "rank": 1,
     "votedRank": 0
   },
@@ -1078,6 +1227,7 @@
     "name": "Pavel",
     "surname": "Drobil",
     "partyId": 26,
+    "countyId": 14,
     "rank": 1,
     "votedRank": 0
   },
@@ -1085,6 +1235,7 @@
     "name": "Petr",
     "surname": "Nečas",
     "partyId": 26,
+    "countyId": 13,
     "rank": 1,
     "votedRank": 0
   },
@@ -1092,6 +1243,7 @@
     "name": "Petr",
     "surname": "Bendl",
     "partyId": 26,
+    "countyId": 2,
     "rank": 1,
     "votedRank": 0
   },
@@ -1099,6 +1251,7 @@
     "name": "Miroslava",
     "surname": "Němcová",
     "partyId": 26,
+    "countyId": 10,
     "rank": 1,
     "votedRank": 0
   },
@@ -1106,6 +1259,7 @@
     "name": "Václav",
     "surname": "Mencl",
     "partyId": 26,
+    "countyId": 11,
     "rank": 1,
     "votedRank": 0
   },
@@ -1113,6 +1267,7 @@
     "name": "Petr",
     "surname": "Gandalovič",
     "partyId": 26,
+    "countyId": 6,
     "rank": 1,
     "votedRank": 0
   },
@@ -1120,6 +1275,7 @@
     "name": "Zdeněk",
     "surname": "Boháč",
     "partyId": 26,
+    "countyId": 12,
     "rank": 3,
     "votedRank": 0
   },
@@ -1127,6 +1283,7 @@
     "name": "Jan",
     "surname": "Bureš",
     "partyId": 26,
+    "countyId": 5,
     "rank": 4,
     "votedRank": 0
   },
@@ -1134,6 +1291,7 @@
     "name": "Vít",
     "surname": "Němeček",
     "partyId": 26,
+    "countyId": 7,
     "rank": 6,
     "votedRank": 0
   },
@@ -1141,6 +1299,7 @@
     "name": "Zdeňka",
     "surname": "Horníková",
     "partyId": 26,
+    "countyId": 8,
     "rank": 6,
     "votedRank": 0
   },
@@ -1148,6 +1307,7 @@
     "name": "Michal",
     "surname": "Doktor",
     "partyId": 26,
+    "countyId": 3,
     "rank": 7,
     "votedRank": 0
   },
@@ -1155,6 +1315,7 @@
     "name": "Jaroslav",
     "surname": "Martinů",
     "partyId": 26,
+    "countyId": 9,
     "rank": 18,
     "votedRank": 0
   },
@@ -1162,6 +1323,7 @@
     "name": "Jan",
     "surname": "Bauer",
     "partyId": 26,
+    "countyId": 3,
     "rank": 1,
     "votedRank": 1
   },
@@ -1169,6 +1331,7 @@
     "name": "Radim",
     "surname": "Fiala",
     "partyId": 26,
+    "countyId": 12,
     "rank": 2,
     "votedRank": 1
   },
@@ -1176,6 +1339,7 @@
     "name": "Pavel",
     "surname": "Suchánek",
     "partyId": 26,
+    "countyId": 11,
     "rank": 2,
     "votedRank": 1
   },
@@ -1183,6 +1347,7 @@
     "name": "Petr",
     "surname": "Tluchoř",
     "partyId": 26,
+    "countyId": 2,
     "rank": 2,
     "votedRank": 1
   },
@@ -1190,6 +1355,7 @@
     "name": "Jaroslava",
     "surname": "Wenigerová",
     "partyId": 26,
+    "countyId": 14,
     "rank": 2,
     "votedRank": 1
   },
@@ -1197,6 +1363,7 @@
     "name": "Ivana",
     "surname": "Řápková",
     "partyId": 26,
+    "countyId": 6,
     "rank": 2,
     "votedRank": 1
   },
@@ -1204,6 +1371,7 @@
     "name": "Jana",
     "surname": "Černochová",
     "partyId": 26,
+    "countyId": 1,
     "rank": 3,
     "votedRank": 1
   },
@@ -1211,6 +1379,7 @@
     "name": "Tomáš",
     "surname": "Úlehla",
     "partyId": 26,
+    "countyId": 13,
     "rank": 4,
     "votedRank": 1
   },
@@ -1218,6 +1387,7 @@
     "name": "Pavel",
     "surname": "Staněk",
     "partyId": 26,
+    "countyId": 8,
     "rank": 4,
     "votedRank": 1
   },
@@ -1225,6 +1395,7 @@
     "name": "Jan",
     "surname": "Čechlovský",
     "partyId": 26,
+    "countyId": 9,
     "rank": 9,
     "votedRank": 1
   },
@@ -1232,6 +1403,7 @@
     "name": "Ivana",
     "surname": "Weberová",
     "partyId": 26,
+    "countyId": 7,
     "rank": 9,
     "votedRank": 1
   },
@@ -1239,6 +1411,7 @@
     "name": "Vladislav",
     "surname": "Vilímec",
     "partyId": 26,
+    "countyId": 4,
     "rank": 10,
     "votedRank": 1
   },
@@ -1246,6 +1419,7 @@
     "name": "Jana",
     "surname": "Fischerová",
     "partyId": 26,
+    "countyId": 10,
     "rank": 12,
     "votedRank": 1
   },
@@ -1253,6 +1427,7 @@
     "name": "Jiří",
     "surname": "Papež",
     "partyId": 26,
+    "countyId": 4,
     "rank": 2,
     "votedRank": 2
   },
@@ -1260,6 +1435,7 @@
     "name": "Václav",
     "surname": "Baštýř",
     "partyId": 26,
+    "countyId": 3,
     "rank": 2,
     "votedRank": 2
   },
@@ -1267,6 +1443,7 @@
     "name": "Pavel",
     "surname": "Svoboda",
     "partyId": 26,
+    "countyId": 13,
     "rank": 2,
     "votedRank": 2
   },
@@ -1274,6 +1451,7 @@
     "name": "Marek",
     "surname": "Šnajdr",
     "partyId": 26,
+    "countyId": 2,
     "rank": 3,
     "votedRank": 2
   },
@@ -1281,6 +1459,7 @@
     "name": "Igor",
     "surname": "Svoják",
     "partyId": 26,
+    "countyId": 14,
     "rank": 3,
     "votedRank": 2
   },
@@ -1288,6 +1467,7 @@
     "name": "Walter",
     "surname": "Bartoš",
     "partyId": 26,
+    "countyId": 11,
     "rank": 3,
     "votedRank": 2
   },
@@ -1295,6 +1475,7 @@
     "name": "Jiří",
     "surname": "Šulc",
     "partyId": 26,
+    "countyId": 6,
     "rank": 3,
     "votedRank": 2
   },
@@ -1302,6 +1483,7 @@
     "name": "Tomáš",
     "surname": "Chalupa",
     "partyId": 26,
+    "countyId": 1,
     "rank": 9,
     "votedRank": 2
   },
@@ -1309,6 +1491,7 @@
     "name": "Radim",
     "surname": "Jirout",
     "partyId": 26,
+    "countyId": 9,
     "rank": 16,
     "votedRank": 2,
     "leadByVotes": 3548,
@@ -1320,6 +1503,7 @@
     "name": "Jan",
     "surname": "Pajer",
     "partyId": 26,
+    "countyId": 8,
     "rank": 20,
     "votedRank": 2
   },
@@ -1327,6 +1511,7 @@
     "name": "Pavel",
     "surname": "Bém",
     "partyId": 26,
+    "countyId": 1,
     "rank": 2,
     "votedRank": 3
   },
@@ -1334,6 +1519,7 @@
     "name": "Jaroslav",
     "surname": "Plachý",
     "partyId": 26,
+    "countyId": 13,
     "rank": 3,
     "votedRank": 3,
     "leadByVotes": 1120,
@@ -1345,6 +1531,7 @@
     "name": "František",
     "surname": "Dědič",
     "partyId": 26,
+    "countyId": 3,
     "rank": 3,
     "votedRank": 3,
     "leadByVotes": 46,
@@ -1356,6 +1543,7 @@
     "name": "Ivan",
     "surname": "Fuksa",
     "partyId": 26,
+    "countyId": 2,
     "rank": 4,
     "votedRank": 3
   },
@@ -1363,6 +1551,7 @@
     "name": "Zbyněk",
     "surname": "Stanjura",
     "partyId": 26,
+    "countyId": 14,
     "rank": 4,
     "votedRank": 3
   },
@@ -1370,6 +1559,7 @@
     "name": "David",
     "surname": "Šeich",
     "partyId": 26,
+    "countyId": 11,
     "rank": 4,
     "votedRank": 3
   },
@@ -1377,6 +1567,7 @@
     "name": "Miroslav",
     "surname": "Jeník",
     "partyId": 26,
+    "countyId": 2,
     "rank": 5,
     "votedRank": 4
   },
@@ -1384,6 +1575,7 @@
     "name": "Dana",
     "surname": "Filipi",
     "partyId": 26,
+    "countyId": 11,
     "rank": 5,
     "votedRank": 4
   },
@@ -1391,6 +1583,7 @@
     "name": "Jaroslav",
     "surname": "Krupka",
     "partyId": 26,
+    "countyId": 14,
     "rank": 5,
     "votedRank": 4
   },
@@ -1398,6 +1591,7 @@
     "name": "Lenka",
     "surname": "Kohoutová",
     "partyId": 26,
+    "countyId": 1,
     "rank": 29,
     "votedRank": 4
   },
@@ -1405,6 +1599,7 @@
     "name": "František",
     "surname": "Sivera",
     "partyId": 26,
+    "countyId": 11,
     "rank": 6,
     "votedRank": 5,
     "leadByVotes": 501,
@@ -1416,6 +1611,7 @@
     "name": "Aleš",
     "surname": "Rádl",
     "partyId": 26,
+    "countyId": 2,
     "rank": 6,
     "votedRank": 5
   },
@@ -1423,6 +1619,7 @@
     "name": "Marek",
     "surname": "Benda",
     "partyId": 26,
+    "countyId": 1,
     "rank": 17,
     "votedRank": 5
   },
@@ -1430,6 +1627,7 @@
     "name": "Boris",
     "surname": "Šťastný",
     "partyId": 26,
+    "countyId": 1,
     "rank": 4,
     "votedRank": 6
   },
@@ -1437,6 +1635,7 @@
     "name": "Jan",
     "surname": "Vidím",
     "partyId": 26,
+    "countyId": 2,
     "rank": 7,
     "votedRank": 6
   },
@@ -1444,6 +1643,7 @@
     "name": "Jan",
     "surname": "Florián",
     "partyId": 26,
+    "countyId": 1,
     "rank": 36,
     "votedRank": 7,
     "leadByVotes": 2053,

@@ -30,9 +30,9 @@ module.exports = class SubdatasetComputer
 
                 lastCandidateIndex = null
                 candidates.forEach (candidate) ->
-                    {name, surname, partyId, rank, votedRank, mandate} = candidate
+                    {name, surname, partyId, countyId, rank, votedRank, mandate} = candidate
                     return if not mandate
-                    newLength = output.push {name, surname, partyId, rank, votedRank}
+                    newLength = output.push {name, surname, partyId, countyId, rank, votedRank}
                     lastCandidateIndex := newLength - 1
                 if party.lowestScore < countyLowestScore
                     countyLowestScore     := party.lowestScore

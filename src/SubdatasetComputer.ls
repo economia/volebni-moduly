@@ -21,9 +21,9 @@ module.exports = class SubdatasetComputer
         output = []
         @forEachParty ({candidates}:party) ->
             candidates.forEach (candidate) ->
-                {partyId, name, surname, mandate} = candidate
+                {name, surname, partyId, rank, votedRank, mandate} = candidate
                 return if not mandate
-                output.push {partyId, name, surname}
+                output.push {name, surname, partyId, rank, votedRank}
         output
 
     sortCandidates: (candidates) ->

@@ -40,6 +40,8 @@ module.exports = class SubdatasetComputer
             if countyLowestCandidate.partyId != countyClosestParty.id
                 countyLowestCandidate
                     ..leadByVotes = countyClosestParty.requiredVotes
+                    ..leadByScore = countyClosestParty.requiredScore
+                    ..score       = countyLowestScore
                     ..leadFromParty = countyClosestParty.id
         output
 

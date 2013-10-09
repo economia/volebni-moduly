@@ -19,11 +19,28 @@ module.exports = class SubdatasetComputer
 
     loadCandidates: ->
         output = []
-        @forEachParty ({candidates}:party) ->
-            candidates.forEach (candidate) ->
-                {name, surname, partyId, rank, votedRank, mandate} = candidate
-                return if not mandate
-                output.push {name, surname, partyId, rank, votedRank}
+        @dataset.forEach ({parties}:county) ->
+            countyLowestScore = +Infinity
+            countyLowestCandidate = null
+            countyClosestParty = null
+            parties.forEach ({candidates}:party) ->
+                if party.requiredVotes
+                    countyClosestParty := party
+
+                lastCandidateIndex = null
+                candidates.forEach (candidate) ->
+                    {name, surname, partyId, rank, votedRank, mandate} = candidate
+                    return if not mandate
+                    newLength = output.push {name, surname, partyId, rank, votedRank}
+                    lastCandidateIndex := newLength - 1
+                if party.lowestScore < countyLowestScore
+                    countyLowestScore     := party.lowestScore
+                    countyLowestCandidate := output[lastCandidateIndex]
+            return unless countyLowestCandidate && countyClosestParty
+            if countyLowestCandidate.partyId != countyClosestParty.id
+                countyLowestCandidate
+                    ..leadByVotes = countyClosestParty.requiredVotes
+                    ..leadFromParty = countyClosestParty.id
         output
 
     sortCandidates: (candidates) ->

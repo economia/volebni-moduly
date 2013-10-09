@@ -35,3 +35,9 @@ describe "Subdataset Computer" ->
         expect candidates.0 .to.have.property \partyId 4
         expect candidates.0 .to.have.property \rank 1
         expect candidates.0 .to.have.property \votedRank 0
+        lastCandidates = candidates
+            .filter -> it.leadByVotes
+            .sort (a, b) -> a.leadByVotes - b.leadByVotes
+        expect lastCandidates.0 .to.have.property \leadByVotes 45.5
+        expect lastCandidates.0 .to.have.property \partyId 26
+        expect lastCandidates.0 .to.have.property \surname \Dědič

@@ -6,7 +6,9 @@ require! {
 test = it
 describe "Subdataset Computer" ->
     subdatasetComputer = null
-    baseDataset = null
+    baseDataset        = null
+    parties            = null
+    candidates         = null
     before (done) ->
         (err, data) <~ fs.readFile "#__dirname/data/sampleResult.json"
         baseDataset := JSON.parse data.toString!
@@ -16,7 +18,7 @@ describe "Subdataset Computer" ->
         subdatasetComputer.setBaseDataset baseDataset
 
     test "should produce parties dataset" ->
-        parties = subdatasetComputer.getParties!
+        parties := subdatasetComputer.getParties!
         expect parties .to.be.an \array
         expect parties .to.have.length 26
         expect parties.0 .to.have.property \name "OBČANÉ.CZ"
@@ -27,7 +29,7 @@ describe "Subdataset Computer" ->
         expect percent .to.equal 26
 
     test "should produce candidates dataset" ->
-        candidates = subdatasetComputer.getCandidates!
+        candidates := subdatasetComputer.getCandidates!
         expect candidates .to.be.an \array
         expect candidates .to.have.length 200
         expect candidates.0 .to.have.property \name \Radek
@@ -42,3 +44,10 @@ describe "Subdataset Computer" ->
         expect lastCandidates.0 .to.have.property \leadByScore 22.75
         expect lastCandidates.0 .to.have.property \partyId 26
         expect lastCandidates.0 .to.have.property \surname \Dědič
+
+    after (done) ->
+        (err) <~ fs.writeFile "#__dirname/data/sampleParties.json", JSON.stringify parties, null, "  "
+        throw err if err
+        (err) <~ fs.writeFile "#__dirname/data/sampleCandidates.json", JSON.stringify candidates, null, "  "
+        throw err if err
+        done!

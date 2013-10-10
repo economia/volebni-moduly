@@ -24,19 +24,19 @@ describe "Parser for candidates" ->
         done!
 
     test "should get all candidates" ->
-        expect list .to.have.length 5059
+        expect list .to.have.length 5022
 
     test "candidates should have correct properties" ->
         expect list.0 .to.have.property \countyId 1
         expect list.0 .to.have.property \partyId 1
         expect list.0 .to.have.property \rank 1
         expect list.0 .to.have.property \surname "Havlík"
-        expect list.5058 .to.have.property \countyId 14
-        expect list.5058 .to.have.property \partyId 26
-        expect list.5058 .to.have.property \rank 36
-        expect list.5058 .to.have.property \surname "Hrabec"
-        expect list.5058 .to.have.property \name "Lukáš"
+        expect list.5021 .to.have.property \countyId 14
+        expect list.5021 .to.have.property \partyId 26
+        expect list.5021 .to.have.property \rank 36
+        expect list.5021 .to.have.property \surname "Hrabec"
+        expect list.5021 .to.have.property \name "Lukáš"
 
     test "candidates should have their preferential votes computed" ->
         expect list.0 .to.have.property \votes 162
-        expect list.5058 .to.have.property \votes 3531
+        expect list.5021 .to.have.property \votes 3531

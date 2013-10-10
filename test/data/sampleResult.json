@@ -1213,25 +1213,13 @@
           {
             "countyId": 1,
             "partyId": 6,
-            "rank": 7,
-            "name": "Lucie",
-            "surname": "Rovná",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 7,
-            "mandate": false
-          },
-          {
-            "countyId": 1,
-            "partyId": 6,
             "rank": 8,
             "name": "František",
             "surname": "Hoffman",
             "title1": "JUDr.",
             "title2": "",
             "votes": 797,
-            "votedRank": 8,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -1243,7 +1231,7 @@
             "title1": "JUDr.",
             "title2": "",
             "votes": 731,
-            "votedRank": 9,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -1255,7 +1243,7 @@
             "title1": "",
             "title2": "",
             "votes": 1008,
-            "votedRank": 10,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -1267,7 +1255,7 @@
             "title1": "",
             "title2": "BBA",
             "votes": 824,
-            "votedRank": 11,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -1279,7 +1267,7 @@
             "title1": "",
             "title2": "",
             "votes": 685,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -1291,7 +1279,7 @@
             "title1": "PhDr.",
             "title2": "",
             "votes": 554,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -1303,7 +1291,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 917,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -1315,7 +1303,7 @@
             "title1": "PhDr.",
             "title2": "",
             "votes": 231,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -1327,7 +1315,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 262,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -1339,7 +1327,7 @@
             "title1": "Prof. RNDr.",
             "title2": "CSc.",
             "votes": 831,
-            "votedRank": 17,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -1351,7 +1339,7 @@
             "title1": "JUDr.",
             "title2": "",
             "votes": 940,
-            "votedRank": 18,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -1363,7 +1351,7 @@
             "title1": "",
             "title2": "",
             "votes": 735,
-            "votedRank": 19,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -1375,7 +1363,7 @@
             "title1": "",
             "title2": "",
             "votes": 533,
-            "votedRank": 20,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -1387,7 +1375,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 963,
-            "votedRank": 21,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -1399,7 +1387,7 @@
             "title1": "PhDr.",
             "title2": "",
             "votes": 502,
-            "votedRank": 22,
+            "votedRank": 21,
             "mandate": false
           },
           {
@@ -1411,7 +1399,7 @@
             "title1": "",
             "title2": "",
             "votes": 83,
-            "votedRank": 23,
+            "votedRank": 22,
             "mandate": false
           },
           {
@@ -1423,7 +1411,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 167,
-            "votedRank": 24,
+            "votedRank": 23,
             "mandate": false
           },
           {
@@ -1435,7 +1423,7 @@
             "title1": "",
             "title2": "",
             "votes": 382,
-            "votedRank": 25,
+            "votedRank": 24,
             "mandate": false
           },
           {
@@ -1447,7 +1435,7 @@
             "title1": "",
             "title2": "",
             "votes": 54,
-            "votedRank": 26,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -1459,7 +1447,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 360,
-            "votedRank": 27,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -1471,7 +1459,7 @@
             "title1": "",
             "title2": "",
             "votes": 316,
-            "votedRank": 28,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -1483,7 +1471,7 @@
             "title1": "JUDr.",
             "title2": "",
             "votes": 355,
-            "votedRank": 29,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -1495,7 +1483,7 @@
             "title1": "",
             "title2": "",
             "votes": 226,
-            "votedRank": 30,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -1507,7 +1495,7 @@
             "title1": "",
             "title2": "",
             "votes": 391,
-            "votedRank": 31,
+            "votedRank": 30,
             "mandate": false
           },
           {
@@ -1519,7 +1507,7 @@
             "title1": "",
             "title2": "",
             "votes": 245,
-            "votedRank": 32,
+            "votedRank": 31,
             "mandate": false
           },
           {
@@ -1531,7 +1519,7 @@
             "title1": "",
             "title2": "",
             "votes": 384,
-            "votedRank": 33,
+            "votedRank": 32,
             "mandate": false
           },
           {
@@ -1543,7 +1531,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 333,
-            "votedRank": 34,
+            "votedRank": 33,
             "mandate": false
           },
           {
@@ -1555,7 +1543,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 220,
-            "votedRank": 35,
+            "votedRank": 34,
             "mandate": false
           }
         ],
@@ -2725,25 +2713,13 @@
           {
             "countyId": 1,
             "partyId": 13,
-            "rank": 14,
-            "name": "Petra",
-            "surname": "Mazanová",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 13,
-            "mandate": false
-          },
-          {
-            "countyId": 1,
-            "partyId": 13,
             "rank": 15,
             "name": "Michael",
             "surname": "Kroh",
             "title1": "Doc. Ing.",
             "title2": "CSc.",
             "votes": 240,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -2755,7 +2731,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 90,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -2767,7 +2743,7 @@
             "title1": "PaedDr.",
             "title2": "",
             "votes": 142,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -2779,7 +2755,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 226,
-            "votedRank": 17,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -2791,7 +2767,7 @@
             "title1": "",
             "title2": "",
             "votes": 132,
-            "votedRank": 18,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -2803,7 +2779,7 @@
             "title1": "",
             "title2": "",
             "votes": 63,
-            "votedRank": 19,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -2815,7 +2791,7 @@
             "title1": "JUDr.",
             "title2": "",
             "votes": 106,
-            "votedRank": 20,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -2827,7 +2803,7 @@
             "title1": "PhDr.",
             "title2": "",
             "votes": 134,
-            "votedRank": 21,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -2839,7 +2815,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 82,
-            "votedRank": 22,
+            "votedRank": 21,
             "mandate": false
           },
           {
@@ -2851,7 +2827,7 @@
             "title1": "JUDr.",
             "title2": "",
             "votes": 207,
-            "votedRank": 23,
+            "votedRank": 22,
             "mandate": false
           },
           {
@@ -2863,7 +2839,7 @@
             "title1": "",
             "title2": "",
             "votes": 48,
-            "votedRank": 24,
+            "votedRank": 23,
             "mandate": false
           },
           {
@@ -2875,7 +2851,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 80,
-            "votedRank": 25,
+            "votedRank": 24,
             "mandate": false
           },
           {
@@ -2887,7 +2863,7 @@
             "title1": "",
             "title2": "",
             "votes": 74,
-            "votedRank": 26,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -2899,7 +2875,7 @@
             "title1": "",
             "title2": "",
             "votes": 90,
-            "votedRank": 27,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -2911,7 +2887,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 331,
-            "votedRank": 28,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -2923,7 +2899,7 @@
             "title1": "",
             "title2": "",
             "votes": 80,
-            "votedRank": 29,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -2935,7 +2911,7 @@
             "title1": "",
             "title2": "",
             "votes": 74,
-            "votedRank": 30,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -2947,7 +2923,7 @@
             "title1": "",
             "title2": "",
             "votes": 311,
-            "votedRank": 31,
+            "votedRank": 30,
             "mandate": false
           },
           {
@@ -2959,7 +2935,7 @@
             "title1": "",
             "title2": "",
             "votes": 198,
-            "votedRank": 32,
+            "votedRank": 31,
             "mandate": false
           },
           {
@@ -2971,7 +2947,7 @@
             "title1": "",
             "title2": "",
             "votes": 236,
-            "votedRank": 33,
+            "votedRank": 32,
             "mandate": false
           },
           {
@@ -2983,7 +2959,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 474,
-            "votedRank": 34,
+            "votedRank": 33,
             "mandate": false
           },
           {
@@ -2995,7 +2971,7 @@
             "title1": "",
             "title2": "",
             "votes": 250,
-            "votedRank": 35,
+            "votedRank": 34,
             "mandate": false
           }
         ],
@@ -6735,25 +6711,13 @@
           {
             "countyId": 1,
             "partyId": 25,
-            "rank": 28,
-            "name": "Michal",
-            "surname": "Kretschmer",
-            "title1": "Ing.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 27,
-            "mandate": false
-          },
-          {
-            "countyId": 1,
-            "partyId": 25,
             "rank": 29,
             "name": "Pavel",
             "surname": "Jirsa",
             "title1": "",
             "title2": "",
             "votes": 62,
-            "votedRank": 28,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -6765,7 +6729,7 @@
             "title1": "",
             "title2": "",
             "votes": 78,
-            "votedRank": 29,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -6777,7 +6741,7 @@
             "title1": "Mgr.",
             "title2": "CSc.",
             "votes": 136,
-            "votedRank": 30,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -6789,7 +6753,7 @@
             "title1": "",
             "title2": "",
             "votes": 117,
-            "votedRank": 31,
+            "votedRank": 30,
             "mandate": false
           }
         ],
@@ -7915,25 +7879,13 @@
           {
             "countyId": 2,
             "partyId": 4,
-            "rank": 4,
-            "name": "Daniela",
-            "surname": "Göttelová",
-            "title1": "Ing.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 4,
-            "mandate": false
-          },
-          {
-            "countyId": 2,
-            "partyId": 4,
             "rank": 5,
             "name": "Tomáš",
             "surname": "Bubeníček",
             "title1": "",
             "title2": "",
             "votes": 927,
-            "votedRank": 5,
+            "votedRank": 4,
             "mandate": false
           },
           {
@@ -7945,7 +7897,7 @@
             "title1": "",
             "title2": "",
             "votes": 528,
-            "votedRank": 6,
+            "votedRank": 5,
             "mandate": false
           },
           {
@@ -7957,7 +7909,7 @@
             "title1": "",
             "title2": "",
             "votes": 456,
-            "votedRank": 7,
+            "votedRank": 6,
             "mandate": false
           },
           {
@@ -7969,7 +7921,7 @@
             "title1": "MUDr.",
             "title2": "",
             "votes": 1604,
-            "votedRank": 8,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -7981,7 +7933,7 @@
             "title1": "JUDr.",
             "title2": "",
             "votes": 1059,
-            "votedRank": 9,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -7993,7 +7945,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 666,
-            "votedRank": 10,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -8005,7 +7957,7 @@
             "title1": "",
             "title2": "",
             "votes": 649,
-            "votedRank": 11,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -8017,7 +7969,7 @@
             "title1": "",
             "title2": "",
             "votes": 592,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -8029,7 +7981,7 @@
             "title1": "",
             "title2": "",
             "votes": 1214,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -8041,7 +7993,7 @@
             "title1": "",
             "title2": "",
             "votes": 325,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -8053,7 +8005,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 1127,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -8065,7 +8017,7 @@
             "title1": "",
             "title2": "",
             "votes": 235,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -8077,7 +8029,7 @@
             "title1": "",
             "title2": "",
             "votes": 701,
-            "votedRank": 17,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -8089,7 +8041,7 @@
             "title1": "",
             "title2": "",
             "votes": 779,
-            "votedRank": 18,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -8101,7 +8053,7 @@
             "title1": "",
             "title2": "",
             "votes": 456,
-            "votedRank": 19,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -8113,7 +8065,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 604,
-            "votedRank": 20,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -8125,7 +8077,7 @@
             "title1": "",
             "title2": "",
             "votes": 443,
-            "votedRank": 21,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -8137,7 +8089,7 @@
             "title1": "",
             "title2": "",
             "votes": 402,
-            "votedRank": 22,
+            "votedRank": 21,
             "mandate": false
           },
           {
@@ -8149,7 +8101,7 @@
             "title1": "",
             "title2": "",
             "votes": 538,
-            "votedRank": 23,
+            "votedRank": 22,
             "mandate": false
           },
           {
@@ -8161,7 +8113,7 @@
             "title1": "PaedDr.",
             "title2": "",
             "votes": 1273,
-            "votedRank": 24,
+            "votedRank": 23,
             "mandate": false
           },
           {
@@ -8173,7 +8125,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 170,
-            "votedRank": 25,
+            "votedRank": 24,
             "mandate": false
           },
           {
@@ -8185,7 +8137,7 @@
             "title1": "",
             "title2": "DiS.",
             "votes": 409,
-            "votedRank": 26,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -8197,7 +8149,7 @@
             "title1": "",
             "title2": "",
             "votes": 679,
-            "votedRank": 27,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -8209,7 +8161,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 1147,
-            "votedRank": 28,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -8221,7 +8173,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 898,
-            "votedRank": 29,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -8233,7 +8185,7 @@
             "title1": "",
             "title2": "",
             "votes": 1149,
-            "votedRank": 30,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -8245,7 +8197,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 317,
-            "votedRank": 31,
+            "votedRank": 30,
             "mandate": false
           },
           {
@@ -8257,7 +8209,7 @@
             "title1": "",
             "title2": "",
             "votes": 372,
-            "votedRank": 32,
+            "votedRank": 31,
             "mandate": false
           },
           {
@@ -8269,7 +8221,7 @@
             "title1": "",
             "title2": "",
             "votes": 906,
-            "votedRank": 33,
+            "votedRank": 32,
             "mandate": false
           }
         ],
@@ -9569,25 +9521,13 @@
           {
             "countyId": 2,
             "partyId": 11,
-            "rank": 11,
-            "name": "Jaroslav",
-            "surname": "Kronus",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 10,
-            "mandate": false
-          },
-          {
-            "countyId": 2,
-            "partyId": 11,
             "rank": 12,
             "name": "Silvie",
             "surname": "Jiránková",
             "title1": "",
             "title2": "",
             "votes": 30,
-            "votedRank": 11,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -9599,7 +9539,7 @@
             "title1": "",
             "title2": "",
             "votes": 38,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -9611,7 +9551,7 @@
             "title1": "",
             "title2": "",
             "votes": 16,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -9623,7 +9563,7 @@
             "title1": "",
             "title2": "",
             "votes": 5,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -9635,7 +9575,7 @@
             "title1": "",
             "title2": "",
             "votes": 15,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -9647,7 +9587,7 @@
             "title1": "",
             "title2": "",
             "votes": 19,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -9659,7 +9599,7 @@
             "title1": "",
             "title2": "",
             "votes": 11,
-            "votedRank": 17,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -9671,7 +9611,7 @@
             "title1": "",
             "title2": "",
             "votes": 15,
-            "votedRank": 18,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -9683,7 +9623,7 @@
             "title1": "",
             "title2": "",
             "votes": 20,
-            "votedRank": 19,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -9695,7 +9635,7 @@
             "title1": "",
             "title2": "",
             "votes": 26,
-            "votedRank": 20,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -9707,7 +9647,7 @@
             "title1": "",
             "title2": "",
             "votes": 12,
-            "votedRank": 21,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -9719,7 +9659,7 @@
             "title1": "",
             "title2": "",
             "votes": 8,
-            "votedRank": 22,
+            "votedRank": 21,
             "mandate": false
           },
           {
@@ -9731,7 +9671,7 @@
             "title1": "",
             "title2": "",
             "votes": 18,
-            "votedRank": 23,
+            "votedRank": 22,
             "mandate": false
           },
           {
@@ -9743,7 +9683,7 @@
             "title1": "",
             "title2": "",
             "votes": 2,
-            "votedRank": 24,
+            "votedRank": 23,
             "mandate": false
           },
           {
@@ -9755,7 +9695,7 @@
             "title1": "",
             "title2": "",
             "votes": 8,
-            "votedRank": 25,
+            "votedRank": 24,
             "mandate": false
           },
           {
@@ -9767,7 +9707,7 @@
             "title1": "",
             "title2": "",
             "votes": 9,
-            "votedRank": 26,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -9779,7 +9719,7 @@
             "title1": "",
             "title2": "",
             "votes": 7,
-            "votedRank": 27,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -9791,7 +9731,7 @@
             "title1": "",
             "title2": "",
             "votes": 14,
-            "votedRank": 28,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -9803,7 +9743,7 @@
             "title1": "",
             "title2": "",
             "votes": 5,
-            "votedRank": 29,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -9815,7 +9755,7 @@
             "title1": "",
             "title2": "",
             "votes": 8,
-            "votedRank": 30,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -9827,7 +9767,7 @@
             "title1": "",
             "title2": "",
             "votes": 2,
-            "votedRank": 31,
+            "votedRank": 30,
             "mandate": false
           },
           {
@@ -9839,7 +9779,7 @@
             "title1": "",
             "title2": "",
             "votes": 3,
-            "votedRank": 32,
+            "votedRank": 31,
             "mandate": false
           },
           {
@@ -9851,7 +9791,7 @@
             "title1": "",
             "title2": "",
             "votes": 11,
-            "votedRank": 33,
+            "votedRank": 32,
             "mandate": false
           }
         ],
@@ -13172,25 +13112,13 @@
           {
             "countyId": 2,
             "partyId": 24,
-            "rank": 9,
-            "name": "Petr",
-            "surname": "Majer",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 8,
-            "mandate": false
-          },
-          {
-            "countyId": 2,
-            "partyId": 24,
             "rank": 10,
             "name": "Martin",
             "surname": "Malý",
             "title1": "",
             "title2": "",
             "votes": 71,
-            "votedRank": 9,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -13202,7 +13130,7 @@
             "title1": "",
             "title2": "",
             "votes": 110,
-            "votedRank": 10,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -13214,7 +13142,7 @@
             "title1": "",
             "title2": "",
             "votes": 71,
-            "votedRank": 11,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -13226,7 +13154,7 @@
             "title1": "",
             "title2": "",
             "votes": 82,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -13238,7 +13166,7 @@
             "title1": "",
             "title2": "",
             "votes": 75,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -13250,7 +13178,7 @@
             "title1": "",
             "title2": "",
             "votes": 34,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -13262,7 +13190,7 @@
             "title1": "",
             "title2": "",
             "votes": 41,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -13274,7 +13202,7 @@
             "title1": "",
             "title2": "",
             "votes": 39,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -13286,7 +13214,7 @@
             "title1": "",
             "title2": "",
             "votes": 28,
-            "votedRank": 17,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -13298,19 +13226,7 @@
             "title1": "",
             "title2": "",
             "votes": 30,
-            "votedRank": 18,
-            "mandate": false
-          },
-          {
-            "countyId": 2,
-            "partyId": 24,
-            "rank": 20,
-            "name": "Alena",
-            "surname": "Kuželíková",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 19,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -13322,7 +13238,7 @@
             "title1": "",
             "title2": "",
             "votes": 76,
-            "votedRank": 20,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -13334,7 +13250,7 @@
             "title1": "",
             "title2": "",
             "votes": 42,
-            "votedRank": 21,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -13346,7 +13262,7 @@
             "title1": "",
             "title2": "",
             "votes": 44,
-            "votedRank": 22,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -13358,7 +13274,7 @@
             "title1": "",
             "title2": "",
             "votes": 21,
-            "votedRank": 23,
+            "votedRank": 21,
             "mandate": false
           },
           {
@@ -13370,7 +13286,7 @@
             "title1": "",
             "title2": "",
             "votes": 30,
-            "votedRank": 24,
+            "votedRank": 22,
             "mandate": false
           },
           {
@@ -13382,7 +13298,7 @@
             "title1": "",
             "title2": "",
             "votes": 43,
-            "votedRank": 25,
+            "votedRank": 23,
             "mandate": false
           },
           {
@@ -13394,7 +13310,7 @@
             "title1": "",
             "title2": "",
             "votes": 39,
-            "votedRank": 26,
+            "votedRank": 24,
             "mandate": false
           },
           {
@@ -13406,7 +13322,7 @@
             "title1": "",
             "title2": "",
             "votes": 30,
-            "votedRank": 27,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -13418,7 +13334,7 @@
             "title1": "",
             "title2": "",
             "votes": 33,
-            "votedRank": 28,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -13430,7 +13346,7 @@
             "title1": "",
             "title2": "",
             "votes": 51,
-            "votedRank": 29,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -13442,7 +13358,7 @@
             "title1": "",
             "title2": "",
             "votes": 80,
-            "votedRank": 30,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -13454,7 +13370,7 @@
             "title1": "",
             "title2": "",
             "votes": 43,
-            "votedRank": 31,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -13466,7 +13382,7 @@
             "title1": "",
             "title2": "",
             "votes": 14,
-            "votedRank": 32,
+            "votedRank": 30,
             "mandate": false
           },
           {
@@ -13478,7 +13394,7 @@
             "title1": "",
             "title2": "",
             "votes": 21,
-            "votedRank": 33,
+            "votedRank": 31,
             "mandate": false
           }
         ],
@@ -19505,18 +19421,6 @@
             "votes": 220,
             "votedRank": 17,
             "mandate": false
-          },
-          {
-            "countyId": 4,
-            "partyId": 13,
-            "rank": 19,
-            "name": "Emil",
-            "surname": "Pográn",
-            "title1": "Mgr.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 18,
-            "mandate": false
           }
         ],
         "mandates": 0
@@ -20730,25 +20634,13 @@
           {
             "countyId": 4,
             "partyId": 20,
-            "rank": 9,
-            "name": "Jiří",
-            "surname": "Anderle",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 9,
-            "mandate": false
-          },
-          {
-            "countyId": 4,
-            "partyId": 20,
             "rank": 11,
             "name": "Dagmar",
             "surname": "Hanzelínová",
             "title1": "Mgr.",
             "title2": "",
             "votes": 91,
-            "votedRank": 10,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -20760,7 +20652,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 40,
-            "votedRank": 11,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -20772,7 +20664,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 103,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -20784,7 +20676,7 @@
             "title1": "",
             "title2": "",
             "votes": 70,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -20796,7 +20688,7 @@
             "title1": "",
             "title2": "",
             "votes": 100,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -20808,7 +20700,7 @@
             "title1": "",
             "title2": "",
             "votes": 47,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -20820,19 +20712,7 @@
             "title1": "",
             "title2": "",
             "votes": 118,
-            "votedRank": 16,
-            "mandate": false
-          },
-          {
-            "countyId": 4,
-            "partyId": 20,
-            "rank": 18,
-            "name": "Roman",
-            "surname": "Muhr",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 17,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -20844,19 +20724,7 @@
             "title1": "",
             "title2": "",
             "votes": 86,
-            "votedRank": 18,
-            "mandate": false
-          },
-          {
-            "countyId": 4,
-            "partyId": 20,
-            "rank": 20,
-            "name": "Jan",
-            "surname": "Sladký",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 19,
+            "votedRank": 16,
             "mandate": false
           }
         ],
@@ -21435,25 +21303,13 @@
           {
             "countyId": 4,
             "partyId": 24,
-            "rank": 14,
-            "name": "Daniel",
-            "surname": "Jedlička",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 13,
-            "mandate": false
-          },
-          {
-            "countyId": 4,
-            "partyId": 24,
             "rank": 15,
             "name": "Martin",
             "surname": "Herejk",
             "title1": "",
             "title2": "",
             "votes": 32,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -21465,19 +21321,7 @@
             "title1": "",
             "title2": "",
             "votes": 63,
-            "votedRank": 15,
-            "mandate": false
-          },
-          {
-            "countyId": 4,
-            "partyId": 24,
-            "rank": 17,
-            "name": "Martin",
-            "surname": "Ulč",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 16,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -21489,7 +21333,7 @@
             "title1": "",
             "title2": "",
             "votes": 53,
-            "votedRank": 17,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -21501,7 +21345,7 @@
             "title1": "",
             "title2": "",
             "votes": 56,
-            "votedRank": 18,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -21513,7 +21357,7 @@
             "title1": "",
             "title2": "",
             "votes": 29,
-            "votedRank": 19,
+            "votedRank": 17,
             "mandate": false
           }
         ],
@@ -24392,25 +24236,13 @@
           {
             "countyId": 6,
             "partyId": 4,
-            "rank": 3,
-            "name": "Josef",
-            "surname": "Horváth",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 2,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 4,
             "rank": 4,
             "name": "Majdalena",
             "surname": "Jelínková",
             "title1": "Mgr.",
             "title2": "",
             "votes": 1495,
-            "votedRank": 3,
+            "votedRank": 2,
             "mandate": false
           },
           {
@@ -24422,7 +24254,7 @@
             "title1": "",
             "title2": "",
             "votes": 964,
-            "votedRank": 4,
+            "votedRank": 3,
             "mandate": false
           },
           {
@@ -24434,19 +24266,7 @@
             "title1": "",
             "title2": "",
             "votes": 425,
-            "votedRank": 5,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 4,
-            "rank": 7,
-            "name": "Registrační úřad ponechal pozici volnou",
-            "surname": "Kandidát v registraci škrtnut",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 6,
+            "votedRank": 4,
             "mandate": false
           },
           {
@@ -24458,19 +24278,7 @@
             "title1": "",
             "title2": "",
             "votes": 1184,
-            "votedRank": 7,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 4,
-            "rank": 9,
-            "name": "Registrační úřad ponechal pozici volnou",
-            "surname": "Kandidát v registraci škrtnut",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 8,
+            "votedRank": 5,
             "mandate": false
           },
           {
@@ -24482,7 +24290,7 @@
             "title1": "",
             "title2": "",
             "votes": 559,
-            "votedRank": 9,
+            "votedRank": 6,
             "mandate": false
           },
           {
@@ -24494,7 +24302,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 1605,
-            "votedRank": 10,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -24506,7 +24314,7 @@
             "title1": "",
             "title2": "",
             "votes": 584,
-            "votedRank": 11,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -24518,7 +24326,7 @@
             "title1": "",
             "title2": "",
             "votes": 448,
-            "votedRank": 12,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -24530,7 +24338,7 @@
             "title1": "",
             "title2": "",
             "votes": 396,
-            "votedRank": 13,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -24542,7 +24350,7 @@
             "title1": "Bc.",
             "title2": "DiS.",
             "votes": 969,
-            "votedRank": 14,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -24554,7 +24362,7 @@
             "title1": "",
             "title2": "",
             "votes": 524,
-            "votedRank": 15,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -24566,7 +24374,7 @@
             "title1": "",
             "title2": "",
             "votes": 763,
-            "votedRank": 16,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -24578,7 +24386,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 1179,
-            "votedRank": 17,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -24590,19 +24398,7 @@
             "title1": "",
             "title2": "",
             "votes": 383,
-            "votedRank": 18,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 4,
-            "rank": 20,
-            "name": "Registrační úřad ponechal pozici volnou",
-            "surname": "Kandidát v registraci škrtnut",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 19,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -24614,7 +24410,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 1162,
-            "votedRank": 20,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -24626,7 +24422,7 @@
             "title1": "",
             "title2": "",
             "votes": 698,
-            "votedRank": 21,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -24638,19 +24434,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 1189,
-            "votedRank": 22,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 4,
-            "rank": 24,
-            "name": "Registrační úřad ponechal pozici volnou",
-            "surname": "Kandidát v registraci škrtnut",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 23,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -24662,7 +24446,7 @@
             "title1": "",
             "title2": "",
             "votes": 1167,
-            "votedRank": 24,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -24674,7 +24458,7 @@
             "title1": "",
             "title2": "",
             "votes": 1185,
-            "votedRank": 25,
+            "votedRank": 20,
             "mandate": false
           }
         ],
@@ -25485,37 +25269,13 @@
           {
             "countyId": 6,
             "partyId": 13,
-            "rank": 9,
-            "name": "Jan",
-            "surname": "Hlaváček",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 8,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 13,
             "rank": 10,
             "name": "Hana",
             "surname": "Jánská",
             "title1": "",
             "title2": "",
             "votes": 281,
-            "votedRank": 9,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 13,
-            "rank": 11,
-            "name": "Radek",
-            "surname": "Filous",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 10,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -25527,7 +25287,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 468,
-            "votedRank": 11,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -25539,7 +25299,7 @@
             "title1": "",
             "title2": "",
             "votes": 146,
-            "votedRank": 12,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -25551,7 +25311,7 @@
             "title1": "",
             "title2": "",
             "votes": 260,
-            "votedRank": 13,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -25563,19 +25323,7 @@
             "title1": "",
             "title2": "",
             "votes": 188,
-            "votedRank": 14,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 13,
-            "rank": 16,
-            "name": "Leoš",
-            "surname": "Trnka",
-            "title1": "Bc.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 15,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -25587,7 +25335,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 109,
-            "votedRank": 16,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -25599,7 +25347,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 375,
-            "votedRank": 17,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -25611,7 +25359,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 326,
-            "votedRank": 18,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -25623,7 +25371,7 @@
             "title1": "",
             "title2": "",
             "votes": 203,
-            "votedRank": 19,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -25635,7 +25383,7 @@
             "title1": "",
             "title2": "",
             "votes": 167,
-            "votedRank": 20,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -25647,7 +25395,7 @@
             "title1": "",
             "title2": "",
             "votes": 150,
-            "votedRank": 21,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -25659,19 +25407,7 @@
             "title1": "",
             "title2": "",
             "votes": 331,
-            "votedRank": 22,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 13,
-            "rank": 24,
-            "name": "Josef",
-            "surname": "Černý",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 23,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -25683,7 +25419,7 @@
             "title1": "",
             "title2": "",
             "votes": 349,
-            "votedRank": 24,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -25695,7 +25431,7 @@
             "title1": "",
             "title2": "",
             "votes": 351,
-            "votedRank": 25,
+            "votedRank": 21,
             "mandate": false
           }
         ],
@@ -27519,25 +27255,13 @@
           {
             "countyId": 6,
             "partyId": 23,
-            "rank": 1,
-            "name": "Ladislav",
-            "surname": "Matuška",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 5,
-            "mandate": false
-          },
-          {
-            "countyId": 6,
-            "partyId": 23,
             "rank": 5,
             "name": "Josef",
             "surname": "Šváb",
             "title1": "",
             "title2": "",
             "votes": 50,
-            "votedRank": 6,
+            "votedRank": 5,
             "mandate": false
           },
           {
@@ -27549,7 +27273,7 @@
             "title1": "",
             "title2": "",
             "votes": 89,
-            "votedRank": 7,
+            "votedRank": 6,
             "mandate": false
           },
           {
@@ -27561,7 +27285,7 @@
             "title1": "",
             "title2": "",
             "votes": 77,
-            "votedRank": 8,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -27573,7 +27297,7 @@
             "title1": "",
             "title2": "",
             "votes": 100,
-            "votedRank": 9,
+            "votedRank": 8,
             "mandate": false
           }
         ],
@@ -29262,25 +28986,13 @@
           {
             "countyId": 7,
             "partyId": 9,
-            "rank": 4,
-            "name": "Radek",
-            "surname": "Polma",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 4,
-            "mandate": false
-          },
-          {
-            "countyId": 7,
-            "partyId": 9,
             "rank": 5,
             "name": "Martina",
             "surname": "Rosenbergová",
             "title1": "",
             "title2": "",
             "votes": 2016,
-            "votedRank": 5,
+            "votedRank": 4,
             "mandate": false
           },
           {
@@ -29292,7 +29004,7 @@
             "title1": "",
             "title2": "",
             "votes": 1953,
-            "votedRank": 6,
+            "votedRank": 5,
             "mandate": false
           },
           {
@@ -29304,7 +29016,7 @@
             "title1": "RSDr.",
             "title2": "",
             "votes": 1360,
-            "votedRank": 7,
+            "votedRank": 6,
             "mandate": false
           },
           {
@@ -29316,19 +29028,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 2064,
-            "votedRank": 8,
-            "mandate": false
-          },
-          {
-            "countyId": 7,
-            "partyId": 9,
-            "rank": 9,
-            "name": "Michal",
-            "surname": "Vereščák",
-            "title1": "Ing.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 9,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -29340,7 +29040,7 @@
             "title1": "",
             "title2": "",
             "votes": 964,
-            "votedRank": 10,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -29352,7 +29052,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 1490,
-            "votedRank": 11,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -29364,7 +29064,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 711,
-            "votedRank": 12,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -29376,7 +29076,7 @@
             "title1": "",
             "title2": "",
             "votes": 546,
-            "votedRank": 13,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -29388,7 +29088,7 @@
             "title1": "RNDr.",
             "title2": "",
             "votes": 1155,
-            "votedRank": 14,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -29400,7 +29100,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 1727,
-            "votedRank": 15,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -29412,7 +29112,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 1035,
-            "votedRank": 16,
+            "votedRank": 14,
             "mandate": false
           }
         ],
@@ -29426,20 +29126,7 @@
         "abbr": "NP",
         "votes_sum": 186,
         "votes_sum_percent": 0.00003555821328772196,
-        "candidates": [
-          {
-            "countyId": 7,
-            "partyId": 10,
-            "rank": 1,
-            "name": "Zbyněk",
-            "surname": "Štěpán",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 0,
-            "mandate": false
-          }
-        ],
+        "candidates": [],
         "mandates": 0
       },
       {
@@ -29728,25 +29415,13 @@
           {
             "countyId": 7,
             "partyId": 13,
-            "rank": 6,
-            "name": "Vladimír",
-            "surname": "Opatrný",
-            "title1": "Ing.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 5,
-            "mandate": false
-          },
-          {
-            "countyId": 7,
-            "partyId": 13,
             "rank": 7,
             "name": "David",
             "surname": "Vejrych",
             "title1": "Ing.",
             "title2": "",
             "votes": 270,
-            "votedRank": 6,
+            "votedRank": 5,
             "mandate": false
           },
           {
@@ -29758,7 +29433,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 320,
-            "votedRank": 7,
+            "votedRank": 6,
             "mandate": false
           },
           {
@@ -29770,7 +29445,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 263,
-            "votedRank": 8,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -29782,7 +29457,7 @@
             "title1": "",
             "title2": "",
             "votes": 339,
-            "votedRank": 9,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -29794,7 +29469,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 74,
-            "votedRank": 10,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -29806,7 +29481,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 228,
-            "votedRank": 11,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -29818,7 +29493,7 @@
             "title1": "",
             "title2": "",
             "votes": 121,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -29830,7 +29505,7 @@
             "title1": "",
             "title2": "",
             "votes": 210,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -29842,7 +29517,7 @@
             "title1": "",
             "title2": "",
             "votes": 210,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -29854,7 +29529,7 @@
             "title1": "",
             "title2": "",
             "votes": 275,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -29866,7 +29541,7 @@
             "title1": "",
             "title2": "",
             "votes": 245,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           }
         ],
@@ -38929,25 +38604,13 @@
           {
             "countyId": 10,
             "partyId": 5,
-            "rank": 2,
-            "name": "František",
-            "surname": "Kovář",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 2,
-            "mandate": false
-          },
-          {
-            "countyId": 10,
-            "partyId": 5,
             "rank": 3,
             "name": "Světlana",
             "surname": "Machalická",
             "title1": "",
             "title2": "",
             "votes": 6,
-            "votedRank": 3,
+            "votedRank": 2,
             "mandate": false
           },
           {
@@ -38959,7 +38622,7 @@
             "title1": "",
             "title2": "",
             "votes": 4,
-            "votedRank": 4,
+            "votedRank": 3,
             "mandate": false
           },
           {
@@ -38971,7 +38634,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 3,
-            "votedRank": 5,
+            "votedRank": 4,
             "mandate": false
           }
         ],
@@ -46052,25 +45715,13 @@
           {
             "countyId": 11,
             "partyId": 18,
-            "rank": 4,
-            "name": "Alois",
-            "surname": "Hlásenský",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 3,
-            "mandate": false
-          },
-          {
-            "countyId": 11,
-            "partyId": 18,
             "rank": 5,
             "name": "Martin",
             "surname": "Vahala",
             "title1": "Ing.",
             "title2": "",
             "votes": 30,
-            "votedRank": 4,
+            "votedRank": 3,
             "mandate": false
           },
           {
@@ -46082,7 +45733,7 @@
             "title1": "",
             "title2": "",
             "votes": 21,
-            "votedRank": 5,
+            "votedRank": 4,
             "mandate": false
           },
           {
@@ -46094,7 +45745,7 @@
             "title1": "",
             "title2": "",
             "votes": 28,
-            "votedRank": 6,
+            "votedRank": 5,
             "mandate": false
           },
           {
@@ -46106,7 +45757,7 @@
             "title1": "",
             "title2": "",
             "votes": 28,
-            "votedRank": 7,
+            "votedRank": 6,
             "mandate": false
           },
           {
@@ -46118,7 +45769,7 @@
             "title1": "",
             "title2": "",
             "votes": 39,
-            "votedRank": 8,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -46130,7 +45781,7 @@
             "title1": "",
             "title2": "",
             "votes": 28,
-            "votedRank": 9,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -46142,7 +45793,7 @@
             "title1": "",
             "title2": "",
             "votes": 15,
-            "votedRank": 10,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -46154,7 +45805,7 @@
             "title1": "",
             "title2": "",
             "votes": 21,
-            "votedRank": 11,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -46166,7 +45817,7 @@
             "title1": "",
             "title2": "",
             "votes": 26,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -46178,7 +45829,7 @@
             "title1": "",
             "title2": "",
             "votes": 31,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -46190,7 +45841,7 @@
             "title1": "",
             "title2": "",
             "votes": 5,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -46202,7 +45853,7 @@
             "title1": "",
             "title2": "",
             "votes": 28,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -46214,7 +45865,7 @@
             "title1": "",
             "title2": "",
             "votes": 12,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -46226,7 +45877,7 @@
             "title1": "",
             "title2": "",
             "votes": 2,
-            "votedRank": 17,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -46238,7 +45889,7 @@
             "title1": "",
             "title2": "",
             "votes": 24,
-            "votedRank": 18,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -46250,7 +45901,7 @@
             "title1": "",
             "title2": "",
             "votes": 10,
-            "votedRank": 19,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -46262,7 +45913,7 @@
             "title1": "",
             "title2": "",
             "votes": 10,
-            "votedRank": 20,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -46274,7 +45925,7 @@
             "title1": "",
             "title2": "",
             "votes": 7,
-            "votedRank": 21,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -46286,7 +45937,7 @@
             "title1": "",
             "title2": "",
             "votes": 7,
-            "votedRank": 22,
+            "votedRank": 21,
             "mandate": false
           },
           {
@@ -46298,7 +45949,7 @@
             "title1": "",
             "title2": "",
             "votes": 5,
-            "votedRank": 23,
+            "votedRank": 22,
             "mandate": false
           },
           {
@@ -46310,7 +45961,7 @@
             "title1": "",
             "title2": "",
             "votes": 17,
-            "votedRank": 24,
+            "votedRank": 23,
             "mandate": false
           },
           {
@@ -46322,7 +45973,7 @@
             "title1": "",
             "title2": "",
             "votes": 4,
-            "votedRank": 25,
+            "votedRank": 24,
             "mandate": false
           },
           {
@@ -46334,7 +45985,7 @@
             "title1": "",
             "title2": "",
             "votes": 5,
-            "votedRank": 26,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -46346,7 +45997,7 @@
             "title1": "",
             "title2": "",
             "votes": 3,
-            "votedRank": 27,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -46358,7 +46009,7 @@
             "title1": "",
             "title2": "",
             "votes": 9,
-            "votedRank": 28,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -46370,7 +46021,7 @@
             "title1": "",
             "title2": "",
             "votes": 6,
-            "votedRank": 29,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -46382,7 +46033,7 @@
             "title1": "",
             "title2": "",
             "votes": 12,
-            "votedRank": 30,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -46394,7 +46045,7 @@
             "title1": "",
             "title2": "",
             "votes": 6,
-            "votedRank": 31,
+            "votedRank": 30,
             "mandate": false
           }
         ],
@@ -48015,25 +47666,13 @@
           {
             "countyId": 11,
             "partyId": 24,
-            "rank": 14,
-            "name": "Libor",
-            "surname": "Nedorost",
-            "title1": "JUDr. et. Mgr.",
-            "title2": "Ph.D.",
-            "votes": null,
-            "votedRank": 13,
-            "mandate": false
-          },
-          {
-            "countyId": 11,
-            "partyId": 24,
             "rank": 15,
             "name": "Jaroslav",
             "surname": "Podlucký",
             "title1": "",
             "title2": "",
             "votes": 40,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -48045,7 +47684,7 @@
             "title1": "",
             "title2": "",
             "votes": 72,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -48057,7 +47696,7 @@
             "title1": "",
             "title2": "",
             "votes": 57,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -48069,7 +47708,7 @@
             "title1": "",
             "title2": "",
             "votes": 93,
-            "votedRank": 17,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -48081,7 +47720,7 @@
             "title1": "",
             "title2": "",
             "votes": 44,
-            "votedRank": 18,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -48093,7 +47732,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 36,
-            "votedRank": 19,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -48105,7 +47744,7 @@
             "title1": "",
             "title2": "",
             "votes": 77,
-            "votedRank": 20,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -48117,7 +47756,7 @@
             "title1": "",
             "title2": "",
             "votes": 64,
-            "votedRank": 21,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -48129,7 +47768,7 @@
             "title1": "",
             "title2": "",
             "votes": 80,
-            "votedRank": 22,
+            "votedRank": 21,
             "mandate": false
           },
           {
@@ -48141,7 +47780,7 @@
             "title1": "",
             "title2": "",
             "votes": 28,
-            "votedRank": 23,
+            "votedRank": 22,
             "mandate": false
           },
           {
@@ -48153,7 +47792,7 @@
             "title1": "",
             "title2": "",
             "votes": 19,
-            "votedRank": 24,
+            "votedRank": 23,
             "mandate": false
           },
           {
@@ -48165,7 +47804,7 @@
             "title1": "",
             "title2": "",
             "votes": 14,
-            "votedRank": 25,
+            "votedRank": 24,
             "mandate": false
           },
           {
@@ -48177,7 +47816,7 @@
             "title1": "",
             "title2": "",
             "votes": 7,
-            "votedRank": 26,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -48189,7 +47828,7 @@
             "title1": "",
             "title2": "",
             "votes": 16,
-            "votedRank": 27,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -48201,7 +47840,7 @@
             "title1": "",
             "title2": "",
             "votes": 6,
-            "votedRank": 28,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -48213,7 +47852,7 @@
             "title1": "",
             "title2": "",
             "votes": 10,
-            "votedRank": 29,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -48225,7 +47864,7 @@
             "title1": "",
             "title2": "",
             "votes": 13,
-            "votedRank": 30,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -48237,7 +47876,7 @@
             "title1": "",
             "title2": "",
             "votes": 25,
-            "votedRank": 31,
+            "votedRank": 30,
             "mandate": false
           },
           {
@@ -48249,7 +47888,7 @@
             "title1": "",
             "title2": "",
             "votes": 15,
-            "votedRank": 32,
+            "votedRank": 31,
             "mandate": false
           },
           {
@@ -48261,7 +47900,7 @@
             "title1": "",
             "title2": "",
             "votes": 9,
-            "votedRank": 33,
+            "votedRank": 32,
             "mandate": false
           }
         ],
@@ -50166,25 +49805,13 @@
           {
             "countyId": 12,
             "partyId": 9,
-            "rank": 1,
-            "name": "Miloslav",
-            "surname": "Vlček",
-            "title1": "Ing.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 2,
-            "mandate": true
-          },
-          {
-            "countyId": 12,
-            "partyId": 9,
             "rank": 3,
             "name": "Jiří",
             "surname": "Krátký",
             "title1": "Ing.",
             "title2": "",
             "votes": 2147,
-            "votedRank": 3,
+            "votedRank": 2,
             "mandate": true
           },
           {
@@ -50196,8 +49823,8 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 2904,
-            "votedRank": 4,
-            "mandate": false
+            "votedRank": 3,
+            "mandate": true
           },
           {
             "countyId": 12,
@@ -50208,7 +49835,7 @@
             "title1": "Mgr. Ing.",
             "title2": "",
             "votes": 3820,
-            "votedRank": 5,
+            "votedRank": 4,
             "mandate": false
           },
           {
@@ -50220,7 +49847,7 @@
             "title1": "",
             "title2": "",
             "votes": 2099,
-            "votedRank": 6,
+            "votedRank": 5,
             "mandate": false
           },
           {
@@ -50232,7 +49859,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 2771,
-            "votedRank": 7,
+            "votedRank": 6,
             "mandate": false
           },
           {
@@ -50244,7 +49871,7 @@
             "title1": "RNDr.",
             "title2": "",
             "votes": 1652,
-            "votedRank": 8,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -50256,7 +49883,7 @@
             "title1": "",
             "title2": "",
             "votes": 840,
-            "votedRank": 9,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -50268,7 +49895,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 1683,
-            "votedRank": 10,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -50280,7 +49907,7 @@
             "title1": "",
             "title2": "DiS.",
             "votes": 1447,
-            "votedRank": 11,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -50292,7 +49919,7 @@
             "title1": "PhDr.",
             "title2": "",
             "votes": 2927,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -50304,7 +49931,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 2525,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -50316,7 +49943,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 1519,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -50328,7 +49955,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 918,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -50340,7 +49967,7 @@
             "title1": "",
             "title2": "",
             "votes": 1742,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -50352,7 +49979,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 1087,
-            "votedRank": 17,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -50364,7 +49991,7 @@
             "title1": "",
             "title2": "",
             "votes": 1737,
-            "votedRank": 18,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -50376,7 +50003,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 2193,
-            "votedRank": 19,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -50388,7 +50015,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 2400,
-            "votedRank": 20,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -50400,7 +50027,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 3328,
-            "votedRank": 21,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -50412,7 +50039,7 @@
             "title1": "",
             "title2": "DiS.",
             "votes": 2543,
-            "votedRank": 22,
+            "votedRank": 21,
             "mandate": false
           }
         ],
@@ -55898,25 +55525,13 @@
           {
             "countyId": 13,
             "partyId": 18,
-            "rank": 12,
-            "name": "Registrační úřad ponechal pozici volnou",
-            "surname": "Kandidát v registraci škrtnut",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 11,
-            "mandate": false
-          },
-          {
-            "countyId": 13,
-            "partyId": 18,
             "rank": 13,
             "name": "Miroslav",
             "surname": "Straka",
             "title1": "",
             "title2": "",
             "votes": 6,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -55928,7 +55543,7 @@
             "title1": "",
             "title2": "",
             "votes": 8,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           }
         ],
@@ -59751,25 +59366,13 @@
           {
             "countyId": 14,
             "partyId": 13,
-            "rank": 3,
-            "name": "Kamil",
-            "surname": "Viertigroch",
-            "title1": "Ing.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 3,
-            "mandate": false
-          },
-          {
-            "countyId": 14,
-            "partyId": 13,
             "rank": 4,
             "name": "Eliška",
             "surname": "Kulová",
             "title1": "Ing.",
             "title2": "",
             "votes": 912,
-            "votedRank": 4,
+            "votedRank": 3,
             "mandate": false
           },
           {
@@ -59781,7 +59384,7 @@
             "title1": "Ing.",
             "title2": "Ph.D.",
             "votes": 275,
-            "votedRank": 5,
+            "votedRank": 4,
             "mandate": false
           },
           {
@@ -59793,7 +59396,7 @@
             "title1": "Ing.",
             "title2": "Ph.D., MBA",
             "votes": 1126,
-            "votedRank": 6,
+            "votedRank": 5,
             "mandate": false
           },
           {
@@ -59805,7 +59408,7 @@
             "title1": "",
             "title2": "",
             "votes": 234,
-            "votedRank": 7,
+            "votedRank": 6,
             "mandate": false
           },
           {
@@ -59817,7 +59420,7 @@
             "title1": "RNDr.",
             "title2": "",
             "votes": 581,
-            "votedRank": 8,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -59829,7 +59432,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 233,
-            "votedRank": 9,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -59841,7 +59444,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 320,
-            "votedRank": 10,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -59853,7 +59456,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 363,
-            "votedRank": 11,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -59865,7 +59468,7 @@
             "title1": "Ing.",
             "title2": "Ph.D.",
             "votes": 509,
-            "votedRank": 12,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -59877,7 +59480,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 256,
-            "votedRank": 13,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -59889,7 +59492,7 @@
             "title1": "",
             "title2": "",
             "votes": 211,
-            "votedRank": 14,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -59901,7 +59504,7 @@
             "title1": "",
             "title2": "",
             "votes": 85,
-            "votedRank": 15,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -59913,7 +59516,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 111,
-            "votedRank": 16,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -59925,7 +59528,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 147,
-            "votedRank": 17,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -59937,7 +59540,7 @@
             "title1": "",
             "title2": "",
             "votes": 110,
-            "votedRank": 18,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -59949,7 +59552,7 @@
             "title1": "",
             "title2": "",
             "votes": 161,
-            "votedRank": 19,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -59961,7 +59564,7 @@
             "title1": "Doc. Ing.",
             "title2": "CSc.",
             "votes": 498,
-            "votedRank": 20,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -59973,7 +59576,7 @@
             "title1": "Bc.",
             "title2": "",
             "votes": 184,
-            "votedRank": 21,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -59985,7 +59588,7 @@
             "title1": "",
             "title2": "",
             "votes": 71,
-            "votedRank": 22,
+            "votedRank": 21,
             "mandate": false
           },
           {
@@ -59997,7 +59600,7 @@
             "title1": "Doc. Ing.",
             "title2": "Ph.D.",
             "votes": 739,
-            "votedRank": 23,
+            "votedRank": 22,
             "mandate": false
           },
           {
@@ -60009,7 +59612,7 @@
             "title1": "",
             "title2": "",
             "votes": 221,
-            "votedRank": 24,
+            "votedRank": 23,
             "mandate": false
           },
           {
@@ -60021,7 +59624,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 236,
-            "votedRank": 25,
+            "votedRank": 24,
             "mandate": false
           },
           {
@@ -60033,7 +59636,7 @@
             "title1": "Mgr.",
             "title2": "",
             "votes": 437,
-            "votedRank": 26,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -60045,7 +59648,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 357,
-            "votedRank": 27,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -60057,7 +59660,7 @@
             "title1": "",
             "title2": "",
             "votes": 163,
-            "votedRank": 28,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -60069,7 +59672,7 @@
             "title1": "",
             "title2": "",
             "votes": 214,
-            "votedRank": 29,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -60081,7 +59684,7 @@
             "title1": "",
             "title2": "",
             "votes": 381,
-            "votedRank": 30,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -60093,7 +59696,7 @@
             "title1": "Ing.",
             "title2": "CSc.",
             "votes": 347,
-            "votedRank": 31,
+            "votedRank": 30,
             "mandate": false
           },
           {
@@ -60105,7 +59708,7 @@
             "title1": "",
             "title2": "",
             "votes": 688,
-            "votedRank": 32,
+            "votedRank": 31,
             "mandate": false
           },
           {
@@ -60117,7 +59720,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 686,
-            "votedRank": 33,
+            "votedRank": 32,
             "mandate": false
           },
           {
@@ -60129,7 +59732,7 @@
             "title1": "",
             "title2": "",
             "votes": 349,
-            "votedRank": 34,
+            "votedRank": 33,
             "mandate": false
           },
           {
@@ -60141,7 +59744,7 @@
             "title1": "",
             "title2": "",
             "votes": 411,
-            "votedRank": 35,
+            "votedRank": 34,
             "mandate": false
           }
         ],
@@ -61236,25 +60839,13 @@
           {
             "countyId": 14,
             "partyId": 18,
-            "rank": 5,
-            "name": "Vladimír",
-            "surname": "Žák",
-            "title1": "Ing.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 4,
-            "mandate": false
-          },
-          {
-            "countyId": 14,
-            "partyId": 18,
             "rank": 6,
             "name": "Jana",
             "surname": "Ratajská",
             "title1": "Bc.",
             "title2": "",
             "votes": 60,
-            "votedRank": 5,
+            "votedRank": 4,
             "mandate": false
           },
           {
@@ -61266,7 +60857,7 @@
             "title1": "Ing.",
             "title2": "",
             "votes": 42,
-            "votedRank": 6,
+            "votedRank": 5,
             "mandate": false
           },
           {
@@ -61278,7 +60869,7 @@
             "title1": "",
             "title2": "",
             "votes": 34,
-            "votedRank": 7,
+            "votedRank": 6,
             "mandate": false
           },
           {
@@ -61290,7 +60881,7 @@
             "title1": "",
             "title2": "",
             "votes": 15,
-            "votedRank": 8,
+            "votedRank": 7,
             "mandate": false
           },
           {
@@ -61302,7 +60893,7 @@
             "title1": "",
             "title2": "DiS.",
             "votes": 68,
-            "votedRank": 9,
+            "votedRank": 8,
             "mandate": false
           },
           {
@@ -61314,19 +60905,7 @@
             "title1": "",
             "title2": "",
             "votes": 10,
-            "votedRank": 10,
-            "mandate": false
-          },
-          {
-            "countyId": 14,
-            "partyId": 18,
-            "rank": 12,
-            "name": "Jiří",
-            "surname": "Štefko",
-            "title1": "Ing.",
-            "title2": "",
-            "votes": null,
-            "votedRank": 11,
+            "votedRank": 9,
             "mandate": false
           },
           {
@@ -61338,7 +60917,7 @@
             "title1": "",
             "title2": "",
             "votes": 15,
-            "votedRank": 12,
+            "votedRank": 10,
             "mandate": false
           },
           {
@@ -61350,7 +60929,7 @@
             "title1": "",
             "title2": "",
             "votes": 7,
-            "votedRank": 13,
+            "votedRank": 11,
             "mandate": false
           },
           {
@@ -61362,7 +60941,7 @@
             "title1": "",
             "title2": "",
             "votes": 16,
-            "votedRank": 14,
+            "votedRank": 12,
             "mandate": false
           },
           {
@@ -61374,7 +60953,7 @@
             "title1": "",
             "title2": "",
             "votes": 32,
-            "votedRank": 15,
+            "votedRank": 13,
             "mandate": false
           },
           {
@@ -61386,7 +60965,7 @@
             "title1": "",
             "title2": "",
             "votes": 28,
-            "votedRank": 16,
+            "votedRank": 14,
             "mandate": false
           },
           {
@@ -61398,7 +60977,7 @@
             "title1": "",
             "title2": "",
             "votes": 57,
-            "votedRank": 17,
+            "votedRank": 15,
             "mandate": false
           },
           {
@@ -61410,7 +60989,7 @@
             "title1": "",
             "title2": "",
             "votes": 28,
-            "votedRank": 18,
+            "votedRank": 16,
             "mandate": false
           },
           {
@@ -61422,7 +61001,7 @@
             "title1": "",
             "title2": "",
             "votes": 6,
-            "votedRank": 19,
+            "votedRank": 17,
             "mandate": false
           },
           {
@@ -61434,7 +61013,7 @@
             "title1": "",
             "title2": "",
             "votes": 20,
-            "votedRank": 20,
+            "votedRank": 18,
             "mandate": false
           },
           {
@@ -61446,19 +61025,7 @@
             "title1": "",
             "title2": "",
             "votes": 19,
-            "votedRank": 21,
-            "mandate": false
-          },
-          {
-            "countyId": 14,
-            "partyId": 18,
-            "rank": 23,
-            "name": "Marie",
-            "surname": "Zelená",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 22,
+            "votedRank": 19,
             "mandate": false
           },
           {
@@ -61470,7 +61037,7 @@
             "title1": "",
             "title2": "",
             "votes": 10,
-            "votedRank": 23,
+            "votedRank": 20,
             "mandate": false
           },
           {
@@ -61482,7 +61049,7 @@
             "title1": "",
             "title2": "",
             "votes": 3,
-            "votedRank": 24,
+            "votedRank": 21,
             "mandate": false
           },
           {
@@ -61494,7 +61061,7 @@
             "title1": "",
             "title2": "",
             "votes": 7,
-            "votedRank": 25,
+            "votedRank": 22,
             "mandate": false
           },
           {
@@ -61506,7 +61073,7 @@
             "title1": "",
             "title2": "",
             "votes": 5,
-            "votedRank": 26,
+            "votedRank": 23,
             "mandate": false
           },
           {
@@ -61518,7 +61085,7 @@
             "title1": "",
             "title2": "",
             "votes": 15,
-            "votedRank": 27,
+            "votedRank": 24,
             "mandate": false
           },
           {
@@ -61530,7 +61097,7 @@
             "title1": "",
             "title2": "",
             "votes": 20,
-            "votedRank": 28,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -61542,7 +61109,7 @@
             "title1": "",
             "title2": "",
             "votes": 25,
-            "votedRank": 29,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -61554,7 +61121,7 @@
             "title1": "",
             "title2": "",
             "votes": 23,
-            "votedRank": 30,
+            "votedRank": 27,
             "mandate": false
           }
         ],
@@ -62948,25 +62515,13 @@
           {
             "countyId": 14,
             "partyId": 24,
-            "rank": 26,
-            "name": "Petr",
-            "surname": "Muroň",
-            "title1": "",
-            "title2": "",
-            "votes": null,
-            "votedRank": 25,
-            "mandate": false
-          },
-          {
-            "countyId": 14,
-            "partyId": 24,
             "rank": 27,
             "name": "Karel",
             "surname": "Lucký",
             "title1": "",
             "title2": "",
             "votes": 28,
-            "votedRank": 26,
+            "votedRank": 25,
             "mandate": false
           },
           {
@@ -62978,7 +62533,7 @@
             "title1": "",
             "title2": "",
             "votes": 61,
-            "votedRank": 27,
+            "votedRank": 26,
             "mandate": false
           },
           {
@@ -62990,7 +62545,7 @@
             "title1": "",
             "title2": "",
             "votes": 61,
-            "votedRank": 28,
+            "votedRank": 27,
             "mandate": false
           },
           {
@@ -63002,7 +62557,7 @@
             "title1": "",
             "title2": "",
             "votes": 34,
-            "votedRank": 29,
+            "votedRank": 28,
             "mandate": false
           },
           {
@@ -63014,7 +62569,7 @@
             "title1": "",
             "title2": "",
             "votes": 61,
-            "votedRank": 30,
+            "votedRank": 29,
             "mandate": false
           },
           {
@@ -63026,7 +62581,7 @@
             "title1": "",
             "title2": "",
             "votes": 46,
-            "votedRank": 31,
+            "votedRank": 30,
             "mandate": false
           },
           {
@@ -63038,7 +62593,7 @@
             "title1": "",
             "title2": "",
             "votes": 144,
-            "votedRank": 32,
+            "votedRank": 31,
             "mandate": false
           },
           {
@@ -63050,7 +62605,7 @@
             "title1": "",
             "title2": "",
             "votes": 160,
-            "votedRank": 33,
+            "votedRank": 32,
             "mandate": false
           },
           {
@@ -63062,7 +62617,7 @@
             "title1": "",
             "title2": "",
             "votes": 126,
-            "votedRank": 34,
+            "votedRank": 33,
             "mandate": false
           },
           {
@@ -63074,7 +62629,7 @@
             "title1": "",
             "title2": "",
             "votes": 78,
-            "votedRank": 35,
+            "votedRank": 34,
             "mandate": false
           }
         ],

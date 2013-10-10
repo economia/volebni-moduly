@@ -9,13 +9,15 @@ module.exports.parse = (csvString, preferentialVotesString, cb) ->
     list = lines
         .filter -> it.length
         .map (line) ->
-            [countyId, partyId, rank, name, surname, title1, title2] = line.split ";"
+            [countyId, partyId, rank, name, surname, title1, title2, age, occupation, residence, residenceCode, party, suggParty, isInvalid] = line.split ";"
+            return null if isInvalid == "1"
             countyId = +countyId
             partyId  = +partyId
             rank     = +rank
             id       = getCandidateId countyId, partyId, rank
             votes    = +preferentialVotesAssoc[id]
             {countyId, partyId, rank, name, surname, title1, title2, votes}
+        .filter -> it isnt null
         .sort (a, b) ->
             | a.countyId - b.countyId => that
             | a.partyId - b.partyId   => that

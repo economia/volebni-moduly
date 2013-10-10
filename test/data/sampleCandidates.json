@@ -552,18 +552,6 @@
     "votedRank": 1
   },
   {
-    "name": "Cyril",
-    "surname": "Zapletal",
-    "partyId": 9,
-    "countyId": 7,
-    "rank": 2,
-    "votedRank": 1,
-    "leadByVotes": 18479,
-    "leadByScore": 6160,
-    "score": 20756,
-    "leadFromParty": 26
-  },
-  {
     "name": "Petr",
     "surname": "Hulinský",
     "partyId": 9,
@@ -584,14 +572,6 @@
     "surname": "Michalík",
     "partyId": 9,
     "countyId": 14,
-    "rank": 2,
-    "votedRank": 1
-  },
-  {
-    "name": "Vlasta",
-    "surname": "Bohdalová",
-    "partyId": 9,
-    "countyId": 3,
     "rank": 2,
     "votedRank": 1
   },
@@ -620,6 +600,26 @@
     "votedRank": 1
   },
   {
+    "name": "Vlasta",
+    "surname": "Bohdalová",
+    "partyId": 9,
+    "countyId": 3,
+    "rank": 2,
+    "votedRank": 1
+  },
+  {
+    "name": "Cyril",
+    "surname": "Zapletal",
+    "partyId": 9,
+    "countyId": 7,
+    "rank": 2,
+    "votedRank": 1,
+    "leadByVotes": 18479,
+    "leadByScore": 6160,
+    "score": 20756,
+    "leadFromParty": 26
+  },
+  {
     "name": "Pavel",
     "surname": "Antonín",
     "partyId": 9,
@@ -634,14 +634,6 @@
     "countyId": 9,
     "rank": 19,
     "votedRank": 1
-  },
-  {
-    "name": "Miloslav",
-    "surname": "Vlček",
-    "partyId": 9,
-    "countyId": 12,
-    "rank": 1,
-    "votedRank": 2
   },
   {
     "name": "Václav",
@@ -668,6 +660,14 @@
     "votedRank": 2
   },
   {
+    "name": "František",
+    "surname": "Novosad",
+    "partyId": 9,
+    "countyId": 13,
+    "rank": 3,
+    "votedRank": 2
+  },
+  {
     "name": "Richard",
     "surname": "Dolejš",
     "partyId": 9,
@@ -684,10 +684,10 @@
     "votedRank": 2
   },
   {
-    "name": "František",
-    "surname": "Novosad",
+    "name": "Jiří",
+    "surname": "Krátký",
     "partyId": 9,
-    "countyId": 13,
+    "countyId": 12,
     "rank": 3,
     "votedRank": 2
   },
@@ -740,14 +740,6 @@
     "votedRank": 3
   },
   {
-    "name": "Jiří",
-    "surname": "Krátký",
-    "partyId": 9,
-    "countyId": 12,
-    "rank": 3,
-    "votedRank": 3
-  },
-  {
     "name": "Jaroslav",
     "surname": "Krákora",
     "partyId": 9,
@@ -760,6 +752,14 @@
     "surname": "Klučka",
     "partyId": 9,
     "countyId": 14,
+    "rank": 4,
+    "votedRank": 3
+  },
+  {
+    "name": "Jiří",
+    "surname": "Zemánek",
+    "partyId": 9,
+    "countyId": 12,
     "rank": 4,
     "votedRank": 3
   },

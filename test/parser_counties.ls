@@ -2,6 +2,7 @@ require! {
     expect : "expect.js"
     fs
     parser: "../src/parser_counties"
+    xml2js
 }
 test = it
 describe "Parser for counties" ->
@@ -9,12 +10,12 @@ describe "Parser for counties" ->
     list = null
     before (done) ->
         (err, volbyXml) <~ fs.readFile "#__dirname/data/vysledky_krajmesta.xml"
-        xml := volbyXml.toString!
+        (err, data) <~ xml2js.parseString volbyXml
+        xml := data
         done!
 
     test "should parse the XML" (done) ->
-        (err, parsedXml) <~ parser.parse_county_list xml
-        expect err .to.be null
+        parsedXml = parser.parse_county_list xml
         list := parsedXml
         done!
 

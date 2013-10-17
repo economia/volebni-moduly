@@ -1,9 +1,8 @@
 require! {
     xml2js
 }
-module.exports.parse = (csvString, preferentialVotesString, cb) ->
-    (err, preferentialVotesAssoc) <~ computePreferentialVotes preferentialVotesString
-    cb err if err
+module.exports.parse = (csvString, preferentialVotesXml, cb) ->
+    preferentialVotesAssoc = computePreferentialVotes preferentialVotesXml
     lines = csvString.split "\n"
     lines.shift! # headers
     list = lines
@@ -22,12 +21,11 @@ module.exports.parse = (csvString, preferentialVotesString, cb) ->
             | a.countyId - b.countyId => that
             | a.partyId - b.partyId   => that
             | otherwise               => a.rank - b.rank
-    cb null list
+    list
 
-computePreferentialVotes = (preferentialVotesString, cb) ->
-    (err, xml) <~ xml2js.parseString preferentialVotesString
+computePreferentialVotes = (preferentialVotesXml) ->
     preferentialVotesAssoc = {}
-    xml.VYSLEDKY_KANDID.KRAJ.forEach (county) ->
+    preferentialVotesXml.VYSLEDKY_KANDID.KRAJ.forEach (county) ->
         countyId = +county.$.CIS_KRAJ
         county.KANDIDATI.0.KANDIDAT.forEach (candidate) ->
             partyId = +candidate.$.KSTRANA
@@ -36,7 +34,7 @@ computePreferentialVotes = (preferentialVotesString, cb) ->
             id = getCandidateId countyId, partyId, rank
             preferentialVotesAssoc[id] = votes
 
-    cb null preferentialVotesAssoc
+    preferentialVotesAssoc
 
 getCandidateId = (countyId, partyId, rank) ->
     "#countyId-#partyId-#rank"

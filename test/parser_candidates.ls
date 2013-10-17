@@ -2,23 +2,24 @@ require! {
     expect : "expect.js"
     fs
     parser: "../src/parser_candidates"
+    xml2js
 }
 
 test = it
 describe "Parser for candidates" ->
     candidatesString = null
-    preferentialVotesString = null
+    preferentialVotesXml = null
     list = null
     before (done) ->
         (err, data) <~ fs.readFile "#__dirname/data/kandidati.csv"
         candidatesString := data.toString!
         (err, data) <~ fs.readFile "#__dirname/data/vysledky_kandid.xml"
-        preferentialVotesString := data.toString!
+        (err, xml) <~ xml2js.parseString data
+        preferentialVotesXml := xml
         done!
 
     test "should parse the CSV" (done) ->
-        (err, result) <~ parser.parse candidatesString, preferentialVotesString
-        expect err .to.be null
+        result = parser.parse candidatesString, preferentialVotesXml
         expect result .to.be.an \array
         list := result
         done!

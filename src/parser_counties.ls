@@ -1,4 +1,4 @@
-module.exports.parse_county_list = (xml) ->
+module.exports.parse = (xml) ->
     xml["VYSLEDKY_KRAJMESTA"]["KRAJ"].map (kraj) ->
         name    = kraj.$.NAZ_KRAJ
         id      = +kraj.$.CIS_KRAJ

@@ -15,7 +15,7 @@ describe "Parser for counties" ->
         done!
 
     test "should parse the XML" (done) ->
-        parsedXml = parser.parse_county_list xml
+        parsedXml = parser.parse xml
         list := parsedXml
         done!
 

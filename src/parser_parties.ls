@@ -1,4 +1,4 @@
-module.exports.parse = (csvString, cb) ->
+module.exports.parse = (csvString) ->
     lines = csvString.split "\n"
     lines.shift! # headers
     lines

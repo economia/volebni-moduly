@@ -1,7 +1,7 @@
 require! {
     xml2js
 }
-module.exports.parse = (csvString, preferentialVotesXml, cb) ->
+module.exports.parse = (csvString, preferentialVotesXml) ->
     preferentialVotesAssoc = computePreferentialVotes preferentialVotesXml
     lines = csvString.split "\n"
     lines.shift! # headers

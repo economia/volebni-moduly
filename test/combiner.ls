@@ -5,6 +5,7 @@ require! {
     "../src/parser_candidates"
     "../src/parser_counties"
     "../src/combiner"
+    xml2js
 }
 test = it
 describe "Parser for counties" ->
@@ -14,17 +15,17 @@ describe "Parser for counties" ->
     result     = null
     before (done) ->
         (err, volbyXml) <~ fs.readFile "#__dirname/data/vysledky_krajmesta.xml"
-        (err, parsedXml) <~ parser_counties.parse_county_list volbyXml
+        (err, volbyXml) <~ xml2js.parseString volbyXml
+        parsedXml = parser_counties.parse volbyXml
         counties := parsedXml
         (err, data) <~ fs.readFile "#__dirname/data/strany.csv"
         data .= toString!
         parties := parser_parties.parse data
         (err, data) <~ fs.readFile "#__dirname/data/kandidati.csv"
         (err, preferentialData) <~ fs.readFile "#__dirname/data/vysledky_kandid.xml"
+        (err, preferentialData) <~ xml2js.parseString preferentialData
         data .= toString!
-        preferentialData .= toString!
-        (err, data) <~ parser_candidates.parse data, preferentialData
-        candidates := data
+        candidates := parser_candidates.parse data, preferentialData
         done!
 
     test "should combine results" ->

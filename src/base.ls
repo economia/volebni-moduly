@@ -1,5 +1,6 @@
 require! {
-    "./VolbyDownloader"
+    # "./VolbyDownloader"
+    VolbyDownloader: "./DownloadSimulator"
     "./parser_parties"
     "./parser_candidates"
     "./parser_counties"

@@ -11,13 +11,14 @@ require! {
 }
 iconv = new Iconv 'iso-8859-2' 'utf-8'
 module.exports = class VolbyDowloader extends EventEmitter
-    prefix: \http://www.volby.cz/pls/ps2010/
+    prefix: null
     minimumInterval: 15
     sources: [
         {url: \vysledky interval: 30 type: \kraje short: \kraje}
         {url: \vysledky_kandid interval: 60 type: \preferencni short: \preferencni}
     ]
-    ->
+    (config) ->
+        @prefix = config.prefix
         struktura.okresy.forEach ~>
             @sources.push do
                 url: "vysledky_okres?nuts=#{it.id}"

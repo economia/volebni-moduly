@@ -1,4 +1,5 @@
 /node_modules
 /*.sublime-workspace
 /lib/*
+/src/config.ls
 /data/output

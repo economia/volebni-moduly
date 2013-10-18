@@ -6,17 +6,18 @@ require! {
     "./SubdatasetComputer"
     "./combiner"
     "./RedisSaver"
+    "./config"
     fs
     redis
 }
-redisClient = redis.createClient 6379 "192.168.123.57"
+redisClient = redis.createClient config.redis.port, config.redis.host
 redisSaver = new RedisSaver redisClient
 subdatasetComputer = new SubdatasetComputer
 (err, candidatesCsv) <~ fs.readFile "#__dirname/../data/kandidati.csv"
 candidatesCsv .= toString!
 (err, partiesCsv) <~ fs.readFile "#__dirname/../data/strany.csv"
 parties = parser_parties.parse partiesCsv.toString!
-volbyDownloader = new VolbyDownloader
+volbyDownloader = new VolbyDownloader config.downloader
 volbyDownloader.start!
 counties = null
 candidates = null

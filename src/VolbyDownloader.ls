@@ -55,8 +55,8 @@ module.exports = class VolbyDowloader extends EventEmitter
             date = root.$.DATUM_GENEROVANI
             time = root.$.CAS_GENEROVANI
             generated = moment do
-                date + " " + time
-                "DD/MM/YYYY HH:mm:ss"
+                date + " " + time + " +0200"
+                "DD/MM/YYYY HH:mm:ss Z"
             difference = Date.now! - generated.valueOf!
             difference /= 1000
             difference = Math.floor difference

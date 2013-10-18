@@ -17,6 +17,11 @@ module.exports = class RedisSaver
         (err) <~ @save \parties data
         cb? err
 
+    saveCountry: (parties, cb) ->
+        data = JSON.stringify parties
+        (err) <~ @save \country data
+        cb? err
+
     saveObec: (obecId, values, cb) ->
         pubObject = {}
         pubObject[obecId] = values

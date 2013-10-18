@@ -35,6 +35,7 @@ recompute = ->
             ..saveResults result
             ..saveCandidates subdatasetComputer.getCandidates!
             ..saveParties subdatasetComputer.getParties!
+            ..saveCountry subdatasetComputer.getCountry!
     catch ex
         console.error "Error in postprocess: ", ex
 

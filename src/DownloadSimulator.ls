@@ -27,6 +27,7 @@ module.exports = class DownloadSimulator extends EventEmitter
 
     loadNext: ->
         records = @offsets[@currentOffset]
+        @currentOffset++
         return if not records
         records.forEach ({name}) ~>
             parts = name.split "-"
@@ -37,5 +38,4 @@ module.exports = class DownloadSimulator extends EventEmitter
             (err, xml) <~ xml2js.parseString content
             @emit type, xml
 
-        @currentOffset++
 

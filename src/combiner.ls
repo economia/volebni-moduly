@@ -1,7 +1,7 @@
 require! {
-    mandaty: "../src/mandaty-po-kraji"
-    prefhlasy: "../src/preferencni-hlasy"
-    "../src/dhondt"
+    mandaty: "./mandaty-po-kraji"
+    prefhlasy: "./preferencni-hlasy"
+    "./dhondt"
 }
 module.exports.combine = (counties, parties, candidates) ->
     counties_assoc = {}

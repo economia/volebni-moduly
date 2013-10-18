@@ -4,6 +4,7 @@ require! {
     "./parser_parties"
     "./parser_candidates"
     "./parser_counties"
+    "./Parser_obce"
     "./SubdatasetComputer"
     "./combiner"
     "./RedisSaver"
@@ -18,6 +19,7 @@ subdatasetComputer = new SubdatasetComputer
 candidatesCsv .= toString!
 (err, partiesCsv) <~ fs.readFile "#__dirname/../data/strany.csv"
 parties = parser_parties.parse partiesCsv.toString!
+parser_obce = new Parser_obce parties
 volbyDownloader = new VolbyDownloader config.downloader
 volbyDownloader.start!
 counties = null
@@ -52,5 +54,9 @@ volbyDownloader.on \preferencni (xml) ->
     catch ex
         console.error "Error in computing", ex
 
-volbyDownloader.on \obce ->
+volbyDownloader.on \obce (xml) ->
     console.log "Obec loaded"
+    parser_obce.parse xml
+
+parser_obce.on \item (id, content) ->
+    redisSaver.saveObec id, content

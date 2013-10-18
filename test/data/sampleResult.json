@@ -3,6 +3,10 @@
     "id": 1,
     "name": "Hl. m. Praha",
     "votes": 637328,
+    "attendance_max": 943459,
+    "attendance_actual": 641416,
+    "processed_target": 1126,
+    "processed_actual": 1126,
     "parties": [
       {
         "id": 1,
@@ -7377,6 +7381,10 @@
     "id": 2,
     "name": "Středočeský",
     "votes": 630203,
+    "attendance_max": 986970,
+    "attendance_actual": 634206,
+    "processed_target": 2051,
+    "processed_actual": 2051,
     "parties": [
       {
         "id": 1,
@@ -14150,6 +14158,10 @@
     "id": 3,
     "name": "Jihočeský",
     "votes": 333117,
+    "attendance_max": 527294,
+    "attendance_actual": 335273,
+    "processed_target": 1370,
+    "processed_actual": 1370,
     "parties": [
       {
         "id": 1,
@@ -17904,6 +17916,10 @@
     "id": 4,
     "name": "Plzeňský",
     "votes": 280264,
+    "attendance_max": 457744,
+    "attendance_actual": 282324,
+    "processed_target": 1086,
+    "processed_actual": 1086,
     "parties": [
       {
         "id": 1,
@@ -21693,6 +21709,10 @@
     "id": 5,
     "name": "Karlovarský",
     "votes": 130162,
+    "attendance_max": 243174,
+    "attendance_actual": 131414,
+    "processed_target": 348,
+    "processed_actual": 348,
     "parties": [
       {
         "id": 1,
@@ -24200,6 +24220,10 @@
     "id": 6,
     "name": "Ústecký",
     "votes": 365800,
+    "attendance_max": 662175,
+    "attendance_actual": 368557,
+    "processed_target": 1046,
+    "processed_actual": 1046,
     "parties": [
       {
         "id": 4,
@@ -28172,6 +28196,10 @@
     "id": 7,
     "name": "Liberecký",
     "votes": 213917,
+    "attendance_max": 350916,
+    "attendance_actual": 215504,
+    "processed_target": 587,
+    "processed_actual": 587,
     "parties": [
       {
         "id": 1,
@@ -31336,6 +31364,10 @@
     "id": 8,
     "name": "Královéhradecký",
     "votes": 288981,
+    "attendance_max": 448399,
+    "attendance_actual": 291129,
+    "processed_target": 940,
+    "processed_actual": 940,
     "parties": [
       {
         "id": 1,
@@ -34778,6 +34810,10 @@
     "id": 9,
     "name": "Pardubický",
     "votes": 268863,
+    "attendance_max": 413460,
+    "attendance_actual": 270786,
+    "processed_target": 872,
+    "processed_actual": 872,
     "parties": [
       {
         "id": 1,
@@ -38065,6 +38101,10 @@
     "id": 10,
     "name": "Vysočina",
     "votes": 270872,
+    "attendance_max": 414918,
+    "attendance_actual": 272521,
+    "processed_target": 1136,
+    "processed_actual": 1136,
     "parties": [
       {
         "id": 1,
@@ -41568,6 +41608,10 @@
     "id": 11,
     "name": "Jihomoravský",
     "votes": 597136,
+    "attendance_max": 950098,
+    "attendance_actual": 601118,
+    "processed_target": 1408,
+    "processed_actual": 1408,
     "parties": [
       {
         "id": 1,
@@ -48428,6 +48472,10 @@
     "id": 12,
     "name": "Olomoucký",
     "votes": 321871,
+    "attendance_max": 522185,
+    "attendance_actual": 324404,
+    "processed_target": 925,
+    "processed_actual": 925,
     "parties": [
       {
         "id": 1,
@@ -52913,6 +52961,10 @@
     "id": 13,
     "name": "Zlínský",
     "votes": 308592,
+    "attendance_max": 483839,
+    "attendance_actual": 310944,
+    "processed_target": 684,
+    "processed_actual": 684,
     "parties": [
       {
         "id": 1,
@@ -56919,6 +56971,10 @@
     "id": 14,
     "name": "Moravskoslezský",
     "votes": 583753,
+    "attendance_max": 1011261,
+    "attendance_actual": 588502,
+    "processed_target": 1315,
+    "processed_actual": 1315,
     "parties": [
       {
         "id": 1,

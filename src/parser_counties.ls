@@ -5,12 +5,18 @@ module.exports.parse = (xml) ->
         id      = +kraj.$.CIS_KRAJ
         if kraj.CELKEM
             parties = getPartiesFromKrajmesta that
-            votes   = +kraj.CELKEM[0].UCAST[0].$.PLATNE_HLASY
+            ucast   = kraj.CELKEM[0].UCAST[0].$
         else
             parties = getPartiesFromMain kraj
-            votes   = +kraj.UCAST[0].$.PLATNE_HLASY
+            ucast   = kraj.UCAST[0].$
+        votes = +ucast.PLATNE_HLASY
 
-        {id, name, votes, parties}
+        attendance_max    = +ucast.ZAPSANI_VOLICI
+        attendance_actual = +ucast.VYDANE_OBALKY
+        processed_target  = +ucast.OKRSKY_CELKEM
+        processed_actual  = +ucast.OKRSKY_ZPRAC
+
+        {id, name, votes, attendance_max, attendance_actual, processed_target, processed_actual, parties}
 
 
 getPartiesFromKrajmesta = (celkem) ->

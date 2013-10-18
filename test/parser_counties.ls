@@ -33,6 +33,7 @@ describe "Parser for counties" ->
             expect list.0.parties .to.have.length 21
             expect list.0.parties.0 .to.have.property \id 1
             expect list.0.parties.0 .to.have.property \votes 1246
+
     describe "parsing from main dataset" ->
         before (done) ->
             (err, volbyXml) <~ fs.readFile "#__dirname/data/vysledky.xml"
@@ -52,6 +53,10 @@ describe "Parser for counties" ->
 
         test "should compute vote counts per county" ->
             expect list.2 .to.have.property \votes 333117
+            expect list.2 .to.have.property \attendance_max 527294
+            expect list.2 .to.have.property \attendance_actual 335273
+            expect list.2 .to.have.property \processed_target 1370
+            expect list.2 .to.have.property \processed_actual 1370
 
         test "should compute raw party results" ->
             expect list.0 .to.have.property \parties

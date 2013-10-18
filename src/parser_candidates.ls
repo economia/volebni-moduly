@@ -27,7 +27,7 @@ computePreferentialVotes = (preferentialVotesXml) ->
     preferentialVotesAssoc = {}
     preferentialVotesXml.VYSLEDKY_KANDID.KRAJ.forEach (county) ->
         countyId = +county.$.CIS_KRAJ
-        county.KANDIDATI.0.KANDIDAT.forEach (candidate) ->
+        county.KANDIDATI.0.KANDIDAT?forEach (candidate) ->
             partyId = +candidate.$.KSTRANA
             rank = +candidate.$.PORCISLO
             votes = +candidate.$.HLASY

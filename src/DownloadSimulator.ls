@@ -20,10 +20,14 @@ module.exports = class DownloadSimulator extends EventEmitter
             offset = it.time - firstTime
             @offsets[offset] ?= []
                 ..push it
-        @currentOffset = 0
+        @currentOffset = 100
+        # @offsets = []
+        # @offsets[0] =
+        #     *   name: \2013-10-18-11-15-23-kraje
+        #     *   name: \2013-10-18-11-14-29-preferencni
 
     start: ->
-        setInterval @~loadNext, 1000
+        setInterval @~loadNext, 100
 
     loadNext: ->
         records = @offsets[@currentOffset]

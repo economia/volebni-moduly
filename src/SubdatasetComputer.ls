@@ -18,6 +18,20 @@ module.exports = class SubdatasetComputer
         @sortCandidates output
         output
 
+    getCountry: ->
+        parties = @getParties!
+        attendance_max    = 0
+        attendance_actual = 0
+        processed_target  = 0
+        processed_actual  = 0
+        @dataset.forEach (county) ->
+            attendance_max    += county.attendance_max
+            attendance_actual += county.attendance_actual
+            processed_target  += county.processed_target
+            processed_actual  += county.processed_actual
+
+        {attendance_max, attendance_actual, processed_target, processed_actual, parties}
+
     loadCandidates: ->
         output = []
         @dataset.forEach ({parties}:county) ->

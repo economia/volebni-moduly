@@ -28,6 +28,15 @@ describe "Subdataset Computer" ->
         percent = Math.round parties.0.votes_sum_percent * 10000
         expect percent .to.equal 26
 
+    test "should produce country dataset" ->
+        country = subdatasetComputer.getCountry!
+        expect country .to.have.property \attendance_max 8_415_892
+        expect country .to.have.property \attendance_actual 5_268_098
+        expect country .to.have.property \processed_target 14_894
+        expect country .to.have.property \processed_actual 14_894
+        expect country .to.have.property \parties
+        expect country.parties.0 .to.have.property \votes_sum 13397
+
     test "should produce candidates dataset" ->
         candidates := subdatasetComputer.getCandidates!
         expect candidates .to.be.an \array

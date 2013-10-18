@@ -4,10 +4,9 @@ require! {
     "./dhondt"
 }
 module.exports.combine = (counties, parties, candidates) ->
-    counties_assoc = {}
     parties_assoc = {}
-    counties.forEach -> counties_assoc[it.id] = it
-    parties.forEach -> parties_assoc[it.id] = it
+    parties.forEach ->
+        parties_assoc[it.id] = {} <<< it
     county_party_candidates_assoc = {}
     computePartyTotals counties, parties_assoc
     counties.forEach (county) ->

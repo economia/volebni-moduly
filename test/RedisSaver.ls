@@ -119,8 +119,8 @@ describe "Redis saver" ->
                 ..subscribe "obce"
                 ..on \message (channel, message) ->
                     message = JSON.parse message
-                    expect message .to.have.property obecId
-                    expect message[obecId] .to.eql values
+                    expect message .to.have.property \id obecId
+                    expect message.values .to.eql values
                     messagesFired++
                     done! if messagesFired == 1
             redisSaver.saveObec obecId, values

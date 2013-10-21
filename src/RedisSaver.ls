@@ -23,9 +23,7 @@ module.exports = class RedisSaver
         cb? err
 
     saveObec: (obecId, values, cb) ->
-        pubObject = {}
-        pubObject[obecId] = values
-        pubValue = JSON.stringify pubObject
+        pubValue = JSON.stringify {id: obecId, values: values}
         hashValue = JSON.stringify values
         (err, existingValue) <~ @redisClient.hget \obce, obecId
         return cb? null if existingValue == hashValue

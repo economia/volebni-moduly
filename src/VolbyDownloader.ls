@@ -19,6 +19,9 @@ module.exports = class VolbyDowloader extends EventEmitter
     ]
     (config) ->
         @prefix = config.prefix
+        struktura.okresy.unshift id: \CZ0323
+        struktura.okresy.unshift id: \CZ0806
+        struktura.okresy.unshift id: \CZ0643
         struktura.okresy.forEach ~>
             @sources.push do
                 url: "vysledky_okres?nuts=#{it.id}"

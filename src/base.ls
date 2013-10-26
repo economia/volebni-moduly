@@ -1,6 +1,6 @@
 require! {
-    # "./VolbyDownloader"
-    VolbyDownloader: "./DownloadSimulator"
+    "./VolbyDownloader"
+    # VolbyDownloader: "./DownloadSimulator"
     "./parser_parties"
     "./parser_candidates"
     "./parser_counties"
@@ -38,6 +38,7 @@ recompute = ->
             ..saveCountry subdatasetComputer.getCountry!
     catch ex
         console.error "Error in postprocess: ", ex
+        console.error ex.stack
 
 volbyDownloader.on \kraje (xml) ->
     console.log "Kraje loaded"

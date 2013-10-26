@@ -24,6 +24,7 @@ module.exports.compute = (partyArray, mandateCount, options = {}) ->
             if options.lowestScoreProperty then partyArray[index][that] = score
         else if mandatesAwarded == mandateCount
             lastScore = scores[scoreIndex - 1]
+            break if not lastScore
             break if lastScore.index == index
             scoreDiff = lastScore.score - score
             if options.requiredVotesProperty

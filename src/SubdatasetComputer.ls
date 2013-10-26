@@ -8,9 +8,11 @@ module.exports = class SubdatasetComputer
         @forEachParty (party) ->
             return if party.id in partyIds_processed
             {id, name, abbr, votes_sum, votes_sum_percent} = party
+            votes_sum ?= 0
             votes_sum_percent = parseFloat votes_sum_percent.toFixed 4
             output.push {id, name, abbr, votes_sum, votes_sum_percent}
             partyIds_processed.push id
+        output.sort (a, b) -> b.votes_sum - a.votes_sum
         output
 
     getCandidates: ->

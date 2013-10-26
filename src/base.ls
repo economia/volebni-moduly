@@ -43,6 +43,7 @@ volbyDownloader.on \kraje (xml) ->
     console.log "Kraje loaded"
     try
         counties := parser_counties.parse xml
+        parser_obce.parseVysledkyToKraje xml
         recompute!
     catch ex
         console.error "Error in computing", ex

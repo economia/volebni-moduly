@@ -9,6 +9,7 @@ require! {
 test = it
 describe "Parser for obce" ->
     okresXml = null
+    krajeXml = null
     parser = null
     parties = null
     receivedData = {}
@@ -16,6 +17,11 @@ describe "Parser for obce" ->
         (err, data) <~ fs.readFile "#__dirname/data/vysledky_okres.xml"
         (err, okres) <~ xml2js.parseString data
         okresXml := okres
+
+        (err, data) <~ fs.readFile "#__dirname/data/vysledky.xml"
+        (err, okres) <~ xml2js.parseString data
+        krajeXml := okres
+
         (err, data) <~ fs.readFile "#__dirname/data/strany.csv"
         parties := parser_parties.parse data.toString!
         done!
@@ -44,3 +50,9 @@ describe "Parser for obce" ->
         expect receivedData['545406'].parties.0 .to.have.property \id 1
         expect receivedData['545406'].parties.0 .to.have.property \votes_sum 13
         expect receivedData['545406'].parties.0 .to.have.property \votes_sum_percent 0.039
+
+    test "should parse kraj-level results" ->
+        parser.parseVysledkyToKraje krajeXml
+        expect receivedData .to.have.property 'CZ010'
+        expect receivedData['CZ010'].parties.0 .to.have.property \id 1
+        expect receivedData['CZ010'].parties.0 .to.have.property \votes_sum 1246
